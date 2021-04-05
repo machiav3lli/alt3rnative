@@ -6,8 +6,8 @@
   
   * A database with information about security stand of huge range of Android devices.
 
-* - [F-Droid Known Repos](https://forum.f-droid.org/t/known-repositories)
-    - A list of the well known F-Droid repositories.
+* [F-Droid Known Repos](https://forum.f-droid.org/t/known-repositories)
+  * A list of the well known F-Droid repositories.
 
 ## Tools
 
