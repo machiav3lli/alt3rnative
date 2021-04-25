@@ -40,6 +40,10 @@
   
   * An **open-source** self-hosted photo gallery.
 
+* [PhotoPrism](https://photoprism.app)
+  
+  * An **open-source** self-hosted photo gallery. Uses Tensorflow to automate tagging.
+
 * [Photopea](https://www.photopea.com) or [FreeOnlinePhotoshop](https://www.freeonlinephotoshop.com)
   
   * Online photo editing software (not fully open-source).

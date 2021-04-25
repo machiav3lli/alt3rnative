@@ -31,6 +31,10 @@
 * [cvmaker](https://cvmkr.com)
   
   * An online-platform to create nice CVs.
+
+* [Personal Management System](https://github.com/Volmarg/personal-management-system)
+  
+  * An **open-source** personal data managerment dashboard.
 - [Personium](https://personium.io)
   
   - An **open-source** personal data store.

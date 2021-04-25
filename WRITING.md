@@ -4,6 +4,10 @@
 
 ## Tools
 
+* [Standard Notes](https://standardnotes.org)
+  
+  * An **open-source** end-to-end encrypted note platform/app.
+
 * [Zettlr](https://www.zettlr.com)
   
   * **Open-source** markdown-based notebooks writer.

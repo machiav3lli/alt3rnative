@@ -24,6 +24,10 @@
 
 ## Tools
 
+* [Calendso](https://calendso.com)
+  
+  * An **open-source** scheduling platform. Can also be self-hosted.
+
 * [Grocy](https://grocy.info)
   
   * An **open-source** self-hosted groceries & household management solution. Can be also used serverless.

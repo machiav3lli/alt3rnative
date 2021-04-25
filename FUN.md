@@ -2,6 +2,10 @@
 
 ## Resources
 
+* [I Wish There Was an app](https://iwishtherewas.app)
+  
+  * A Twitter crawler for app ideas.
+
 ## Tools
 
 * [A Soft Murmur](https://asoftmurmur.com)
@@ -11,6 +15,10 @@
 * [I Miss My Bar](http://imissmybar.com)
   
   * You miss your bar, I too. A website to create the ambient sound of your favorite bar and some weekly music suggestions.
+
+* [Lofi.Cafe](https://lofi.cafe)
+  
+  * Just go lofi! Music to relax/for work.
 
 * [Sokyokuban](https://sokyokuban.com)
   

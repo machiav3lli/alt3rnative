@@ -68,7 +68,11 @@
 
 * [ProgrammableWeb: APIs directory](https://www.programmableweb.com/category/all/apis)
   
-  * A huge collection of categorised well known APIs. 
+  * A huge collection of categorised well known APIs.
+
+* [Awesome GHA Snippets](https://github.com/yengoteam/awesome-gha-snippets)
+  
+  * A collection of useful snippets for Github Actions.
 
 ## Tools
 
@@ -159,6 +163,10 @@
 * [Codeberg](https://codeberg.org)
   
   * An **open-source** Berlin-based git repositories platform. Alternative to [Github](https://github.com) and [Gitlab](https://about.gitlab.com).
+
+* [Kalithea](https://kallithea-scm.org)
+  
+  * An **open-source** self-hosted source code management system with Git and Mercurial support.
 
 * [Shithub](https://shithub.us)
   

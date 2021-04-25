@@ -65,3 +65,7 @@
 * [EleutherAI](https://www.eleuther.ai)
   
   * A grassroots collective of researchers in the field of open-source AI.
+
+* [Project Lovelace](https://projectlovelace.net)
+  
+  * An open online platform where science meets programming.
