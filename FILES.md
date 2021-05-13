@@ -48,4 +48,8 @@
   
   * A group of tools for different types of files.
 
+* [KDE Connect](https://kdeconnect.kde.org)
+  
+  * An **open-source** cross-platform data (files, notifications, texts…) sharing app from the KDE team.
+
 ## Communities

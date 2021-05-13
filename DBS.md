@@ -26,6 +26,8 @@
   * A tool to create APIs out of Google sheets (Note that I don't encourge you to use Google products, but if you already, then this could be a nice tool for you).
 * [CloudBeaver](https://cloudbeaver.io)
   * An in-browser DB management system. Has an **open-source** community version.
+* [DbGate](https://dbgate.org)
+  * An **open-source** (smart) (no)SQL DBs GUI-client.
 
 ## Communities
 

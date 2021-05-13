@@ -74,7 +74,15 @@
   
   * A collection of useful snippets for Github Actions.
 
+* [Stack on Budget](https://github.com/255kb/stack-on-a-budget)
+  
+  * A curated list for developers of services with free tier.
+
 ## Tools
+
+* [readme.so](https://readme.so)
+  
+  * An **open-source** interactive README files creator.
 
 * [GitAhead](https://gitahead.github.io/gitahead.com)
   
@@ -187,6 +195,10 @@
 * [Cutter](https://cutter.re)
   
   * An **open-source** reverse engineering platform powered by [Rizin](https://rizin.re).
+
+* [GB Studio](https://www.gbstudio.dev)
+  
+  * A **open-source** drag-and-drop video game creator for the GameBoy.
 
 ## Communities
 

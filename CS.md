@@ -50,6 +50,10 @@
   
   * Learn VIM through playing games.
 
+* [Kobra](https://kobra.dev)
+  
+  * A visual programming language for machine learning. Nice as a teaching resource. 
+
 ## Tools
 
 * [Cryptii](https://cryptii.com)
@@ -59,6 +63,18 @@
 * [DevTube](https://dev.tube)
   
   * A search engine for the "best" developer talks on YT.
+
+* [PlantUML](https://plantuml.com)
+  
+  * The **open-source** for creating UML diagrams.
+
+* [diagrams.net](https://www.diagrams.net)
+  
+  - An **open-source** online diagramming and designing tool. Also provides an offline app which is still known with its old name Draw.io.
+
+* [swimlanes.io](https://swimlanes.io)
+  
+  * A simple online tool to create sequence diagrams.
 
 ## Communities
 

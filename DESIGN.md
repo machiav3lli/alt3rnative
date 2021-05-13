@@ -6,31 +6,66 @@
   
   * A project trying to enrich user experiences (UX) in FLOSS projects through discussion and collaboration.
 
+* [Sky-Design](https://github.com/joeygoksu/sky-design)
+  
+  - A CSS and design reference for interested developers.
+
+* [Mobile Design Resources](https://github.com/joeygoksu/mobile-design-resources)
+  
+  * A curated list of mobile design resources.
+
 ## Tools
 
+* [diagrams.net](https://www.diagrams.net)
+  
+  - An **open-source** online diagramming and designing tool. Also provides an offline app which is still known with its old name Draw.io.
+
 * [PenPot](https://penpot.app)
+  
   * The all new web-based **open-source** design platform.
+
 * [Akira](https://github.com/akiraux/Akira)
-  * Another realtively new promising offline **open-source** designing tool
+  
+  * Another realtively new promising offline **open-source** designing tool.
+
 * [Pencil Project](https://pencil.evolus.vn)
-  * The established **open-source** designing tool.
+  
+  * The established **open-source** designing tool. Since 2019 not active anymore.
+
 * [mydraft.cc](https://mydraft.cc)
+  
   * A nice **open-source** wireframing tool.
+
 * [Framer](https://www.framer.com)
+  
   * A freemium designing tool with relatively good open-source contributions.
+
 * [Eva Design System](https://colors.eva.design)
+  
   * A deep-learning colors generator.
+
 * [ColorBox](https://colorbox.io)
+  
   * A tool to mix and compare colors.
+
 * [RGB to HEX](https://www.rgbtohex.net/rgb)
+  
   * A tool to convert colors values and provide alternatives and spectrums.
+
 * [Sorted CSS Colors](https://enes.in/sorted-colors)
+  
   * A tool to navigate through the CSS colors.
+
 * [Wireflow](https://wireflow.co)
+  
   * An **open-source** tool to create user flow prototypes.
+
 * [Wired Designer](https://github.com/wiredjs/designer)
+  
   * An **open-source** tool to create wireframes and mockups.
+
 * [OpenChakra](https://openchakra.app)
+  
   * An **open-source** designs builder using Chakra UI components.
 
 ## Communities

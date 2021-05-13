@@ -48,9 +48,9 @@
   
   * An **open-source** project management software. Fits also individual desktop usage for TODOs.
 
-* [diagrams.net](https://www.diagrams.net/)
+* [diagrams.net](https://www.diagrams.net)
   
-  * An **open-source** diagramming and designing tool. Also provides an online tool. 
+  * An **open-source** online diagramming and designing tool. Also provides an offline app which is still known with its old name Draw.io.
 
 * [Excalidraw](https://excalidraw.com/)
   
