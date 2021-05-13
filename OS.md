@@ -52,6 +52,10 @@
   
   * A backup tool compatible with most modern UNIX OSs.
 
+* [KDE Connect](https://kdeconnect.kde.org)
+  
+  - An **open-source** cross-platform data (files, notifications, texts…) sharing app from the KDE team.
+
 ## Communities
 
 * [MX Linux](https://mxlinux.org)

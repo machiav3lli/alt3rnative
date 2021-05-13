@@ -63,6 +63,18 @@
   
   - An automated diet creator.
 
+- [Fokus](https://fokus-website.netlify.app)
+  
+  - An **open-source** todo-list app with ton of in-depth features.
+
+- [Diary App](https://github.com/theArjun/diary-app)
+  
+  - An **open-source** diary app with some nice quirks.
+
+- [B2NTP](https://github.com/d3ward/b2ntp)
+  
+  - An **open-source** browser plug-in that puts Kanaban-styled board of your bookmarks as the new tab page.
+
 ## Communities
 
 * [CV](https://read.cv)

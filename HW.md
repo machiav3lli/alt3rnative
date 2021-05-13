@@ -8,6 +8,8 @@
   * A Berliner firm building an **open-source**, open hardware laptops.
 * [Shift](https://www.shiftphones.com)
   * A german firm building smartphones with focus on fairness and sustainability.
+* [Pine64](https://www.pine64.org)
+  * A pioneer of **open-source** arm-based hardware.
 * [Slimbook](https://slimbook.es)
   * A firm building wide range of linux laptops with generally better prices as [Tuxedo](https://www.tuxedocomputers.com).
 * [System76](https://system76.com) & [Purism](https://puri.sm)

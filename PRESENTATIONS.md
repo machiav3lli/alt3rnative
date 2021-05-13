@@ -40,6 +40,14 @@
   
   * The freemium markdown-based presentations' tool.
 
+* [Slidev](https://sli.dev)
+  
+  * An **open-source** markdown-based presentations creator using Vue3.
+
+* [MarkShow](https://mark.show)
+  
+  * A markdown-based presentations creator.
+
 * [Swipe](https://www.swipe.to)
   
   * Live freemium presentation tool.

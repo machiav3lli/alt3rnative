@@ -38,6 +38,10 @@
   
   * The MIT Press open access portal.
 
+* [Literary Hub](https://lithub.com)
+  
+  * A specialized platform in literary. 
+
 ## Tools
 
 * [Typesense open-library](https://books-search.typesense.org)
@@ -55,6 +59,10 @@
 * [A book like foo](https://abooklikefoo.com)
   
   * Books recommendations' platform. Unique here is its [Escape](https://abooklikefoo.com/escape), where you get books recommended to you out of your literary buble.
+
+* [Shepherd](https://shepherd.com)
+  
+  * A books recommendations platform where books get presented based on specific topics.
 
 * [Tastedive](https://tastedive.com)
   

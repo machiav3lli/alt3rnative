@@ -68,4 +68,8 @@
   
   * An **open-source** raw photo editor based on the process of developing films.
 
+* [Imagine](https://github.com/meowtec/Imagine)
+  
+  * An **open-source** app for image compression with modern UI.
+
 ## Communities

@@ -12,4 +12,8 @@
   
   * A tool to search the Internet Archive for articles and research papers.
 
+* [Litmaps](https://app.litmaps.co)
+  
+  * A tool to create literary maps of article citations etc.
+
 ## Communities

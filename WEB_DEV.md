@@ -22,6 +22,10 @@
   
   * An **open-source** framework-agnostic library of every day UI web components.
 
+* [Sky-Design](https://github.com/joeygoksu/sky-design)
+  
+  * A CSS and design reference for interested developers.
+
 ## Tools
 
 * [Weweb](https://www.weweb.io)
@@ -39,5 +43,9 @@
 * [Percy](https://percy.io)
   
   * A visual reviewing platform.
+
+* [Crossbar.io](https://crossbar.io)
+  
+  * An **open-source** networking platform to connect microservice and distributed applications.
 
 ## Communities
