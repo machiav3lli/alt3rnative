@@ -34,7 +34,7 @@
 
 * [mydraft.cc](https://mydraft.cc)
   
-  * A nice **open-source** wireframing tool.
+  * A nice **open-source** wireframing/UX tool.
 
 * [Framer](https://www.framer.com)
   
@@ -67,6 +67,22 @@
 * [OpenChakra](https://openchakra.app)
   
   * An **open-source** designs builder using Chakra UI components.
+
+* [Gravit Designer](https://www.designer.io)
+  
+  * A freemium vector graphics designer (web-)app. One of the better Figma cross-platform alternatives with realtively usable free account.
+
+* [FluidUI](https://www.fluidui.com)
+  
+  * A UI/UX designer app with a companion app on iOS and Android to run your mocks.
+
+* [Moqups](https://moqups.com)
+  
+  * Another (as the name suggests) mockups/UX desiging apps.
+
+* [UXPin](https://www.uxpin.com)
+  
+  * One of the most comprehensive designing web-app. But not the cheapest (at least under the mentioned alternatives).
 
 ## Communities
 

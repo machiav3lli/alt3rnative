@@ -75,6 +75,14 @@
   
   - An **open-source** browser plug-in that puts Kanaban-styled board of your bookmarks as the new tab page.
 
+- [LinkAce](https://www.linkace.org)
+  
+  - An **open-source** self-hostable bookmarks archive.
+
+- [Archivebox](https://archivebox.io)
+  
+  - An **open-source** self-hostable internet archiving tool for everything you surf.
+
 ## Communities
 
 * [CV](https://read.cv)

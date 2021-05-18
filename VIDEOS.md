@@ -4,7 +4,7 @@
 
 * [PeerTube](https://libre.video)
   
-  * An instance of PeerTube the most established decentralized YouTube alternative.
+  * An instance of PeerTube the most established **open-source** decentralized YouTube alternative.
 
 * [Pexels](https://www.pexels.com)
   
@@ -17,6 +17,10 @@
 * [LBRY](https://lbry.com)
   
   * **Open-source** crypto-based video platform.
+
+* [Invidious](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)
+  
+  * A list of the public Invidious instances. [Invidious](https://github.com/iv-org/invidious) is an **open-source** Youtube front-end with privacy focused features.
 
 ## Tools
 
@@ -35,5 +39,9 @@
 * [MODFY](https://modfy.video)
   
   * A freemium tool to edit videos within your browser.
+
+* [FreeTube](https://freetubeapp.io)
+  
+  * An **open-source** Youtube/Invidious desktop client with some great features.
 
 ## Communities

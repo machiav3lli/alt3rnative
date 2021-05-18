@@ -30,6 +30,10 @@
   
   * A flash cards learning tool, that has focus on teaching and being taught.
 
+* [Manuzoid](https://manuzoid.com)
+  
+  * A search engine for consumers' products' manuals.
+
 ## Tools
 
 * [Class Central](https://www.classcentral.com)

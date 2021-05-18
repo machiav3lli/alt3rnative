@@ -42,6 +42,10 @@
   
   * Hierarchical note taking tool with back-linking map and some nice features.
 
+* [Overleaf](https://www.overleaf.com)
+  
+  * A freemium **open-source** latex editor.
+
 * [Baller To Do](https://ballertodo.com)
   
   * Eisenhawer-matrix based todo listing.
