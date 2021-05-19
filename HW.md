@@ -32,3 +32,7 @@
 * [Linux Smartphones](https://linuxsmartphones.com)
   
   * A news website all about Linux on mobile devices.
+
+* [Sustaphones](https://www.sustaphones.com)
+  
+  * A database holding information on the sustainability of smartphones e.g. iFixit score, having LOS option or if battery is swappable. 

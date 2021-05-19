@@ -46,4 +46,8 @@
   
   * An **open-source** tool and platform to create custom maps from OSM data.
 
+* [MapChart](https://mapchart.net)
+  
+  * A tool to create your custom (world) map.
+
 ## Communities

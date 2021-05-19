@@ -44,4 +44,16 @@
   
   * An **open-source** Youtube/Invidious desktop client with some great features.
 
+* [SponsorBlock](https://sponsor.ajay.app)
+  
+  * An **open-source** crowdsourced database of sponsors' segments in YouTube videos to allow to block those. It has apps for different OSs and extensions for different browsers. Also newly integrated in FreeTube. 
+
+* [Movie-Map](https://www.movie-map.com)
+  
+  * A tool to show you similar movies to your search input. Managed by [Global Network Of Discovery](https://www.gnod.com) and accompanied by a [Discover project](https://www.gnovies.com).
+
 ## Communities
+
+* [DRM-Free Guide](https://www.defectivebydesign.org/guide)
+  
+  - A crowdsourced list of resources and tools of DRM-free multimedia (ebooks, videos, audios and software).

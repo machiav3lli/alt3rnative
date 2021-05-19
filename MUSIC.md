@@ -40,10 +40,16 @@
   
   * Find the music you heard in a movie or a series.
 
-* 
+* [Music-Map](https://www.music-map.com)
+  
+  - A tool to show you similar music to your search input. Managed by [Global Network Of Discovery](https://www.gnod.com) and accompanied by a [Discover project](https://www.gnoosic.com).
 
 ## Communities
 
 * [Openwhyd](https://openwhyd.org/)
   
   * Music "Gems" community
+
+* [DRM-Free Guide](https://www.defectivebydesign.org/guide)
+  
+  * A crowdsourced list of resources and tools of DRM-free multimedia (ebooks, videos, audios and software).

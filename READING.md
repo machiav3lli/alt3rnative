@@ -42,6 +42,10 @@
   
   * A specialized platform in literary. 
 
+* [Standard Books](https://standardebooks.org)
+  
+  * A volunteer-driven project that makes free open sourced ebooks out of public domain books.
+
 ## Tools
 
 * [Typesense open-library](https://books-search.typesense.org)
@@ -71,6 +75,14 @@
   
   - An **open-source** web app to browse [calibre](https://calibre-ebook.com) databases.
 
+- [Literature-Map](https://www.literature-map.com)
+  
+  - A tool to show you similar books to your search input. Managed by [Global Network Of Discovery](https://www.gnod.com) and accompanied by a [Discover project](https://www.gnooks.com).
+
+- [PDF Drive](https://www.pdfdrive.com)
+  
+  - A search engine for .pdf files.
+
 ## Community
 
 * [ResearchGate](https://www.researchgate.net)
@@ -80,3 +92,7 @@
 * [Academia](https://www.academia.edu)
   
   * The traditional community of academics.
+
+* [DRM-Free Guide](https://www.defectivebydesign.org/guide)
+  
+  - A crowdsourced list of resources and tools of DRM-free multimedia (ebooks, videos, audios and software).

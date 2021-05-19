@@ -56,6 +56,10 @@
   
   - An **open-source** cross-platform data (files, notifications, texts…) sharing app from the KDE team.
 
+* [Homebrew](https://brew.sh)
+  
+  * A package manager mainly for macOS but also for Linux.
+
 ## Communities
 
 * [MX Linux](https://mxlinux.org)

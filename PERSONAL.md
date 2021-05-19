@@ -14,6 +14,10 @@
   
   * A cloud service provider that focuses on letting you run your choice of OS remotely.
 
+* [BrainyQuotes](https://www.brainyquote.com)
+  
+  * A big database of quotes of well-known people. 
+
 ## Tools
 
 * [TagSpaces](https://www.tagspaces.org)
@@ -83,6 +87,10 @@
   
   - An **open-source** self-hostable internet archiving tool for everything you surf.
 
+- [Burnout Index](https://burnoutindex.yerbo.co)
+  
+  - A burnout index test with some insights.
+
 ## Communities
 
 * [CV](https://read.cv)
@@ -96,3 +104,7 @@
 * [SELLFF](https://sellff.com)
   
   * A new alternative for LinkedIn "network of professionals".
+
+* [Sourceful](https://sourceful.us)
+  
+  * A database of (useful) public documents shared on google's docs.

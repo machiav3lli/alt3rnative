@@ -6,6 +6,18 @@
   
   * The globally biggest facts and statistics platform.
 
+* [OSF](https://osf.io)
+  
+  * A free and open platform for researches.
+
+* [The World Bank - Data Bank](https://databank.worldbank.org)
+  
+  * One of the biggest databases on stats of our world and history.
+
+* [Arxiv](https://arxiv.org)
+  
+  * Cornell University open-access archive of scholarly articles mainly in the fields of natural sciences. 
+
 ## Tools
 
 * [Internet Archive Scholar](https://scholar.archive.org)
@@ -15,5 +27,13 @@
 * [Litmaps](https://app.litmaps.co)
   
   * A tool to create literary maps of article citations etc.
+
+* [Observable](https://observablehq.com)
+  
+  * A data visualisation and analyse platform.
+
+* [WolframAlpha](https://www.wolframalpha.com)
+  
+  * A on-science focused search engine.
 
 ## Communities
