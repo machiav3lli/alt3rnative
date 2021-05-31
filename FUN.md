@@ -28,6 +28,10 @@
   
   * A fusion of hyperbolic plane and Sokoban. Have fun!
 
+* [Uji](https://doersino.github.io/uji)
+  
+  * An **open-source** simple generative art tool.
+
 ## Communities
 
 * [Roleplayful](https://roleplayful.com)

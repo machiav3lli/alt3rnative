@@ -44,6 +44,10 @@
   
   - A tool to show you similar music to your search input. Managed by [Global Network Of Discovery](https://www.gnod.com) and accompanied by a [Discover project](https://www.gnoosic.com).
 
+* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)
+  
+  * An **open-source** cross-platform music downloader.
+
 ## Communities
 
 * [Openwhyd](https://openwhyd.org/)

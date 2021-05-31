@@ -44,4 +44,8 @@
 
 * [Hummingbard](https://hummingbard.com)
   
-  * An experimental decentral social network based on Matrix. 
+  * An experimental decentral social network based on Matrix.
+
+* [Aether](https://getaether.net)
+  
+  * An **open-source** decentral self-governing/democratic communities.

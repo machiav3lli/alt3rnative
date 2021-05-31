@@ -36,4 +36,20 @@
   
   * A on-science focused search engine.
 
+* [Ninfex](https://ninfex.com)
+  
+  * A people powered search engine with a community around it.
+
+* [txtai](https://github.com/neuml/txtai)
+  
+  * An **open-source** AI powered text search engine.
+
+* [ZMap](https://zmap.io)
+  
+  * An **open-source** project with collection of tools to perform large-scale data search.  
+
 ## Communities
+
+* [ResearchHub](https://www.researchhub.com)
+  
+  * A social platform to share and contribute to (open) researches.

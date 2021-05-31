@@ -54,7 +54,11 @@
 
 * [Spotifeed](https://github.com/timdorr/spotifeed)
   
-  * An **open-source** service to serve Spotify podcasts as RSS feeds. 
+  * An **open-source** service to serve Spotify podcasts as RSS feeds.
+
+* [Streetmix](https://streetmix.net)
+  
+  * A social network to share your version of your street. Share ideas and visions.
 
 ## Communities
 

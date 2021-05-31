@@ -18,6 +18,10 @@
   
   * A big database of quotes of well-known people. 
 
+* [Random Cognitive Bias](https://benwiederhake.github.io/randombias)
+  
+  * Get to know a new cognitive bias each time you open this website.
+
 ## Tools
 
 * [TagSpaces](https://www.tagspaces.org)
@@ -90,6 +94,14 @@
 - [Burnout Index](https://burnoutindex.yerbo.co)
   
   - A burnout index test with some insights.
+
+- [Vandal](https://vegetableman.github.io/vandal)
+  
+  - A browser extension to navigate history of websites through the [Wayback Machine](https://web.archive.org).
+
+- [NocoDB](https://www.nocodb.com)
+  
+  - An **open-source** Airtable alternative.
 
 ## Communities
 

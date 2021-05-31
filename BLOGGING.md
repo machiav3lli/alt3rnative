@@ -21,13 +21,25 @@
   
   - Cause when micro-blogging is mentioned, Mastodon is always there (at least in FOSS community). I Encourage you also to check the registered [instances list](https://joinmastodon.org/communities).
 
+- [Microblog.pub](https://github.com/tsileo/microblog.pub)
+  
+  - An **open-source** self-hosted federated microblog platform.
+
 - [Micro.blog](https://micro.blog)
   
   - Freemium Micro-blogging platform for independent blogs
 
+- [dynablogger](https://www.dynablogger.com)
+  
+  - A blogs hosting platform with all the basics.
+
 - [Dumbdown/Scroll](https://github.com/treenotation/dumbdown/blob/master/scroll/readme.md)
   
   - An **open-source** static publishing software builds upon dumbdown, the markdown dialect.
+
+- [Bibliogram](https://bibliogram.art)
+  
+  - An **open-source** instagram front-end.
 
 ## Tools
 

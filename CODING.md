@@ -78,11 +78,23 @@
   
   * A curated list for developers of services with free tier.
 
+* [appwrite](https://appwrite.io)
+  
+  * An **open-source** firebase(analytics++) alternative.
+
+* [pakkly](https://pakkly.com)
+  
+  * A software distribution platform. Free of costs for open-source projects.
+
 ## Tools
 
 * [readme.so](https://readme.so)
   
   * An **open-source** interactive README files creator.
+
+* [MkDocs](https://www.mkdocs.org)
+  
+  * An **open-source** documentation-focused static site generator.
 
 * [GitAhead](https://gitahead.github.io/gitahead.com)
   
@@ -123,6 +135,10 @@
 * [Git-peek](https://github.com/jarred-sumner/git-peek)
   
   * An **open-source** tool to navigate git repos locally.
+
+* [replit](https://replit.com)
+  
+  * Colaborative in-browser IDE.
 
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
   

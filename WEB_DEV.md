@@ -48,4 +48,12 @@
   
   * An **open-source** networking platform to connect microservice and distributed applications.
 
+* [Responsivize](https://virejdasani.github.io/Responsivize)
+  
+  * An **open-source** app to help check the responsive design of your website.
+
+* [typesense](https://typesense.org)
+  
+  * An opens-source search engine.
+
 ## Communities
