@@ -1,4 +1,4 @@
-# Blogging
+# Blogging & Microblogging
 
 ## Resources
 

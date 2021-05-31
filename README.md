@@ -12,7 +12,7 @@ Each of the topics covers a realm of resources, tools and communities.
 
 * [Android](ANDROID.md)
 
-* [Blogging](BLOGGING.md)
+* [Blogging & Microblogging](BLOGGING.md)
 
 * [Coding](CODING.md)
 
