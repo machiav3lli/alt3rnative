@@ -20,9 +20,9 @@
   
   * A free hosted version of the open-source office suite.
 
-* [CodiMD](https://pad.snopyta.org)
+* [HedgeDoc](https://hedgedoc.org/)
   
-  * Snopyta's instance of the **open-source** markdown-based collaboration platform.
+  * Snopyta's instance of the **open-source** markdown-based collaboration platform. [Snopyta's instance](https://pad.snopyta.org).
 
 * [Boost Note](https://boostnote.io)
   
