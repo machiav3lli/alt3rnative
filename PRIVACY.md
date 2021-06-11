@@ -14,7 +14,11 @@
 
 * [Blacklight](https://themarkup.org/blacklight)
   
-  * A real-time websites privacy inspector.  
+  * A real-time websites privacy inspector.
+
+* [Ad Block Tester](https://d3ward.github.io/toolz/src/adblock.html)
+  
+  * An **open-source** web-app to evaluate how good your ad-blocker is.
 
 ## Communities
 
@@ -25,3 +29,7 @@
 * [SecureDrop](https://securedrop.org)
   
   * An **open-source** "whistleblower submission system" to share files ananymously.
+
+* [European Digital Rights](https://edri.org)
+  
+  * A platform of experts and activists in the field of digital rights.

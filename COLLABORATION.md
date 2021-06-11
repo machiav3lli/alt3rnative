@@ -32,17 +32,13 @@
   
   * An **open-source** freemium end-to-end encrypted collaborative note taking app.
 
-* [CryptPad](https://cryptpad.fr)
-  
-  * The **open-source** office-and-further collaboration platform.
-
 * [Documize](https://www.documize.com/)
   
   * An **open-source** (freemium-hosted) documents collaboration platform.
 
 * [Kanboard](https://kanboard.org/)
   
-  * Free and **open-source** kanbab project management software.
+  * Free and **open-source** kanban project management software.
 
 * [Focalboard](https://www.focalboard.com)
   
@@ -91,6 +87,14 @@
 * [Campr](https://campr.biz)
   
   * An **open-source** project management platform for every type of projects.
+
+* [Zulip](https://zulip.com) & [Rocket.chat](https://rocket.chat)
+  
+  * **Open-source** (self-hostable) communication and colaboration platform. Good alternatives for Slack.
+
+* [Mattermost](https://mattermost.org)
+  
+  * An **open-source** self-hosted channels-based communication platform. Good alternative for Discord. 
 
 ## Communities
 

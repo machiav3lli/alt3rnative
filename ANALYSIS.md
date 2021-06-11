@@ -28,4 +28,8 @@
   
   * An **open-source** automated exploratory data analysis tool.
 
+* [Flat Data](https://octo.github.com/projects/flat-data)
+  
+  * A set of **open-source** tools to ease git-scraping.
+
 ## Communities

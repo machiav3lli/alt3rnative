@@ -103,6 +103,10 @@
   
   - An **open-source** Airtable alternative.
 
+- [Mail-in-a-Box](https://mailinabox.email)
+  
+  - An **open-source** email server that's super easy to deploy.
+
 ## Communities
 
 * [CV](https://read.cv)

@@ -26,9 +26,17 @@
   
   * **Open-source** todo list with GitHub, GitLab and Jira integration available for desktop and as web app.
 
+* [Hyperdraft](https://hyperdraft.rosano.ca)
+  
+  * An **open-source** markdown-based documentation and wiki platform web app. 
+
 * [TiddlyWiki](https://tiddlywiki.com)
   
   * **Open-source** non-linear personal notebooks writer. There's also a great downstream with a punch of plugins integrated into it called [Tiddly Research](https://github.com/kebifurai/TiddlyResearch).
+
+* [Foam](https://foambubble.github.io/foam)
+  
+  * An **open-source** personal knowledge management and sharing system for VSCode.
 
 * [Dendron](https://dendron.so)
   
@@ -45,6 +53,10 @@
 * [Overleaf](https://www.overleaf.com)
   
   * A freemium **open-source** latex editor.
+
+* [FidusWriter](https://www.fiduswriter.org)
+  
+  * An **open-source** (self-hostable) online latex editor.
 
 * [Baller To Do](https://ballertodo.com)
   

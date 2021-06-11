@@ -68,3 +68,5 @@
   * An **open-source** self-hosted website with social networks' structure, so you can build your social network around it.
 * [ThreeThingsDaily](https://threethingsdaily.xyz)
   * A platform hosting the daily posts of users showing their gratitude over three things.
+* [One Army](https://www.onearmy.earth)
+  - A community platform for projects tackling global issues (i.e. plastic waste).
