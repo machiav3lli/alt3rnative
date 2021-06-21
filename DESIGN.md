@@ -14,6 +14,26 @@
   
   * A curated list of mobile design resources.
 
+* [Game UI Database](https://www.gameuidatabase.com)
+  
+  * A platform with data available on the UI of hundreds of games.
+
+* [Fantasy UIs](https://www.pushing-pixels.org/fui)
+  
+  * A nicely documented presentations of the UIs used in different sci-fi films/series.
+
+* [KIT FUI](https://www.saji8k.com/kit-fui)
+  
+  * UI from movies, tv, video games and more.
+
+* [Hack Design](https://hackdesign.org)
+  
+  * An easy to follow UI/UX course.
+
+* [UX tools](https://uxtools.co)
+  
+  * A learning platform for UI/UX concepts.
+
 ## Tools
 
 * [diagrams.net](https://www.diagrams.net)

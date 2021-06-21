@@ -86,6 +86,10 @@
   
   * A software distribution platform. Free of costs for open-source projects.
 
+* [open-source-insights](https://deps.dev)
+  
+  * An open-source-dependencies analysing platform with a huge database with the aim to make problems of dependencies more transparent.
+
 ## Tools
 
 * [readme.so](https://readme.so)
@@ -218,7 +222,23 @@
 
 * [OnlineGDB](https://www.onlinegdb.com)
   
-  * An online IDE based on GDB for you to debug your code on the go. 
+  * An online IDE based on GDB for you to debug your code on the go.
+
+* [ToolJet](https://github.com/ToolJet/ToolJet)
+  
+  * An **open-source** no-code platform for building and deploying internal tools.
+
+* [AppGyver's Composer Pro](https://www.appgyver.com)
+  
+  * A 0-code app cross-platform view&block-based apps development environment.
+
+* [Zeal](https://zealdocs.org)
+  
+  * An **open-source** offline documentations browser.
+
+* [Gooey](https://github.com/chriskiehl/Gooey)
+  
+  * An **open-source** Python-framework to easily turn command line programs into a full GUI apps.
 
 ## Communities
 

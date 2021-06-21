@@ -48,6 +48,10 @@
   
   * An **open-source** cross-platform music downloader.
 
+* [SonoBus](https://github.com/sonosaurus/sonobus)
+  
+  * An **open-source** cross-platform real-time audio streaming tool.
+
 ## Communities
 
 * [Openwhyd](https://openwhyd.org/)

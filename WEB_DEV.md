@@ -2,6 +2,10 @@
 
 ## Resources
 
+* [MDN Web Docs](https://developer.mozilla.org)
+  
+  * The open documentation for the web developers. Along [W3C](https://www.w3.org) the go-to platform for Web-Devs. And I dare to say: Mozilla's most successful project.
+
 * [Tauri](https://tauri.studio)
   
   * An **open-source** light cross-platform development framework. An alternative for Proton. Still in alpha.
@@ -25,6 +29,10 @@
 * [Sky-Design](https://github.com/joeygoksu/sky-design)
   
   * A CSS and design reference for interested developers.
+
+* [Ultimate list of youtubers for Web-Dev](https://devandgear.com/blog/youtube-channels-web-development-and-programming)
+  
+  * A curated list of interesting youtubers to help by web-development and programming.
 
 ## Tools
 
@@ -55,5 +63,17 @@
 * [typesense](https://typesense.org)
   
   * An opens-source search engine.
+
+* [Lowdefy](https://github.com/lowdefy/lowdefy)
+  
+  * An **open-source** (self-hosted) low-code framework to build web apps with YAML/JSON.
+
+* [strapi](https://strapi.io)
+  
+  * An **open-source** (self-hosted/premium) general purpose CMS.
+
+* [Utopia](https://github.com/concrete-utopia/utopia)
+  
+  * An **open-source** in-browser React designing and development environment.
 
 ## Communities

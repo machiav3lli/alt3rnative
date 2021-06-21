@@ -22,6 +22,10 @@
   
   * Get to know a new cognitive bias each time you open this website.
 
+* [RoutineDB](https://www.routinedb.com)
+  
+  * A crowd-sourced database of fitness routines.
+
 ## Tools
 
 * [TagSpaces](https://www.tagspaces.org)
@@ -106,6 +110,10 @@
 - [Mail-in-a-Box](https://mailinabox.email)
   
   - An **open-source** email server that's super easy to deploy.
+
+- [Mighty](https://www.mightyapp.com)
+  
+  - A new premium streaming-based browser. A very interesting project.
 
 ## Communities
 

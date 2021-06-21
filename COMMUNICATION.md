@@ -10,7 +10,7 @@
   
   * Get a disposable email address.
 
-* [Monica]([Personal CRM done right - Monica](https://www.monicahq.com))
+* [Monica](https://www.monicahq.com)
   
   - Your **open-source** personal relation manager.
 - [Trash Email](https://github.com/r0hi7/Trashemail)
@@ -22,6 +22,10 @@
 * [Jitsi](https://meet.jit.si)
   
   * The **open-source** decentralised video conferencing platform. Can be self-hosted.
+
+* [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/)
+  
+  * An **open-source** tool to fake your webcam background on Linux.
 
 * [Berty](https://berty.tech)
   

@@ -32,4 +32,8 @@
   
   * A set of **open-source** tools to ease git-scraping.
 
+* [zet](https://github.com/yarrow/zet)
+  
+  * An **open-source** command line utility to find the union, intersection, set difference, etc of textual(line-based files) files.
+
 ## Communities

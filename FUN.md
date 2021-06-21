@@ -14,6 +14,10 @@
   
   * A collection of photos showing scenes of inequality from our world.
 
+* [Wayfinder](https://wayfinder.nfb.ca)
+  
+  * An animated relaxing game from the canadian National Film Board
+
 ## Tools
 
 * [A Soft Murmur](https://asoftmurmur.com)
@@ -36,10 +40,12 @@
   
   * An **open-source** simple generative art tool.
 
+* [StumblingOn](https://stumblingon.com)
+  
+  * A web page with a database of interesting websites, from which you can discover some randomly.
+
 ## Communities
 
 * [Roleplayful](https://roleplayful.com)
   
   * A platform to find people with whom you can play tabletop games.
-
-* 

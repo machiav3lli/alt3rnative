@@ -10,7 +10,7 @@
   - An **open-source** platform for bug bounty hunters for open-source projects.
 * [IssueHunt](https://issuehunt.io)
   * A platform for funded issues and bug bounty hunters for open-source projects.
-* [Up For Grabs]([Up For Grabs](https://up-for-grabs.net)
+* [Up For Grabs](https://up-for-grabs.net)
   * An **open-source** platform to find issues for first-time contribution to open-source projects.
 * [F-Droid Known Repos](https://forum.f-droid.org/t/known-repositories)
   * A list of the well known F-Droid repositories.

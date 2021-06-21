@@ -60,6 +60,10 @@
   
   * A package manager mainly for macOS but also for Linux.
 
+* [Kopia](https://kopia.io)
+  
+  * An **open-source** backup solution.
+
 ## Communities
 
 * [MX Linux](https://mxlinux.org)
@@ -116,4 +120,12 @@
 
 * [SailfishOS](https://sailfishos.org)
   
-  * An **open-source** mobile OS with (full) Android compatibility. 
+  * An **open-source** mobile OS with (full) Android compatibility.
+
+* [CuteFishOS](https://cutefishos.com)
+  
+  * A new **open-source** linux distro with a  fresh unique DE.
+
+* [CyberOS](https://getcyberos.org)
+  
+  * An **open-source** arch-linux-based distro with a qt-quick-based DE.

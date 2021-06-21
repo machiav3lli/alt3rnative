@@ -14,14 +14,20 @@
 
 * [Ghostwriter](https://wereturtle.github.io/ghostwriter)
   
-  - An **open-source** markdown-based writer app with focus on clean UX.
-- [Mark Text](https://marktext.app)
-  
-  - An **open-source** markdown-based writer app with focus on features.
+  * An **open-source** markdown-based writer app with focus on clean UX.
 
-- [lite](https://github.com/rxi/lite)
+* [Mark Text](https://marktext.app)
   
-  - An **open-source** lightweight text editor written in Lua.
+  * An **open-source** markdown-based writer app with focus on features.
+
+* [novelWriter](https://github.com/vkbo/novelWriter)
+  
+  * An **open-source** markdown-based editor designed for writing novels.
+
+* [lite](https://github.com/rxi/lite)
+  
+  * An **open-source** lightweight text editor written in Lua.
+
 * [Super Productivity](https://super-productivity.com)
   
   * **Open-source** todo list with GitHub, GitLab and Jira integration available for desktop and as web app.
@@ -40,7 +46,7 @@
 
 * [Dendron](https://dendron.so)
   
-  * **Open-source** hierarchical note taking tool which can be installed as a [VSCodium](https://github.com/VSCodium/vscodium) plugin
+  * **Open-source** hierarchical note taking tool which can be installed as a [VSCodium](https://github.com/VSCodium/vscodium) plugin.
 
 * [Trilium Notes](https://github.com/zadam/trilium)
   
@@ -69,5 +75,13 @@
 * [Mail Studio](https://mailstudio.app)
   
   * An application to easily design html/js emails.
+
+* [Docz](https://github.com/pedronauck/docz)
+  
+  * An **open-source** easy to use live (as websites) documentation creator.
+
+* [FocusWriter](https://github.com/gottcode/focuswriter)
+  
+  * An **open-source** simple distraction free text editor.
 
 ## Communities

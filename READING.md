@@ -83,6 +83,10 @@
   
   - A search engine for .pdf files.
 
+- [DATO.RSS](https://github.com/davidesantangelo/dato.rss)
+  
+  - An **open-source** RSS search engine with ML-supported hints.
+
 ## Community
 
 * [ResearchGate](https://www.researchgate.net)

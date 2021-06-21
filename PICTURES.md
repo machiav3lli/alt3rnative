@@ -72,4 +72,8 @@
   
   * An **open-source** app for image compression with modern UI.
 
+* [PixLab: Annotate](https://annotate.pixlab.io)
+  
+  * An **open-source** online in-browser batch image annotation and segmentation tool.
+
 ## Communities

@@ -22,6 +22,10 @@
   
   * A platform for interesting handmade webpages.
 
+* [Human Lambdas](https://www.humanlambdas.com)
+  
+  * A new platform to outsource un-automatable tasks to other humans (also in teams). An alternative to Amazon's Mechanical Turk (MT).
+
 ## Tools
 
 * [Calendso](https://calendso.com)
@@ -70,3 +74,5 @@
   * A platform hosting the daily posts of users showing their gratitude over three things.
 * [One Army](https://www.onearmy.earth)
   - A community platform for projects tackling global issues (i.e. plastic waste).
+* [BetterPlace](https://www.betterplace.org)
+  * A donation platform for active social projects and organisations.

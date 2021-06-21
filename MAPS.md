@@ -4,13 +4,11 @@
 
 * [OpenStreetMap](https://www.openstreetmap.org)
   
-  * Mother of them all
+  * The mother of all maps databases.
 
 * [HERE WeGo](https://wego.here.com)
   
-  * One of the more established ones
-  
-  * Isn't owned by one of the GAFAM, but has investments by part of them
+  * One of the more established ones. Isn't owned by one of the GAFAM, but has investments by some of them
 
 * [Qwant Maps](https://www.qwant.com)
   
@@ -18,19 +16,19 @@
 
 * [MetaGer Maps](https://maps.metager.de)
   
-  * Maps from the german privacy-centered search engine
-  
-  * Only available in german
+  * Maps from the german privacy-centered search engine. Only available in german
 
 * [Arcane Maps](https://arcanemaps.com)
   
-  * Decentralized maps
-  
-  * Part of Arcane suite
+  * Decentralized maps. Part of Arcane suite.
 
 * [KeplerJs](https://docs.keplerjs.io)
   
-  * Offline map which you can run on localhost
+  * Offline map which you can run on localhost.
+
+* [OpenHistoricalMaps](https://www.openhistoricalmap.org)
+  
+  * An OSM variant with focus on history.
 
 ## Tools
 

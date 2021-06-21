@@ -52,6 +52,10 @@
   
   * A tool to show you similar movies to your search input. Managed by [Global Network Of Discovery](https://www.gnod.com) and accompanied by a [Discover project](https://www.gnovies.com).
 
+* [Mastershot](https://mastershot.app)
+  
+  * An in-browser video editing tool.
+
 ## Communities
 
 * [DRM-Free Guide](https://www.defectivebydesign.org/guide)

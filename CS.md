@@ -52,7 +52,11 @@
 
 * [Kobra](https://kobra.dev)
   
-  * A visual programming language for machine learning. Nice as a teaching resource. 
+  * A visual programming language for machine learning. Nice as a teaching resource.
+
+* [Deep learning course](https://atcold.github.io/NYU-DLSP21)
+  
+  * An open course of NYU's Center for Data Science.
 
 ## Tools
 
@@ -76,6 +80,14 @@
   
   * A simple online tool to create sequence diagrams.
 
+* [Sorting Algorithms Visualizer](https://sadanandpai.github.io/sorting-visualizer/dist)
+  
+  * An open-source visual representation of the sorting of lists based on the most known sorting algorithms.
+
+* [Nushell](https://github.com/nushell/nushell)
+  
+  * An **open-source** shell with some unique usability features.
+
 ## Communities
 
 * [EleutherAI](https://www.eleuther.ai)
@@ -85,3 +97,7 @@
 * [Project Lovelace](https://projectlovelace.net)
   
   * An open online platform where science meets programming.
+
+* [Findka](https://findka.com)
+  
+  * An AI curated newletters, RSS feed and forum for different domains.

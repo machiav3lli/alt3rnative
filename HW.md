@@ -26,6 +26,8 @@
   * A firm selling private servers with easy setups.
 * [paperd.ink](https://paperd.ink)
   * An **open-source** e-paper development board that's ready for different use cases.
+* [Raspad](https://raspad.com)
+  * A firm selling Raspberry PI-powered tablets.
 
 ## Tools
 

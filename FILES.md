@@ -36,6 +36,10 @@
   
   * An **open-source** in-network files sharing tool.
 
+* [LanDrop](https://landrop.app)
+  
+  * An **open-source** in-network files sharing tool.
+
 * [table-magic](https://stevecat.net/table-magic)
   
   * A tool to convert tables between different formats e.g. SQL<>CSV.
