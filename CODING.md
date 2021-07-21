@@ -4,256 +4,268 @@
 
 * [FreeCodeCamp](https://www.freecodecamp.org)
   
-  * The most known crowd sourced code learning platform.
+   * The most known crowd sourced code learning platform.
 
 * [SoloLearn](https://www.sololearn.com)
   
-  - A nice platform to learn some programing languages.
+   - A nice platform to learn some programing languages.
 
 * [Free for developers](https://free-for.dev)
   
-  * A maintained list of free services for **open-source** projects.
+   * A maintained list of free services for **open-source** projects.
 
 * [labml.io](https://nn.labml.ai)
   
-  * A collection of simple PyTorch implementations of neural networks and related algorithms.
+   * A collection of simple PyTorch implementations of neural networks and related algorithms.
 
 * [Counter](https://counter.dev)
   
-  - An **open-source** fair analytics platform that's financed by donations.
+   - An **open-source** fair analytics platform that's financed by donations.
 
 * [hackr.io](https://hackr.io)
   
-  - A platform to search for the next course on specific coder/programers topics.
+   - A platform to search for the next course on specific coder/programers topics.
 
 * [Code Golf](https://codegolf.stackexchange.com)
   
-  * A learn platform to master programming languages through competitions.
+   * A learn platform to master programming languages through competitions.
 
 * [CodeWars](https://www.codewars.com)
   
-  * A learn platform to master programming languages through challenges.
+   * A learn platform to master programming languages through challenges.
 
 * [CodinGame](https://www.codingame.com)
   
-  * A learn platform to master programming languages through programming solutions for games.
+   * A learn platform to master programming languages through programming solutions for games.
 
 * [CheckiO](https://checkio.org)
   
-  * A laern platform to learn programming through games challenges.
+   * A laern platform to learn programming through games challenges.
 
 * [Oh my Git!](https://ohmygit.org)
   
-  * An **open-source** game to learn git simply.
+   * An **open-source** game to learn git simply.
 
 * [RegenOne](https://regexone.com)
   
-  * "Regex is Hard". This tutorial should help you to break your fear of Regex with some interactive exercises.
+   * "Regex is Hard". This tutorial should help you to break your fear of Regex with some interactive exercises.
 
 * [Regex Cheatsheet](https://ihateregex.io/cheatsheet)
   
-  * A simple Regex cheatsheet.
+   * A simple Regex cheatsheet.
 
 * [Google Codelabs](https://codelabs.developers.google.com)
   
-  * A good resource to train on different coding topics especially Android.
+   * A good resource to train on different coding topics especially Android.
 
 * [SQLPD](https://sqlpd.com)
   
-  * Solve crimes and learn SQL.
+   * Solve crimes and learn SQL.
 
 * [Blogosphere](https://bilbof.com/blogosphere)
   
-  * A platform for blogs of developers from different fields.
+   * A platform for blogs of developers from different fields.
 
 * [ProgrammableWeb: APIs directory](https://www.programmableweb.com/category/all/apis)
   
-  * A huge collection of categorised well known APIs.
+   * A huge collection of categorised well known APIs.
 
 * [Awesome GHA Snippets](https://github.com/yengoteam/awesome-gha-snippets)
   
-  * A collection of useful snippets for Github Actions.
+   * A collection of useful snippets for Github Actions.
 
 * [Stack on Budget](https://github.com/255kb/stack-on-a-budget)
   
-  * A curated list for developers of services with free tier.
+   * A curated list for developers of services with free tier.
 
 * [appwrite](https://appwrite.io)
   
-  * An **open-source** firebase(analytics++) alternative.
+   * An **open-source** firebase(analytics++) alternative.
 
 * [pakkly](https://pakkly.com)
   
-  * A software distribution platform. Free of costs for open-source projects.
+   * A software distribution platform. Free of costs for open-source projects.
 
 * [open-source-insights](https://deps.dev)
   
-  * An open-source-dependencies analysing platform with a huge database with the aim to make problems of dependencies more transparent.
+   * An open-source-dependencies analysing platform with a huge database with the aim to make problems of dependencies more transparent.
 
 ## Tools
 
 * [readme.so](https://readme.so)
   
-  * An **open-source** interactive README files creator.
+   * An **open-source** interactive README files creator.
 
 * [MkDocs](https://www.mkdocs.org)
   
-  * An **open-source** documentation-focused static site generator.
+   * An **open-source** documentation-focused static site generator.
 
 * [GitAhead](https://gitahead.github.io/gitahead.com)
   
-  * The most versatile **open-source** git gui client for Linux (and the big two closed source OS).
+   * The most versatile **open-source** git gui client for Linux (and the big two closed source OS).
 
 * [Ungit](https://github.com/FredrikNoren/ungit)
   
-  * An **open-source** unique approach to git gui clients.
+   * An **open-source** unique approach to git gui clients.
 
 * [Thermal](https://thermal.codecarrot.net)
   
-  * An interesting new **open-source** git gui client.
+   * An interesting new **open-source** git gui client.
 
 * [GitList](https://gitlist.org)
   
-  * Wanted to have a github-like repo viewer for your local repo: This **open-source** project makes it true.
+   * Wanted to have a github-like repo viewer for your local repo: This **open-source** project makes it true.
 
 * [Carbon](https://carbon.now.sh)
   
-  * An **open-source** tool to make your code look good in presentations or screenshots.
+   * An **open-source** tool to make your code look good in presentations or screenshots.
 
 * [rayso](https://ray.so)
   
-  * A tool to create code nice screenshots.
+   * A tool to create code nice screenshots.
 
 * [Gisto](https://web.gistoapp.com)
   
-  * An **open-source** code snippets manager extending the Github Gists functionality.
+   * An **open-source** code snippets manager extending the Github Gists functionality.
 
 * [Gitpod](https://www.gitpod.io)
   
-  * An **open-source** freemium/self-hosted Dev environment in Gitlab, Github or Bitbucket. Was there before Github "innovated" and integrated VSCode in Github but also it wasn't open-source back then.
+   * An **open-source** freemium/self-hosted Dev environment in Gitlab, Github or Bitbucket. Was there before Github "innovated" and integrated VSCode in Github but also it wasn't open-source back then.
 
 * [github1s](https://github.com/conwnet/github1s)
   
-  * An **open-source** tool to open github repos directly in VS Code, just add the 1s after github in the repo adress. Try it [here](https://github1s.com/machiav3lli/alt3rnative).
+   * An **open-source** tool to open github repos directly in VS Code, just add the 1s after github in the repo adress. Try it [here](https://github1s.com/machiav3lli/alt3rnative).
+
+* [Refined Github](https://github.com/sindresorhus/refined-github)
+  
+   * An **open-source** browser extension that simplifies the GitHub interface and adds useful features.
 
 * [Git-peek](https://github.com/jarred-sumner/git-peek)
   
-  * An **open-source** tool to navigate git repos locally.
+   * An **open-source** tool to navigate git repos locally.
 
 * [replit](https://replit.com)
   
-  * Colaborative in-browser IDE.
+   * Colaborative in-browser IDE.
 
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
   
-  * An **open-source** source explorer with classes diagram.
+   * An **open-source** source explorer with classes diagram.
 
 * [Active Github Fork](https://techgaun.github.io/active-forks/)
   
-  * An **open-source** project with the simple function that the name states.
+   * An **open-source** project with the simple function that the name states.
 
 * [Devbook](https://usedevbook.com)
   
-  * A search engine conceptualized for devs. Still in early stages.
+   * A search engine conceptualized for devs. Still in early stages.
 
 * [searchcode](https://searchcode.com)
   
-  * Search through billions lines of codes for yournext snippet/solution.
+   * Search through billions lines of codes for yournext snippet/solution.
 
 * [Taiga.io](https://www.taiga.io)
   
-  * An **open-source** project management platform for agile development.
+   * An **open-source** project management platform for agile development.
 
 * [Play with Go](https://play-with-go.dev)
   
-  * A series of hands-on guides to imrprove your expertise with Golang.
+   * A series of hands-on guides to imrprove your expertise with Golang.
 
 * [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup)
   
-  * A series of learn articles on python-based projects.
+   * A series of learn articles on python-based projects.
 
 * [Exercism](https://exercism.io)
   
-  * Exercise and improve your knowledge in different programming languages.
+   * Exercise and improve your knowledge in different programming languages.
 
 * [muse.dev](https://www.muse.dev)
   
-  * An **open-source** continuous assurance platform for more that 10 languages. Free for open-source projects.
+   * An **open-source** continuous assurance platform for more that 10 languages. Free for open-source projects.
 
 * [Phacility](https://phacility.com/phabricator)
   
-  * An **open-source** full project management platform. Free for open-source projects.
+   * An **open-source** full project management platform. Free for open-source projects.
 
 * [Radicle](https://radicle.xyz)
   
-  * An **open-source** peer-to-peer git platform.
+   * An **open-source** peer-to-peer git platform.
 
 * [Codeberg](https://codeberg.org)
   
-  * An **open-source** Berlin-based git repositories platform. Alternative to [Github](https://github.com) and [Gitlab](https://about.gitlab.com).
+   * An **open-source** Berlin-based git repositories platform. Alternative to [Github](https://github.com) and [Gitlab](https://about.gitlab.com).
 
 * [Kalithea](https://kallithea-scm.org)
   
-  * An **open-source** self-hosted source code management system with Git and Mercurial support.
+   * An **open-source** self-hosted source code management system with Git and Mercurial support.
 
 * [Shithub](https://shithub.us)
   
-  * An **open-source** 9Front community platform hosting git repositories.
+   * An **open-source** 9Front community platform hosting git repositories.
 
 * [Gogs](https://gogs.io)
   
-  * An **open-source** self-hosted git repositories platform.
+   * An **open-source** self-hosted git repositories platform.
 
 * [Fossil](https://fossil-scm.org)
   
-  * An **open-source** all-in-one management system that's easy to deploy/install.
+   * An **open-source** all-in-one management system that's easy to deploy/install.
 
 * [Jenkins](https://www.jenkins.io)
   
-  * An **opens-source** continuous integration tool.
+   * An **opens-source** continuous integration tool.
 
 * [Cutter](https://cutter.re)
   
-  * An **open-source** reverse engineering platform powered by [Rizin](https://rizin.re).
+   * An **open-source** reverse engineering platform powered by [Rizin](https://rizin.re).
 
 * [GB Studio](https://www.gbstudio.dev)
   
-  * A **open-source** drag-and-drop video game creator for the GameBoy.
+   * A **open-source** drag-and-drop video game creator for the GameBoy.
 
 * [OnlineGDB](https://www.onlinegdb.com)
   
-  * An online IDE based on GDB for you to debug your code on the go.
+   * An online IDE based on GDB for you to debug your code on the go.
 
 * [ToolJet](https://github.com/ToolJet/ToolJet)
   
-  * An **open-source** no-code platform for building and deploying internal tools.
+   * An **open-source** no-code platform for building and deploying internal tools.
 
 * [AppGyver's Composer Pro](https://www.appgyver.com)
   
-  * A 0-code app cross-platform view&block-based apps development environment.
+   * A 0-code app cross-platform view&block-based apps development environment.
 
 * [Zeal](https://zealdocs.org)
   
-  * An **open-source** offline documentations browser.
+   * An **open-source** offline documentations browser.
 
 * [Gooey](https://github.com/chriskiehl/Gooey)
   
-  * An **open-source** Python-framework to easily turn command line programs into a full GUI apps.
+   * An **open-source** Python-framework to easily turn command line programs into a full GUI apps.
+
+* [ugit](https://github.com/Bhupesh-V/ugit)
+  
+   * An **open-source** tool to undo git commits.
+
+* [GIT quick stats](https://github.com/arzzen/git-quick-stats)
+  
+   * An open-source tool to access various statistics in git repository with long list of preferences and variables to combine.
 
 ## Communities
 
 * [Engineer Man Knowledge](https://emkc.org)
   
-  * A platform for coders to learn and develope. 
+   * A platform for coders to learn and develope. 
 
 * [Oh Sh!t, Git!?!]([Oh Shit, Git!?!](https://ohshitgit.com))
   
-  - "Git is hard", this one-page blog provides some solutions for some usual failures with git.
+   - "Git is hard", this one-page blog provides some solutions for some usual failures with git.
 
 * [CalmCode](https://calmcode.io)
   
-  * Video tutorials and ideas on some programming languages (mostly python).
+   * Video tutorials and ideas on some programming languages (mostly python).
 
 * [enlight](https://enlight.nyc)
   
-  * A community-driven learning platform.
+   * A community-driven learning platform.

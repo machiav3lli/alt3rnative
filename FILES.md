@@ -56,4 +56,8 @@
   
   * An **open-source** cross-platform data (files, notifications, texts…) sharing app from the KDE team.
 
+* [DeadHash](https://github.com/CodeDead/DeadHash-js)
+  
+  * An **open-source** tool to calculate the hashes of files. 
+
 ## Communities

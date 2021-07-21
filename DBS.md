@@ -28,6 +28,8 @@
   * An in-browser DB management system. Has an **open-source** community version.
 * [DbGate](https://dbgate.org)
   * An **open-source** (smart) (no)SQL DBs GUI-client.
+* [Realm](https://realm.io)
+  * An **open-source** mobile database with nice APIs for the most used languages.
 
 ## Communities
 

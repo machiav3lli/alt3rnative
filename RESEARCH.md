@@ -16,7 +16,11 @@
 
 * [Arxiv](https://arxiv.org)
   
-  * Cornell University open-access archive of scholarly articles mainly in the fields of natural sciences. 
+  * Cornell University open-access archive of scholarly articles mainly in the fields of natural sciences.
+
+* [mindat](https://www.mindat.org)
+  
+  * A huge database of this world's materials.
 
 ## Tools
 
@@ -51,6 +55,10 @@
 * [DataStation: Community Edition](https://app.datastation.multiprocess.io)
   
   * An in-browser data exploration tool. Supporting SQL, JS and Python.
+
+* [WikipediaQL](https://github.com/zverok/wikipedia_ql)
+  
+  * An **open-source** python library for efficient data extraction from Wikipedia.
 
 ## Communities
 

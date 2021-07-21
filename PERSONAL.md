@@ -4,131 +4,151 @@
 
 * [Diode](https://diode.io)
   
-  * A private file sharing platform as an alternative to DropBox and GDrive.
+   * A private file sharing platform as an alternative to DropBox and GDrive.
 
 * [Baserow](https://baserow.io)
   
-  * An **open-source** private database hosting platform. Still in early development, give it a try.
+   * An **open-source** private database hosting platform. Still in early development, give it a try.
 
 * [Shells](https://www.shells.com)
   
-  * A cloud service provider that focuses on letting you run your choice of OS remotely.
+   * A cloud service provider that focuses on letting you run your choice of OS remotely.
 
 * [BrainyQuotes](https://www.brainyquote.com)
   
-  * A big database of quotes of well-known people. 
+   * A big database of quotes of well-known people. 
 
 * [Random Cognitive Bias](https://benwiederhake.github.io/randombias)
   
-  * Get to know a new cognitive bias each time you open this website.
+   * Get to know a new cognitive bias each time you open this website.
 
 * [RoutineDB](https://www.routinedb.com)
   
-  * A crowd-sourced database of fitness routines.
+   * A crowd-sourced database of fitness routines.
+
+* [FarmBot](https://farm.bot)
+  
+   * A platform for open-source applications and tools for digitaly supported farming.
 
 ## Tools
 
 * [TagSpaces](https://www.tagspaces.org)
   
-  * An **open-source** files' manager with focus on tagging and commenting.
+   * An **open-source** files' manager with focus on tagging and commenting.
 
 * [Private.sh](https://private.sh)
   
-  * A partly **open-source** private e2e encrypted search engine.
+   * A partly **open-source** private e2e encrypted search engine.
 
 * [Reactive Resume](https://rx-resume.web.app)
   
-  * A **open-source** resume builder.
+   * A **open-source** resume builder.
 
 * [cvmaker](https://cvmkr.com)
   
-  * An online-platform to create nice CVs.
+   * An online-platform to create nice CVs.
 
 * [Personal Management System](https://github.com/Volmarg/personal-management-system)
   
-  * An **open-source** personal data managerment dashboard.
+   * An **open-source** personal data managerment dashboard.
 - [Personium](https://personium.io)
   
-  - An **open-source** personal data store.
+   - An **open-source** personal data store.
 
 - [Solid](https://solidproject.org)
   
-  - An **open-source** project aimed at mainstreaming personal data stores.
+   - An **open-source** project aimed at mainstreaming personal data stores.
 
 - [Planner](https://github.com/alainm23/planner)
   
-  - The **open-source** planner to manage all forms of TODOs with integration for Todoist.
+   - The **open-source** planner to manage all forms of TODOs with integration for Todoist.
 
 - [Focalboard](https://www.focalboard.com)
   
-  - An **open-source** project management software. Fits also individual desktop usage for TODOs.
+   - An **open-source** project management software. Fits also individual desktop usage for TODOs.
 
 - [Keyoxide](https://keyoxide.org)
   
-  - An **open-source** project to create decentral digital identities.
+   - An **open-source** project to create decentral digital identities.
 
 - [Home Assistant](https://www.home-assistant.io)
   
-  - An **open-source** smart home management system.
+   - An **open-source** smart home management system.
 
 - [Eat This Much](https://www.eatthismuch.com)
   
-  - An automated diet creator.
+   - An automated diet creator.
 
 - [Fokus](https://fokus-website.netlify.app)
   
-  - An **open-source** todo-list app with ton of in-depth features.
+   - An **open-source** todo-list app with ton of in-depth features.
 
 - [Diary App](https://github.com/theArjun/diary-app)
   
-  - An **open-source** diary app with some nice quirks.
+   - An **open-source** diary app with some nice quirks.
 
 - [B2NTP](https://github.com/d3ward/b2ntp)
   
-  - An **open-source** browser plug-in that puts Kanaban-styled board of your bookmarks as the new tab page.
+   - An **open-source** browser plug-in that puts Kanaban-styled board of your bookmarks as the new tab page.
 
 - [LinkAce](https://www.linkace.org)
   
-  - An **open-source** self-hostable bookmarks archive.
+   - An **open-source** self-hostable bookmarks archive.
 
 - [Archivebox](https://archivebox.io)
   
-  - An **open-source** self-hostable internet archiving tool for everything you surf.
+   - An **open-source** self-hostable internet archiving tool for everything you surf.
 
 - [Burnout Index](https://burnoutindex.yerbo.co)
   
-  - A burnout index test with some insights.
+   - A burnout index test with some insights.
 
 - [Vandal](https://vegetableman.github.io/vandal)
   
-  - A browser extension to navigate history of websites through the [Wayback Machine](https://web.archive.org).
+   - A browser extension to navigate history of websites through the [Wayback Machine](https://web.archive.org).
 
 - [NocoDB](https://www.nocodb.com)
   
-  - An **open-source** Airtable alternative.
+   - An **open-source** Airtable alternative.
 
 - [Mail-in-a-Box](https://mailinabox.email)
   
-  - An **open-source** email server that's super easy to deploy.
+   - An **open-source** email server that's super easy to deploy.
 
 - [Mighty](https://www.mightyapp.com)
   
-  - A new premium streaming-based browser. A very interesting project.
+   - A new premium streaming-based browser. A very interesting project.
+
+- [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
+  
+   - An **open-source** networks manager and debugger.
+
+- [Neeva](https://neeva.com)
+  
+   - A promising freemium search engine.
+
+- [WiFi Card](https://wificard.io)
+  
+   - An **open-source** tool to get a simple printed card with your WiFI info.
+
+- [AutoCookieOptout](https://github.com/CodyMcCodington/AutoCookieOptout)
+  
+   - An **open-source** browser plugin to automatically opt out of all optional cookies on supported sites.
 
 ## Communities
 
 * [CV](https://read.cv)
   
-  * A social platform to host your CV in a mindful form.
+   * A social platform to host your CV in a mindful form.
 
 * [Open Search Foundation](https://opensearchfoundation.org)
   
-  * The new foundation to support free and open web search solutions.
+   * The new foundation to support free and open web search solutions.
 
 * [SELLFF](https://sellff.com)
   
-  * A new alternative for LinkedIn "network of professionals".
+   * A new alternative for LinkedIn "network of professionals".
 
 * [Sourceful](https://sourceful.us)
   
-  * A database of (useful) public documents shared on google's docs.
+   * A database of (useful) public documents shared on google's docs.

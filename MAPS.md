@@ -48,4 +48,8 @@
   
   * A tool to create your custom (world) map.
 
+* [MapLibre](https://maplibre.org)
+  
+  * An **open-source** collection of mapping libraries for web-development. Forked from and aimed to replace Mapbox.
+
 ## Communities

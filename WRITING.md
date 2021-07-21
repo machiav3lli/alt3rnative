@@ -6,82 +6,86 @@
 
 * [Standard Notes](https://standardnotes.org)
   
-  * An **open-source** end-to-end encrypted note platform/app.
+   * An **open-source** end-to-end encrypted note platform/app.
 
 * [Zettlr](https://www.zettlr.com)
   
-  * **Open-source** markdown-based notebooks writer.
+   * **Open-source** markdown-based notebooks writer.
 
 * [Ghostwriter](https://wereturtle.github.io/ghostwriter)
   
-  * An **open-source** markdown-based writer app with focus on clean UX.
+   * An **open-source** markdown-based writer app with focus on clean UX.
 
 * [Mark Text](https://marktext.app)
   
-  * An **open-source** markdown-based writer app with focus on features.
+   * An **open-source** markdown-based writer app with focus on features.
 
 * [novelWriter](https://github.com/vkbo/novelWriter)
   
-  * An **open-source** markdown-based editor designed for writing novels.
+   * An **open-source** markdown-based editor designed for writing novels.
 
 * [lite](https://github.com/rxi/lite)
   
-  * An **open-source** lightweight text editor written in Lua.
+   * An **open-source** lightweight text editor written in Lua.
 
 * [Super Productivity](https://super-productivity.com)
   
-  * **Open-source** todo list with GitHub, GitLab and Jira integration available for desktop and as web app.
+   * **Open-source** todo list with GitHub, GitLab and Jira integration available for desktop and as web app.
 
 * [Hyperdraft](https://hyperdraft.rosano.ca)
   
-  * An **open-source** markdown-based documentation and wiki platform web app. 
+   * An **open-source** markdown-based documentation and wiki platform web app. 
 
 * [TiddlyWiki](https://tiddlywiki.com)
   
-  * **Open-source** non-linear personal notebooks writer. There's also a great downstream with a punch of plugins integrated into it called [Tiddly Research](https://github.com/kebifurai/TiddlyResearch).
+   * **Open-source** non-linear personal notebooks writer. There's also a great downstream with a punch of plugins integrated into it called [Tiddly Research](https://github.com/kebifurai/TiddlyResearch).
 
 * [Foam](https://foambubble.github.io/foam)
   
-  * An **open-source** personal knowledge management and sharing system for VSCode.
+   * An **open-source** personal knowledge management and sharing system for VSCode.
 
 * [Dendron](https://dendron.so)
   
-  * **Open-source** hierarchical note taking tool which can be installed as a [VSCodium](https://github.com/VSCodium/vscodium) plugin.
+   * **Open-source** hierarchical note taking tool which can be installed as a [VSCodium](https://github.com/VSCodium/vscodium) plugin.
 
 * [Trilium Notes](https://github.com/zadam/trilium)
   
-  * **Open-source** hierarchical stand-alone note taking tool with wide varity of special functions. It has a long learning curve when you want to use it most effectively as a "second brain".
+   * **Open-source** hierarchical stand-alone note taking tool with wide varity of special functions. It has a long learning curve when you want to use it most effectively as a "second brain".
 
 * [Obsidian](https://obsidian.md)
   
-  * Hierarchical note taking tool with back-linking map and some nice features.
+   * Hierarchical note taking tool with back-linking map and some nice features.
+
+* [TreeSheets](https://github.com/aardappel/treesheets)
+  
+   * An **open-source** Free-Form Data-Organizer.
 
 * [Overleaf](https://www.overleaf.com)
   
-  * A freemium **open-source** latex editor.
+   * A freemium **open-source** latex editor.
 
 * [FidusWriter](https://www.fiduswriter.org)
   
-  * An **open-source** (self-hostable) online latex editor.
+   * An **open-source** (self-hostable) online latex editor.
 
 * [Baller To Do](https://ballertodo.com)
   
-  * Eisenhawer-matrix based todo listing.
+   * Eisenhawer-matrix based todo listing.
 
 * [Xournal++](https://github.com/xournalpp/xournalpp)
   
-  * **Open-source** traditional annotating and note taking app based on [Xournal](https://sourceforge.net/projects/xournal/).
+   * **Open-source** traditional annotating and note taking app based on [Xournal](https://sourceforge.net/projects/xournal/).
 
 * [Mail Studio](https://mailstudio.app)
   
-  * An application to easily design html/js emails.
+   * An application to easily design html/js emails.
 
 * [Docz](https://github.com/pedronauck/docz)
   
-  * An **open-source** easy to use live (as websites) documentation creator.
+   * An **open-source** easy to use live (as websites) documentation creator.
 
 * [FocusWriter](https://github.com/gottcode/focuswriter)
   
-  * An **open-source** simple distraction free text editor.
+   * An **open-source** simple distraction free text editor.
 
 ## Communities
