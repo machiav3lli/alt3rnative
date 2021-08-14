@@ -29,7 +29,9 @@
 * [Raspad](https://raspad.com)
    * A firm selling Raspberry PI-powered tablets.
 * [Volla](https://volla.online)
-   * A new German smartphones' oem with focus on degoogled devices. 
+   * A new German smartphones' oem with focus on degoogled devices.
+* [FriendlyElec](https://www.friendlyarm.com)
+   * Mini/Nano PCs/PIs and extension modules of different sorts. With a network covering most world's regions.
 
 ## Tools
 

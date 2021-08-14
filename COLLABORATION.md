@@ -108,6 +108,10 @@
   
    * An **open-source** tool to create and manage gantt tables.
 
+* [Taiga.io](https://www.taiga.io)
+  
+   - An **open-source** project management platform for agile development/processes.
+
 ## Communities
 
 * [Framasoft](https://framasoft.org/en)

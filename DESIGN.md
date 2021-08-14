@@ -40,7 +40,11 @@
 
 * [50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
   
-   * A small book(let) with useful tips you need to consider while designing as non-designer. 
+   * A small book(let) with useful tips you need to consider while designing as non-designer.
+
+* [UX design methods & deliverables](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)
+  
+   * An article UX collective (see community) that tries to list in a comrehansive manner all UX-design methods & deliverables.
 
 ## Tools
 

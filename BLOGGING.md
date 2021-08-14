@@ -45,6 +45,10 @@
   
    - An **open-source** instagram front-end.
 
+- [Refined Blog](https://refined.blog)
+  
+   - A hub for personal blogs on different topics considering SW and more…
+
 ## Tools
 
 * [BookStack](https://www.bookstackapp.com)
@@ -60,3 +64,7 @@
    * Web app version of the premium product with a lot of helping tools to improve your writing
 
 ## Communities
+
+- [Weird Wide Webring](https://github.com/jackmcdade/weird-wide-webring)
+  
+   - An open community of blogs connected through a webring.

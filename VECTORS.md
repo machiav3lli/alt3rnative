@@ -80,4 +80,8 @@
   
    * **Open-source** graphics designer and animator tools.
 
+* [SVG-Gobbler](https://github.com/rossmoody/svg-gobbler)
+  
+   * An **open-source** browser extension to find/download/export SVG icons and illustrations from webpages.
+
 ## Communities

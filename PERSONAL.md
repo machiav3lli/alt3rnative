@@ -135,6 +135,24 @@
   
    - An **open-source** browser plugin to automatically opt out of all optional cookies on supported sites.
 
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+  
+   - An **open-source** (self-hosted) web/media archiving tool.
+
+- [Apollo](https://github.com/amirgamil/apollo)
+  
+   - An **open-source** personal search engine and web crawler.
+
+- [Money Manager EX](https://www.moneymanagerex.org)
+  
+   - An **open-source** personal finance management app.
+
+- [Fingerpaint](https://github.com/Wazzaps/fingerpaint)
+  
+   - An **open-source** app to create signatures using the laptop's touchpad.
+  
+   - 
+
 ## Communities
 
 * [CV](https://read.cv)

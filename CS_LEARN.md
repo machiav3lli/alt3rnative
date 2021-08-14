@@ -1,4 +1,4 @@
-# Computer Science
+# Computer Science: Learn
 
 ## Resources
 
@@ -38,39 +38,23 @@
   
    * A great class that covers some heavy topics that don't get mentioned directly in most CS programs.
 
-* [pwn.college](https://pwn.college)
-  
-   * A collection of modules to cover some serious cybersecurity topics.
-
-* [Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
-  
-   * A maintained list of resources on professional cybersecurity.
-
 * [Algorithms Animated](https://www.chrislaux.com)
   
    * A animated presentation with explanation of some of the most known algorithms in CS.
 
-* [VIM Adventures](https://vim-adventures.com)
+* [How to Design Programs](https://htdp.org)
   
-   * Learn VIM through playing games.
+   * An **open-access** MIT book about prgorams designing in a comprehansive manner.
 
-* [Kobra](https://kobra.dev)
+* [Findka](https://findka.com)
   
-   * A visual programming language for machine learning. Nice as a teaching resource.
-
-* [Deep learning course](https://atcold.github.io/NYU-DLSP21)
-  
-   * An open course of NYU's Center for Data Science.
+   - An AI curated newletters, RSS feed and forum for different domains.
 
 ## Tools
 
 * [Cryptii](https://cryptii.com)
   
    - An **open-source** Conversion tool from MIT with support for encryption.
-
-* [DevTube](https://dev.tube)
-  
-   * A search engine for the "best" developer talks on YT.
 
 * [PlantUML](https://plantuml.com)
   
@@ -86,11 +70,7 @@
 
 * [Sorting Algorithms Visualizer](https://sadanandpai.github.io/sorting-visualizer/dist)
   
-   * An open-source visual representation of the sorting of lists based on the most known sorting algorithms.
-
-* [Nushell](https://github.com/nushell/nushell)
-  
-   * An **open-source** shell with some unique usability features.
+   * An **open-source** visual representation of the sorting of lists based on the most known sorting algorithms.
 
 ## Communities
 
@@ -101,10 +81,6 @@
 * [Project Lovelace](https://projectlovelace.net)
   
    * An open online platform where science meets programming.
-
-* [Findka](https://findka.com)
-  
-   * An AI curated newletters, RSS feed and forum for different domains.
 
 * [OSSU (Open Source Society University) - CS](https://github.com/ossu/computer-science)
   

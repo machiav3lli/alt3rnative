@@ -44,6 +44,10 @@
   
    * An **open-source** Youtube/Invidious desktop client with some great features.
 
+* [Piped](https://github.com/TeamPiped/Piped)
+  
+   * An **open-source** privacy-friendly frontend for Youtube.
+
 * [SponsorBlock](https://sponsor.ajay.app)
   
    * An **open-source** crowdsourced database of sponsors' segments in YouTube videos to allow to block those. It has apps for different OSs and extensions for different browsers. Also newly integrated in FreeTube. 

@@ -22,6 +22,10 @@
   
    * A list of the unofficial user repositories for Archlinux-based distros.
 
+* [FreeInit](https://www.freeinit.org)
+  
+   * A community built around the idea of supporting libre alternatives of systemd. 
+
 ## Tools
 
 * [Ventoy](https://www.ventoy.net/en/index.html)
@@ -39,6 +43,10 @@
 * [Anbox](https://anbox.io)
   
    * An **open-source** Android emulator to integrate apps in your Linux OS.
+
+* [AnLinux](https://github.com/EXALAB/AnLinux-App) & [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
+  
+   * **Open-source** Linux installers for Android.
 
 * [Raccoon](https://raccoon.onyxbits.de)
   
@@ -63,6 +71,10 @@
 * [Kopia](https://kopia.io)
   
    * An **open-source** backup solution.
+
+* [Distro Chooser](https://distrochooser.de)
+  
+   * An **open-source** tool to help you find the best distributions for your needs.
 
 ## Communities
 
@@ -145,3 +157,7 @@
 * [Maru OS](https://github.com/maruos/maruos)
   
    * An **open-source** android ROM than integrates linux as a sub-system into your desktop mode.
+
+* [Gerda OS](https://gerda.tech)
+  
+   * An **open-source** privacy friendly alternative for KaiOS devices.

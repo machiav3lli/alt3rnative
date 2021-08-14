@@ -110,4 +110,8 @@
   
    - An email service provider on user domains with flat prices.
 
+- [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
+  
+   - An **open-source** tool to check if an email address exists without sending any email.
+
 ## Communities

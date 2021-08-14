@@ -26,6 +26,10 @@
   
    * A new platform to outsource un-automatable tasks to other humans (also in teams). An alternative to Amazon's Mechanical Turk (MT).
 
+* [Open Source Gardens](https://opensourcegardens.info)
+  
+   * A community project to spread an open-source culture in the field of gardening.
+
 ## Tools
 
 * [Calendso](https://calendso.com)
@@ -39,6 +43,10 @@
 * [Pl@netNet](https://plantnet.org/en)
   
    * Identify plants from a picture and be part of a citizen science project on plant biodiversity.
+
+* [Candide - Identify your plant](https://candidegardening.com/GB/identify-plants)
+  
+   * A tool to identify plants from Candide gardening platform.
 
 * [Mundraub](https://mundraub.org)
   
@@ -75,6 +83,10 @@
 * [Polywork](https://www.polywork.com)
   
    * A new "professional" social network.
+
+* [NoFb Event Scraper](https://github.com/akaessens/NoFbEventScraper)
+  
+   * An **open-source** scraper for Facebook event links and add it to your calendar.
 
 ## Communities
 
