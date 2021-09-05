@@ -34,6 +34,14 @@
   
    * A curated list of interesting youtubers to help by web-development and programming.
 
+* [ProgrammableWeb: APIs directory](https://www.programmableweb.com/category/all/apis)
+  
+   - A huge collection of categorised well known APIs.
+
+* [Public APIs](https://github.com/public-apis/public-apis)
+  
+   * A community-curated list of free APIs for software and web development.
+
 ## Tools
 
 * [Weweb](https://www.weweb.io)

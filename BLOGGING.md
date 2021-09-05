@@ -61,7 +61,11 @@
 
 * [HemingwayApp](http://www.hemingwayapp.com)
   
-   * Web app version of the premium product with a lot of helping tools to improve your writing
+   * Web app version of the premium product with a lot of helping tools to improve your writing.
+
+* [Emanates](https://github.com/emanates/emanates-web)
+  
+   * An **open-source** tool to easily create a blog on top of Github issues and actions.
 
 ## Communities
 

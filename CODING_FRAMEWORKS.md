@@ -36,4 +36,8 @@
   
    * An **open-source** Rust framework to easily deploy multi-platform GUI programs.
 
+* [MAUI](https://mauikit.org)
+  
+   * An **open-source** multi-platform/multi-factors front-end framework.
+
 ## Communities

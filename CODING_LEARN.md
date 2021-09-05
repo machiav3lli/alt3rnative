@@ -76,6 +76,10 @@
 
 ## Tools
 
+- [Slip](https://www.slip.so)
+  
+   - A platform where you can create a programming MOOC and "sell" it.
+
 ## Communities
 
 * [Engineer Man Knowledge](https://emkc.org)

@@ -70,7 +70,15 @@
 
 * [Gisto](https://web.gistoapp.com)
   
-   * An **open-source** code snippets manager extending the Github Gists functionality.
+   * An **open-source** code snippets manager extending the Github Gist's functionality.
+
+* [massCode](https://github.com/antonreshetov/massCode)
+  
+   * An **open-source** code snippets manager using VS Codium editor.
+
+* [Lepton](https://github.com/hackjutsu/Lepton)
+  
+   * An **open-source** code snippets manager using GitHub Gist.
 
 * [Gitpod](https://www.gitpod.io)
   
@@ -90,11 +98,19 @@
 
 * [replit](https://replit.com)
   
-   * Colaborative in-browser IDE.
+   * A colaborative in-browser IDE.
 
 * [Saros](https://github.com/saros-project/saros)
   
    * An **open-source** IDE plugin for distributed collaborative software development.
+
+* [Pop](https://pop.com/home)
+  
+   * A free(mium) platform for pair programming.
+
+* [Atheos](https://github.com/Atheos/Atheos)
+  
+   * An **open-source** self-hosted web-based IDE.
 
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
   
