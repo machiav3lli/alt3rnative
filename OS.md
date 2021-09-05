@@ -24,7 +24,11 @@
 
 * [FreeInit](https://www.freeinit.org)
   
-   * A community built around the idea of supporting libre alternatives of systemd. 
+   * A community built around the idea of supporting libre alternatives of systemd.
+
+* [MPR](https://mpr.hunterwittenborn.com)
+  
+   * An AUR alike but for Debian-based distros.
 
 ## Tools
 
@@ -88,7 +92,11 @@
 
 * [Neverware](https://www.neverware.com)
   
-   * An **open-source** fork of Chroium OS improved and for (all) devices. Recently bought by Google.
+   * An **open-source** fork of Chromium OS improved and for (all) devices. Recently bought by Google.
+
+* [FydeOS](https://fydeos.io)
+  
+   * An **open-source** fork of Chromium  OS with Android apps support.
 
 * [Redox OS](https://www.redox-os.org)
   
@@ -117,6 +125,10 @@
 * [Garuda Linux](https://garudalinux.org)
   
    * An **open-source** arch linux distro with btrfs for system partition (à la SUSE).
+
+* [Nitrux](https://nxos.org)
+  
+   * An **open-source** distribution focused on using KDE's MAUI framework's apps. Having apps that are usable with different display factors.
 
 * [Asahi Linux](https://asahilinux.org)
   

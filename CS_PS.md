@@ -37,7 +37,19 @@
 
 * [Firejail Security Sandbox](https://firejail.wordpress.com)
   
-   * An **open-source** sandbox program for Linux. 
+   * An **open-source** sandbox program for Linux.
+
+* [PackageDNA](https://github.com/Telefonica/packagedna)
+  
+   * An **open-source** tool to analyze software packages used in projects providing security and usability informations.
+
+* [Allstar](https://github.com/ossf/allstar)
+  
+   * An **open-source** Github app for continuous enforcing of security policies.
+
+* [Tomb](https://www.dyne.org/software/tomb)
+  
+   * An **open-source** tool to create encrypted storages.
 
 ## Communities
 

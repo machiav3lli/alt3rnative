@@ -72,6 +72,10 @@
   
    * An **open-source** visual representation of the sorting of lists based on the most known sorting algorithms.
 
+* [Chirurgien](https://github.com/leonardschardijn/Chirurgien)
+  
+   * An **open-source** toll to understand and manipulate file formats.
+
 ## Communities
 
 * [EleutherAI](https://www.eleuther.ai)

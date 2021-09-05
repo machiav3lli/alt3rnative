@@ -20,6 +20,10 @@
   
    * An **open-source** recommender system service written in Go.
 
+* [Tesseract](https://github.com/tesseract-ocr/tesseract/tree/master)
+  
+   * An **open-source** OCR engine.
+
 ## Communities
 
 * [EleutherAI](https://www.eleuther.ai)

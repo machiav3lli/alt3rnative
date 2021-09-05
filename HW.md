@@ -32,6 +32,14 @@
    * A new German smartphones' oem with focus on degoogled devices.
 * [FriendlyElec](https://www.friendlyarm.com)
    * Mini/Nano PCs/PIs and extension modules of different sorts. With a network covering most world's regions.
+* [Nexdock](https://nexdock.com)
+   * Lapdock developers with some good quality.
+* [pi-top](https://www.pi-top.com)
+   * Another RaspberryPi firm with focus on education and DIY.
+* [Waveshare](https://www.waveshare.com)
+   * A hardware shopping platform with a huge portfolio of accessories for micro-systems.
+* [Chipsee](https://chipsee.com)
+   * A hardware shopping platform with focus on monitors and AIOs.
 
 ## Tools
 
