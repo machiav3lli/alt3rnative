@@ -1,4 +1,4 @@
-# Fun
+# Fun: Multimedia
 
 ## Resources
 
@@ -40,10 +40,6 @@
   
    * A collection of music for programming sessions. 
 
-* [Sokyokuban](https://sokyokuban.com)
-  
-   * A fusion of hyperbolic plane and Sokoban. Have fun!
-
 * [Uji](https://doersino.github.io/uji)
   
    * An **open-source** simple generative art tool.
@@ -53,7 +49,3 @@
    * A web page with a database of interesting websites, from which you can discover some randomly.
 
 ## Communities
-
-* [Roleplayful](https://roleplayful.com)
-  
-   * A platform to find people with whom you can play tabletop games.

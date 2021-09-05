@@ -54,7 +54,15 @@
 
 * [Fairuseify](https://fairuseify.ml)
   
-   * A tool that takes your copy-righted music files and feeds it to the neural network, to reproduce your music file with no copy-rights anymore. 
+   * A tool that takes your copy-righted music files and feeds it to the neural network, to reproduce your music file with no copy-rights anymore.
+
+* [Mousai](https://github.com/SeaDve/Mousai)
+  
+   * An **open-source** app to identify songs.
+
+* [Psst](https://github.com/jpochyla/psst)
+  
+   * An **open-source** multi-platform native Spotify client.
 
 ## Communities
 

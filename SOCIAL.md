@@ -88,6 +88,10 @@
   
    * An **open-source** scraper for Facebook event links and add it to your calendar.
 
+* [Atmana](https://atmana.org)
+  
+   * A platform to help young people overcome digital addictions.
+
 ## Communities
 
 * [Sundayy](https://www.sundayy.app)

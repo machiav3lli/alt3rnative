@@ -116,6 +116,10 @@
   
    * One of the most comprehensive designing web-app. But not the cheapest (at least under the mentioned alternatives).
 
+* [Jitter](https://jitter.video)
+  
+   * A freemium animation creation platform.
+
 ## Communities
 
 * [Presentator](https://presentator.io)

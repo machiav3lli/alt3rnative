@@ -8,7 +8,11 @@
 
 * [greensta](https://ssl.greensta.de/nextcloud)
   
-   * A German nextcloud-based cloud provider with 100% green energy. 
+   * A German nextcloud-based cloud provider with 100% green energy.
+
+* [Astian](https://astian.org)
+  
+   * A spanish cloud-suite provider that is using FOSS software. They are the developers of the privacy focused Midori browser. (At time of adding it: The website seems to be still not complete. Better access to their projects can be found [here](https://gitlab.astian.org/explore)).
 
 ## Tools
 

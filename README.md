@@ -52,7 +52,11 @@ Each of the topics covers a realm of resources, tools and communities.
 
 * [Free/Libre Open Source Software](FLOSS.md)
 
-* [Fun](FUN.md)
+* Fun
+  
+   * [Games](FUN_GAMES.md)
+  
+   * [Multimedia](FUN_MULTIMEDIA.md)
 
 * [Hardware](HW.md)
 
