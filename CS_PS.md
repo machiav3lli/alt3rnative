@@ -51,6 +51,14 @@
   
    * An **open-source** tool to create encrypted storages.
 
+* [Blacklight](https://themarkup.org/blacklight)
+  
+   * A tool to analyse the trackers and data collected by websites.
+
+* [Simple Opt Out](https://simpleoptout.com)
+  
+   * A collection of deep links in well-known websites to opt out of sharing your data with third-parties.
+
 ## Communities
 
 * [Infosec core competences](https://www.netmeister.org/blog/infosec-competencies.html)

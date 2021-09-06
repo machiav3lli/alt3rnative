@@ -14,6 +14,10 @@
   
    * A spanish cloud-suite provider that is using FOSS software. They are the developers of the privacy focused Midori browser. (At time of adding it: The website seems to be still not complete. Better access to their projects can be found [here](https://gitlab.astian.org/explore)).
 
+* [Diode](https://diode.io)
+  
+   - A private file sharing platform as an alternative to DropBox and GDrive.
+
 ## Tools
 
 * [Local PDF Tools](https://localpdf.tech)
@@ -39,6 +43,10 @@
 * [Snapdrop](https://snapdrop.net)
   
    * An **open-source** in-network files sharing tool.
+
+* [Soonsnap](https://github.com/stuartlangridge/pubphoto)
+  
+   * An **open-source** tool to share photos with people you **don't** know :p .
 
 * [LanDrop](https://landrop.app)
   

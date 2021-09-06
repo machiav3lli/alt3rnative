@@ -29,3 +29,11 @@
 * [EleutherAI](https://www.eleuther.ai)
   
    * A grassroots collective of researchers in the field of open-source AI.
+
+* [How Normal Am I?](https://www.hownormalami.eu)
+  
+   * An EU-Sherpa project to educate users about "normality" in the field of AI.
+
+* [Cloacking Company](https://www.cloakingcompany.com)
+  
+   * A freemium collection of tools to decsive the algorithms of social media (and social systems).

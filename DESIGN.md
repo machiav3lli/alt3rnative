@@ -52,6 +52,10 @@
   
    - An **open-source** online diagramming and designing tool. Also provides an offline app which is still known with its old name Draw.io.
 
+* [quiver](https://github.com/varkor/quiver)
+  
+   * An **open-source** web-based diagram editor. Supports export to Latex.
+
 * [PenPot](https://penpot.app)
   
    * The all new web-based **open-source** design platform.
@@ -119,6 +123,14 @@
 * [Jitter](https://jitter.video)
   
    * A freemium animation creation platform.
+
+* [LDtk](https://ldtk.io)
+  
+   * An **open-source** 2D games level designing toolkit.
+
+* [RPG Map - deepnight games](https://deepnight.net/tools/rpg-map)
+  
+   * A tabletop maps creator & editor.
 
 ## Communities
 
