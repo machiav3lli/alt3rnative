@@ -1,10 +1,6 @@
-# Personal
+# Personal: Digital Life
 
 ## Resources
-
-* [Diode](https://diode.io)
-  
-   * A private file sharing platform as an alternative to DropBox and GDrive.
 
 * [Baserow](https://baserow.io)
   
@@ -14,21 +10,21 @@
   
    * A cloud service provider that focuses on letting you run your choice of OS remotely.
 
-* [BrainyQuotes](https://www.brainyquote.com)
+* [Progressive App Store](https://progressiveapp.store/home)
   
-   * A big database of quotes of well-known people. 
+   - A platform for progressive web apps, where you may find your next alternative social tool.
 
-* [Random Cognitive Bias](https://benwiederhake.github.io/randombias)
+* [Zero Data App](https://0data.app)
   
-   * Get to know a new cognitive bias each time you open this website.
+   - A platform for apps that respect your privacy.
 
-* [RoutineDB](https://www.routinedb.com)
+* [Typelit](https://www.typelit.io)
   
-   * A crowd-sourced database of fitness routines.
+   * A platform to practice typing through writing some classic literature.
 
-* [FarmBot](https://farm.bot)
+* [Typing.com](https://www.typing.com)
   
-   * A platform for open-source applications and tools for digitaly supported farming.
+   * A teaching platform for typing on keyboard.
 
 ## Tools
 
@@ -59,14 +55,6 @@
   
    - An **open-source** project aimed at mainstreaming personal data stores.
 
-- [Planner](https://github.com/alainm23/planner)
-  
-   - The **open-source** planner to manage all forms of TODOs with integration for Todoist.
-
-- [Focalboard](https://www.focalboard.com)
-  
-   - An **open-source** project management software. Fits also individual desktop usage for TODOs.
-
 - [Keyoxide](https://keyoxide.org)
   
    - An **open-source** project to create decentral digital identities.
@@ -74,18 +62,6 @@
 - [Home Assistant](https://www.home-assistant.io)
   
    - An **open-source** smart home management system.
-
-- [Eat This Much](https://www.eatthismuch.com)
-  
-   - An automated diet creator.
-
-- [Fokus](https://fokus-website.netlify.app)
-  
-   - An **open-source** todo-list app with ton of in-depth features.
-
-- [Diary App](https://github.com/theArjun/diary-app)
-  
-   - An **open-source** diary app with some nice quirks.
 
 - [B2NTP](https://github.com/d3ward/b2ntp)
   
@@ -98,10 +74,6 @@
 - [Archivebox](https://archivebox.io)
   
    - An **open-source** self-hostable internet archiving tool for everything you surf.
-
-- [Burnout Index](https://burnoutindex.yerbo.co)
-  
-   - A burnout index test with some insights.
 
 - [Vandal](https://vegetableman.github.io/vandal)
   
@@ -127,10 +99,6 @@
   
    - A promising freemium search engine.
 
-- [WiFi Card](https://wificard.io)
-  
-   - An **open-source** tool to get a simple printed card with your WiFI info.
-
 - [AutoCookieOptout](https://github.com/CodyMcCodington/AutoCookieOptout)
   
    - An **open-source** browser plugin to automatically opt out of all optional cookies on supported sites.
@@ -143,17 +111,17 @@
   
    - An **open-source** personal search engine and web crawler.
 
-- [Money Manager EX](https://www.moneymanagerex.org)
+- [FraidyCat](https://fraidyc.at)
   
-   - An **open-source** personal finance management app.
+   - An **open-source** browser-plugin/tool to follow feeds(RSS, Atom or JSON) from all websites, platforms and social networks.
 
-- [Fingerpaint](https://github.com/Wazzaps/fingerpaint)
+- [Spotifeed](https://github.com/timdorr/spotifeed)
   
-   - An **open-source** app to create signatures using the laptop's touchpad.
+   - An **open-source** service to serve Spotify podcasts as RSS feeds.
 
-- [LinkHub](https://github.com/AmrDeveloper/LinkHub)
+- [NoFb Event Scraper](https://github.com/akaessens/NoFbEventScraper)
   
-   - An **open-source** link management app.
+   - An **open-source** scraper for Facebook event links and add it to your calendar.
 
 ## Communities
 
@@ -164,10 +132,6 @@
 * [Open Search Foundation](https://opensearchfoundation.org)
   
    * The new foundation to support free and open web search solutions.
-
-* [SELLFF](https://sellff.com)
-  
-   * A new alternative for LinkedIn "network of professionals".
 
 * [Sourceful](https://sourceful.us)
   

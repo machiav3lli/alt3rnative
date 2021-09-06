@@ -116,6 +116,10 @@
   
    - An **open-source** project management platform for agile development/processes.
 
+* [Rustdesk](https://github.com/rustdesk/rustdesk)
+  
+   * An **open-source** crossplatform remote desktop software.
+
 ## Communities
 
 * [Framasoft](https://framasoft.org/en)

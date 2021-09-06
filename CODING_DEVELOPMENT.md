@@ -44,6 +44,10 @@
   
    * An **open-source** documentation-focused static site generator.
 
+* [GitBook](https://www.gitbook.com)
+  
+   * A documentation-focused text writing tool with integrated version control.
+
 * [GitAhead](https://gitahead.github.io/gitahead.com)
   
    * The most versatile **open-source** git gui client for Linux (and the big two closed source OS).
@@ -219,6 +223,10 @@
 * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio)
   
    * An **open-source** VS-Code plugin to integrate Draw.io supporting collaborative working.
+
+* [GitFS](https://github.com/Presslabs/gitfs)
+  
+   * An **open-source** FUSE file system to automate commits and files changes in git repositories.
 
 ## Communities
 

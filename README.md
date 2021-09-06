@@ -70,7 +70,13 @@ Each of the topics covers a realm of resources, tools and communities.
 
 * [Operating Systems](OS.md)
 
-* [Personal](PERSONAL.md)
+* Personal
+  
+   * [Digital Life](PERSONAL_DL.md)
+  
+   * [Real Life](PERSONAL_RL.md)
+  
+   * [Social](PERSONAL_SOCIAL.md)
 
 * [Pictures](PICTURES.md)
 
@@ -81,8 +87,6 @@ Each of the topics covers a realm of resources, tools and communities.
 * [Reading](READING.md)
 
 * [Research](RESEARCH.md)
-
-* [Social](SOCIAL.md)
 
 * [Videos](VIDEOS.md)
 
