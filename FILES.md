@@ -10,6 +10,10 @@
   
    * A German nextcloud-based cloud provider with 100% green energy.
 
+* [pCloud](https://www.pcloud.com)
+  
+   - A Swiss cloud storage provider with focus on security. Provides free accounts.
+
 * [Astian](https://astian.org)
   
    * A spanish cloud-suite provider that is using FOSS software. They are the developers of the privacy focused Midori browser. (At time of adding it: The website seems to be still not complete. Better access to their projects can be found [here](https://gitlab.astian.org/explore)).
@@ -17,6 +21,14 @@
 * [Diode](https://diode.io)
   
    - A private file sharing platform as an alternative to DropBox and GDrive.
+
+* [Cryptee](https://crypt.ee/#pricing)
+  
+   * An e2e-encrypted cloud storage provider with some extra functionalties.
+
+* [ente](https://ente.io)
+  
+   * An e2e-encrypted cloud storage provider with focus on photos. Advertising themselves as <u>the</u> Google Photos alternative.
 
 ## Tools
 

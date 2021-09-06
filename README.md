@@ -30,13 +30,13 @@ Each of the topics covers a realm of resources, tools and communities.
 
 * Computer Science
   
-   * [Learn](CS_LEARN.md)
-  
    * [AI](CS_AI.md)
   
+   * [Databases](CS_DBS.md)
+  
+   * [Learn](CS_LEARN.md)
+  
    * [Privacy & Security](CS_PS.md)
-
-* [Databases](DBS.md)
 
 * [Decentral](DECENTRAL.md)
 

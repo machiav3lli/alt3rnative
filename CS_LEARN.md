@@ -50,6 +50,10 @@
   
    - An AI curated newletters, RSS feed and forum for different domains.
 
+* [algorithms](https://github.com/realpacific/algorithms)
+  
+   * A curated list of data structures and algorithms.
+
 ## Tools
 
 * [Cryptii](https://cryptii.com)
