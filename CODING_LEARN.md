@@ -38,6 +38,14 @@
   
    * An **open-source** game to learn git simply.
 
+* [Learn Git Branching](https://learngitbranching.js.org)
+  
+   * An **open-source** web-application to learn git.
+
+* [Git exercises](https://gitexercises.fracz.com)
+  
+   * An **open-source** web-application to learn git with some community functions.
+
 * [RegenOne](https://regexone.com)
   
    * "Regex is Hard". This tutorial should help you to break your fear of Regex with some interactive exercises.

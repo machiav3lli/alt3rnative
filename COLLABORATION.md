@@ -60,7 +60,7 @@
   
    * Collaborative **open-source** whiteboard.
 
-* [Whiteboard](https://witeboard.com)
+* [Witeboard](https://witeboard.com)
   
    * A free whiteboard collaboration tool.
 
@@ -107,6 +107,10 @@
 * [GanttProject](https://github.com/bardsoftware/ganttproject)
   
    * An **open-source** tool to create and manage gantt tables.
+
+* [OpenProject](https://www.openproject.org)
+  
+   * An **open-source** project management software.
 
 * [Taiga.io](https://www.taiga.io)
   

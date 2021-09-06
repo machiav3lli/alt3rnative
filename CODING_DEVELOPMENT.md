@@ -112,6 +112,10 @@
   
    * An **open-source** self-hosted web-based IDE.
 
+* [Lite XL](https://github.com/lite-xl/lite-xl)
+  
+   * An **open-source** lightweight IDE. A downstream of [Lite](https://github.com/rxi/lite) with focus on UX.
+
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
   
    * An **open-source** source explorer with classes diagram.
@@ -202,7 +206,19 @@
 
 * [Hyper](https://github.com/vercel/hyper)
   
-   * An **open-source** terminal built with built on the basic web technologies and features.
+   * An **open-source** terminal emulator built with basic web technologies and features.
+
+* [Alacritty](https://github.com/alacritty/alacritty)
+  
+   * An **open-source** openGL-based terminal emulator.
+
+* [Actionsflow](https://github.com/actionsflow/actionsflow)
+  
+   * An **open-source** jobs automation tool using on Github actions.
+
+* [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio)
+  
+   * An **open-source** VS-Code plugin to integrate Draw.io supporting collaborative working.
 
 ## Communities
 
