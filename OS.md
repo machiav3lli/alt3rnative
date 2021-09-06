@@ -46,7 +46,11 @@
 
 * [Anbox](https://anbox.io)
   
-   * An **open-source** Android emulator to integrate apps in your Linux OS.
+   * An **open-source** emulator to integrate Android apps in your Linux-based OS.
+
+* [Waydroid](https://github.com/waydroid/waydroid)
+  
+   * An **open-source** emulator to integrate Android apps in your Linux-based OS.
 
 * [AnLinux](https://github.com/EXALAB/AnLinux-App) & [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd)
   

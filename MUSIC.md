@@ -26,6 +26,10 @@
   
    - Huge collection of CC0 images, videos, vectors and music.
 
+* [cchound](https://cchound.com)
+  
+   * A curated collection of CC licensed music.
+
 ## Tools
 
 * [AudioMass](https://audiomass.co)

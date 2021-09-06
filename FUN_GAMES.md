@@ -20,6 +20,14 @@
   
    * An **open-source** futuristic real time strategy game.
 
+* [Widelands](https://www.widelands.org)
+  
+   * An **open-source** long-sessions real time strategy game.
+
+* [CuboidalDrift](https://github.com/virejdasani/CuboidalDrift)
+  
+   * An **open-source** indie ball game.
+
 ## Communities
 
 * [Roleplayful](https://roleplayful.com)

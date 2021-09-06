@@ -40,6 +40,8 @@
    * A hardware shopping platform with a huge portfolio of accessories for micro-systems.
 * [Chipsee](https://chipsee.com)
    * A hardware shopping platform with focus on monitors and AIOs.
+* [Clockwork](https://www.clockworkpi.com)
+   * An open hardware provider with some nice RaspberryPi based products.
 
 ## Tools
 

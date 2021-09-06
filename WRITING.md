@@ -10,15 +10,23 @@
 
 * [Zettlr](https://www.zettlr.com)
   
-   * **Open-source** markdown-based notebooks writer.
+   * **Open-source** feature-rich markdown editor.
 
 * [Ghostwriter](https://wereturtle.github.io/ghostwriter)
   
-   * An **open-source** markdown-based writer app with focus on clean UX.
+   * An **open-source** markdown editor with focus on clean UX.
 
 * [Mark Text](https://marktext.app)
   
-   * An **open-source** markdown-based writer app with focus on features.
+   * An **open-source** feature-rich markdown editor with focus on UX.
+
+* [Remarkable](https://github.com/jamiemcg/remarkable)
+  
+   * An **open-source** feature-rich markdown editor.
+
+* [Apostrophe](https://gitlab.gnome.org/World/apostrophe)
+  
+   * An **open-source** distraction free markdown editor.
 
 * [novelWriter](https://github.com/vkbo/novelWriter)
   
@@ -83,6 +91,10 @@
 * [Docz](https://github.com/pedronauck/docz)
   
    * An **open-source** easy to use live (as websites) documentation creator.
+
+* [GitBook](https://www.gitbook.com)
+  
+   - A web-based documentation creator.
 
 * [FocusWriter](https://github.com/gottcode/focuswriter)
   
