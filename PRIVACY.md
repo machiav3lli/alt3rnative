@@ -24,6 +24,10 @@
   
    * An **open-source** web-app to evaluate how good your ad-blocker is.
 
+* [Zuccnet](https://github.com/tomquirk/zuccnet)
+  
+   * An **open-source** command line e2e-encrypted Facebook messenger.
+
 ## Communities
 
 * [Data Detox Kit](https://datadetoxkit.org)

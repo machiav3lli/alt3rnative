@@ -40,4 +40,8 @@
   
    * An **open-source** multi-platform/multi-factors front-end framework.
 
+* [Stork](https://github.com/jameslittle230/stork)
+  
+   * An **open-source** fast web search for static sites.
+
 ## Communities

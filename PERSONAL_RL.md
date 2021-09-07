@@ -14,6 +14,10 @@
   
    * A crowd-sourced database of fitness routines.
 
+* [MuscleWiki](https://musclewiki.com)
+  
+   * A collection of fitness routines that you can navigate based on the muscle you want to work on.
+
 * [FarmBot](https://farm.bot)
   
    * A platform for open-source applications and tools for digitaly supported farming.
@@ -81,3 +85,7 @@
 - [Open Source Gardens](https://opensourcegardens.info)
   
    - A community project to spread an open-source culture in the field of gardening.
+
+- [Buy Nothing](https://buynothingproject.org)
+  
+   - An open community platform promoting the "gift economy".

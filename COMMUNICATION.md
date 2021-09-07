@@ -114,4 +114,8 @@
   
    - An **open-source** tool to check if an email address exists without sending any email.
 
+- [mnm](https://mnmnotmail.org)
+  
+   - An **open-source** email replacement project.
+
 ## Communities

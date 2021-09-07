@@ -96,4 +96,8 @@
   
    * A web-developer lab providing some free & **open-source** tools useful for web-development.
 
+* [Shuffle](https://shuffle.dev)
+  
+   * A freemium (but not that useful in the trail edition) drag-and-drop websites creator using multiple libraries.
+
 ## Communities

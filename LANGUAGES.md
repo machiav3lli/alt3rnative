@@ -45,7 +45,7 @@
 
 * [LibreTranslate](https://libretranslate.com)
   
-   * An **open-source** machine translation API.
+   * An **open-source** translation API using [Argos Ttranslate](https://github.com/argosopentech/argos-translate) library.
 - [DeepL](https://www.deepl.com/translator)
   
    - Best quality for the provided languages (European, Japenese and Chinese).

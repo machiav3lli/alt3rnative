@@ -123,6 +123,10 @@
   
    - An **open-source** scraper for Facebook event links and add it to your calendar.
 
+- [Deskreen](https://github.com/pavlobu/deskreen)
+  
+   - An **open-source** tool to turn a web browser tab into a secondary screen for your computer.
+
 ## Communities
 
 * [CV](https://read.cv)

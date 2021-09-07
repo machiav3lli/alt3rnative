@@ -29,6 +29,10 @@
   
    - A maintained list of resources on professional cybersecurity.
 
+- [Open Source Security Software](https://open-source-security-software.net)
+  
+   - A directory of open-source software and tools related to security. Generated using [Freshermeat](https://sr.ht/~cedric/freshermeat).
+
 ## Tools
 
 * [Cutter](https://cutter.re)

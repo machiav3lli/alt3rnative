@@ -108,6 +108,10 @@
 
 * [issuu](https://issuu.com)
   
-   * A platform to make animated presentations out of static PDFs. 
+   * A platform to make animated presentations out of static PDFs.
+
+* [mmhmm](https://www.mmhmm.app)
+  
+   * A freemium video editor and live animation app.
 
 ## Communities

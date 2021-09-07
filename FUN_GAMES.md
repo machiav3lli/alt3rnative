@@ -28,6 +28,14 @@
   
    * An **open-source** indie ball game.
 
+* [paint.wtf](https://paint.wtf)
+  
+   * A community drawing game where the paints get evaluated by an AI.
+
+* [n-block](https://github.com/TheLittleMister/dualnback)
+  
+   * An **open-source** challenging memory game.
+
 ## Communities
 
 * [Roleplayful](https://roleplayful.com)

@@ -149,3 +149,7 @@
 * [UX Collective](https://uxdesign.cc)
   
    * A UX-Design focused community blog.
+
+* [Open Source Design](https://opensourcedesign.net)
+  
+   * A community platform to encourge the engagement of designers in the open source projects.
