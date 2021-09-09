@@ -64,6 +64,10 @@
   
    * A freemium platform to edit videos with help of machine learning.
 
+* [waterbear](https://www.waterbear.com)
+  
+   * A free streaming platform focusing on documentaries and educational videos.
+
 ## Communities
 
 * [DRM-Free Guide](https://www.defectivebydesign.org/guide)

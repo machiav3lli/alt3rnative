@@ -24,6 +24,10 @@
   
    * An **open-source** OCR engine.
 
+* [GitHub - spiceai/spiceai: Time series AI for developers](https://github.com/spiceai/spiceai)
+  
+   * An **open-source** runtime for AI training on time series data.
+
 ## Communities
 
 * [EleutherAI](https://www.eleuther.ai)

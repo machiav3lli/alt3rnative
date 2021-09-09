@@ -68,6 +68,14 @@
   
    * An **open-source** multi-platform native Spotify client.
 
+* [Helio](https://github.com/helio-fm/helio-workstation)
+  
+   * An **open-source** advanced music sequencer.
+
+* [Spotify-Customizer](https://github.com/Darkempire78/Spotify-Customizer)
+  
+   * An **open-source** browser add-on to customize the web interface of Spotify.
+
 ## Communities
 
 * [Openwhyd](https://openwhyd.org/)

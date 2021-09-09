@@ -81,7 +81,11 @@
 
 - [Vandal](https://vegetableman.github.io/vandal)
   
-   - A browser extension to navigate history of websites through the [Wayback Machine](https://web.archive.org).
+   - An **open-source** browser extension to navigate history of websites through the [Wayback Machine](https://web.archive.org).
+
+- [timefind](https://github.com/Cykelero/timefind)
+  
+   - An **open-source** cli-tool to search a website's history.
 
 - [NocoDB](https://www.nocodb.com)
   

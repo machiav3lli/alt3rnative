@@ -54,6 +54,14 @@
   
    * A collection of more than 1000 free icons.
 
+* [Illustrations](https://illlustrations.co)
+  
+   * A growing small collection of CC0 illustations.
+
+* [Openmoji](https://openmoji.org)
+  
+   * A realtive big collection of free emojis.
+
 ## Tools
 
 * [Pattern Generator](https://doodad.dev/pattern-generator)

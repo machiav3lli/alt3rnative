@@ -36,6 +36,10 @@
   
    * A platform to help young people overcome digital addictions.
 
+* [Libreddit](https://github.com/spikecodes/libreddit)
+  
+   * An **open-source** front-end for reddit.
+
 ## Communities
 
 * [Sundayy](https://www.sundayy.app)
@@ -92,3 +96,7 @@
 - [Buy For Life](https://www.buyforlife.com)
   
    - A social network and a platform with focus on sustainability and green products.
+
+- [Revolt](https://github.com/revoltchat)
+  
+   - An **open-source** modern chat platform. Focuses to replace Discord.  

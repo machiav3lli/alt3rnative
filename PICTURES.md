@@ -30,11 +30,15 @@
   
    * A Creative Commons contents search engine.
 
+* [Artvee](https://artvee.com)
+  
+   - A huge collection of public domain classic artworks.
+
 ## Tools
 
 * [Stingle Photos](https://stingle.org)
   
-   * An open-source photo cloud hosting gallery with end-to-end encryption.
+   * An **open-source** photo cloud hosting gallery with end-to-end encryption.
 
 * [LibrePhotos](https://github.com/LibrePhotos/librephotos)
   
@@ -76,8 +80,8 @@
   
    * An **open-source** online in-browser batch image annotation and segmentation tool.
 
-* [Artvee](https://artvee.com)
+* [Yoga Image Optimizer](https://github.com/flozz/yoga-image-optimizer)
   
-   * A huge collection of public domain classic artworks.
+   * An **open-source** graphical tool to convert image formats.
 
 ## Communities
