@@ -100,4 +100,8 @@
   
    * An **open-source** simple distraction free text editor.
 
+* [NoteGarden](https://notegarden.web.app)
+  
+   * A new project mixing learning aspect of Anki and notetaking features of Notion.
+
 ## Communities

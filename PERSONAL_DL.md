@@ -26,6 +26,10 @@
   
    * A teaching platform for typing on keyboard.
 
+* [OpenDesktop.org](https://www.opendesktop.org)
+  
+   * A libre cloud service provider with tools based on **FOSS**.
+
 ## Tools
 
 * [TagSpaces](https://www.tagspaces.org)
@@ -126,6 +130,10 @@
 - [Deskreen](https://github.com/pavlobu/deskreen)
   
    - An **open-source** tool to turn a web browser tab into a secondary screen for your computer.
+
+- [Whoogle](https://github.com/benbusby/whoogle-search)
+  
+   - An **open-source** self-hosted privacy oriented meta search engine.
 
 ## Communities
 

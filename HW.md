@@ -42,6 +42,8 @@
    * A hardware shopping platform with focus on monitors and AIOs.
 * [Clockwork](https://www.clockworkpi.com)
    * An open hardware provider with some nice RaspberryPi based products.
+* [Helm](https://thehelm.com)
+   * A server hardware provider with focus on security.
 
 ## Tools
 

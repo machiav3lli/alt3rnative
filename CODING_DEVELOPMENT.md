@@ -90,7 +90,7 @@
 
 * [github1s](https://github.com/conwnet/github1s)
   
-   * An **open-source** tool to open github repos directly in VS Code, just add the 1s after github in the repo adress. Try it [here](https://github1s.com/machiav3lli/alt3rnative).
+   * An **open-source** tool to open github repos directly in VS Code, just add the 1s after github in the repo adress. Try it [here](https://github1s.com/machiav3lli/alt3rnative). There's also a [browser extension](https://github.com/Darkempire78/Github1s-Extension) to ease access to it.
 
 * [Refined Github](https://github.com/sindresorhus/refined-github)
   
@@ -216,6 +216,10 @@
   
    * An **open-source** openGL-based terminal emulator.
 
+* [NVUI](https://github.com/rohit-px2/nvui)
+  
+   * An **open-source** GUI for NeoVim.
+
 * [Actionsflow](https://github.com/actionsflow/actionsflow)
   
    * An **open-source** jobs automation tool using on Github actions.
@@ -245,3 +249,7 @@
 * [Blogosphere](https://bilbof.com/blogosphere)
   
    - A platform for blogs of developers from different fields.
+
+* [GitPals](https://www.gitpals.com)
+  
+   * An **open-source** platform to connect open-source developers and help developers into the open-source world.
