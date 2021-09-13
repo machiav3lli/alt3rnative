@@ -76,6 +76,18 @@
   
    * An **open-source** browser add-on to customize the web interface of Spotify.
 
+* [Muffon](https://github.com/staniel359/muffon)
+  
+   * An **open-source** cross-platform music browser that supports streaming and scraping meta-data for tracks.
+
+* [nuclear](https://github.com/nukeop/nuclear)
+  
+   * An **open-source** desktop music player focused on free music.
+
+* [Spotfy](https://spotfy.one)
+  
+   * A privacy oriented spotify frontend.
+
 ## Communities
 
 * [Openwhyd](https://openwhyd.org/)

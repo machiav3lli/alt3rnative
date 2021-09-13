@@ -68,6 +68,10 @@
   
    * A free streaming platform focusing on documentaries and educational videos.
 
+* [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui)
+  
+   * An **open-source** cross-platform GUI for [youtube-dl](https://github.com/ytdl-org/youtube-dl).
+
 ## Communities
 
 * [DRM-Free Guide](https://www.defectivebydesign.org/guide)

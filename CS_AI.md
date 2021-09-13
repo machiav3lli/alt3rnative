@@ -14,6 +14,14 @@
   
    - An open course of NYU's Center for Data Science.
 
+- [LAION](https://laion.ai/laion-400-open-dataset)
+  
+   - An open dataset of image-text-pairs.
+
+- [The Milvus Project · GitHub](https://github.com/milvus-io)
+  
+   - An **open-source** vector database designed for AI applications.
+
 ## Tools
 
 * [Gorse](https://github.com/zhenghaoz/gorse)
@@ -41,3 +49,7 @@
 * [Cloacking Company](https://www.cloakingcompany.com)
   
    * A freemium collection of tools to decsive the algorithms of social media (and social systems).
+
+* [Hugging Face](https://huggingface.co)
+  
+   * A freemium community hub for AI projects.

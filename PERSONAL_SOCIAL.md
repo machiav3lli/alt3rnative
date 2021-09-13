@@ -99,4 +99,4 @@
 
 - [Revolt](https://github.com/revoltchat)
   
-   - An **open-source** modern chat platform. Focuses to replace Discord.  
+   - An **open-source** modern chat platform. Focuses to replace Discord.
