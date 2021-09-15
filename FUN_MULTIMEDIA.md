@@ -22,6 +22,10 @@
   
    * A platform for written interactive games.
 
+* [GNU Humor](https://www.gnu.org/fun/humor.en.html)
+  
+   * A community maintained list of jokes (majority with CS context).
+
 ## Tools
 
 * [A Soft Murmur](https://asoftmurmur.com)

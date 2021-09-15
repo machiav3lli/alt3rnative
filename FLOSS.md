@@ -18,6 +18,8 @@
    * A list of the featured open-source projects on Product Hunt.
 * [Open Source Guide](https://opensource.guide)
    * A guide for managing and growing open-source projects.
+* [Only Sponsors](https://onlysponsors.dev)
+   * A platform for open-source developers to get sponsers á la Only Fans.
 
 ## Tools
 

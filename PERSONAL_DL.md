@@ -139,6 +139,14 @@
   
    - An **open-source** self-hosted privacy oriented meta search engine.
 
+- [Nobias - Politics](https://nobias.com/politics)
+  
+   - A browser plug-in that shows the political slant, creadability and readability of the resources that you read articles from.
+
+- [Their News](https://www.their.news)
+  
+   - A tool to show you the news that typical people with specific political views read.
+
 ## Communities
 
 * [CV](https://read.cv)

@@ -42,6 +42,10 @@
   
    * A community-curated list of free APIs for software and web development.
 
+* [Medusa](https://github.com/medusajs/medusa)
+  
+   * An **open-source** headless commerce engine.
+
 ## Tools
 
 * [Weweb](https://www.weweb.io)
@@ -99,5 +103,9 @@
 * [Shuffle](https://shuffle.dev)
   
    * A freemium (but not that useful in the trail edition) drag-and-drop websites creator using multiple libraries.
+
+* [Storybook](https://github.com/storybookjs/storybook)
+  
+   - An **open-source** UI components explorer.
 
 ## Communities

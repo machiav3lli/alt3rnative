@@ -132,6 +132,10 @@
   
    * A tabletop maps creator & editor.
 
+* [Expressive Suite](https://www.expressivesuite.com)
+  
+   * A new **open-source** app suite to create/edit animated SVGs and canvas.
+
 ## Communities
 
 * [Presentator](https://presentator.io)

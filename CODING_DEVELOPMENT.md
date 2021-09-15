@@ -34,6 +34,10 @@
   
    * A list of non-free apps from different platforms with low rating to inspire you your next project.
 
+* [My Side Project Rocks!](https://mysideproject.rocks)
+  
+   * A crowd sourced collection of some people's side projects.
+
 ## Tools
 
 * [readme.so](https://readme.so)
@@ -232,6 +236,14 @@
   
    * An **open-source** FUSE file system to automate commits and files changes in git repositories.
 
+* [Git-Cliff](https://github.com/orhun/git-cliff)
+  
+   * An **open-source** automated changelog generator based on your commits.
+
+* [Changie](https://github.com/miniscruff/changie)
+  
+   * An **open-source** automated changelog generator with lots of options.
+
 ## Communities
 
 * [Free Dev Stuff](https://freestuff.dev)
@@ -253,3 +265,7 @@
 * [GitPals](https://www.gitpals.com)
   
    * An **open-source** platform to connect open-source developers and help developers into the open-source world.
+
+* [Blogging for Devs](https://bloggingfordevs.com)
+  
+   * A platform and newsletter focused on developers' blogs.

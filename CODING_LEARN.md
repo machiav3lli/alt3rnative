@@ -64,7 +64,7 @@
 
 * [Exercism](https://exercism.io)
   
-   - Exercise and improve your knowledge in different programming languages.
+   - A free an mostly open-source platform to exercise and improve your knowledge in different programming languages.
 
 * [Play with Go](https://play-with-go.dev)
   
@@ -87,6 +87,10 @@
 - [Slip](https://www.slip.so)
   
    - A platform where you can create a programming MOOC and "sell" it.
+
+- [UdemyPy](https://github.com/dylannalex/UdemyPy)
+  
+   - An **open-source** Telegram bot to aggregate free courses on Udemy.
 
 ## Communities
 
