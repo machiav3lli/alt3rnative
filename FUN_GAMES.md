@@ -2,6 +2,10 @@
 
 ## Resources
 
+- [Games on GitHub](https://github.com/leereilly/games)
+  
+   - A curated list of **open-source** games on Github.
+
 ## Tools
 
 * [Sokyokuban](https://sokyokuban.com)
@@ -35,6 +39,14 @@
 * [n-block](https://github.com/TheLittleMister/dualnback)
   
    * An **open-source** challenging memory game.
+
+* [PSX Party](https://psxparty.kosmi.io)
+  
+   * A multiplayer platform for emulated PS1 games.
+
+* [2020Game](https://2020game.io)
+  
+   * A game about the crazy year 2020 with all of its major events.
 
 ## Communities
 

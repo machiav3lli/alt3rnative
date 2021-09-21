@@ -60,6 +60,10 @@
   
    * **Open-source** hierarchical stand-alone note taking tool with wide varity of special functions. It has a long learning curve when you want to use it most effectively as a "second brain".
 
+* [Notion-Clone](https://github.com/konstantinmuenster/notion-clone)
+  
+   * An **open-source** Notion.so clone.
+
 * [Obsidian](https://obsidian.md)
   
    * Hierarchical note taking tool with back-linking map and some nice features.

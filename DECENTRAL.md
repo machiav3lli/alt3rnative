@@ -32,6 +32,10 @@
   
    * An **open-source** matrix based comment system.
 
+* [FreePN](https://www.freepn.org)
+  
+   * An **open-source** peer2peer VPN service.
+
 ## Communities
 
 * [Lemmy](https://lemmy.ml)
@@ -53,3 +57,7 @@
 * [Aether](https://getaether.net)
   
    * An **open-source** decentral self-governing/democratic communities.
+
+* [Scuttlebutt](https://scuttlebutt.nz)
+  
+   - An **open-source** fully decentralized social network based on gossip protocol and principles of the analog social life.

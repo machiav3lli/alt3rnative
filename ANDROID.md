@@ -28,4 +28,8 @@
   
    * An **open-source** GCam alternative.
 
+* [apkeep](https://github.com/EFForg/apkeep)
+  
+   * An **open-source** tool to download secure APKs. A project of EFF. 
+
 ## Communities

@@ -4,7 +4,7 @@
 
 * [SVG Repo](https://www.svgrepo.com/)
   
-   * A relatively huge collection of royalty SVGs.
+   * A relatively huge collection of royalty free SVGs.
 
 * [Iconduck](https://iconduck.com)
   
@@ -61,6 +61,10 @@
 * [Openmoji](https://openmoji.org)
   
    * A realtive big collection of free emojis.
+
+* [Vektors](https://www.vektors.pro)
+  
+   * A collection of free illustrations.
 
 ## Tools
 

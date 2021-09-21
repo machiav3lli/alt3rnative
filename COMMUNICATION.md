@@ -37,7 +37,11 @@
 
 * [Mumble](https://www.mumble.info)
   
-   * An **open-source** low-latency voice chat application. 
+   * An **open-source** low-latency voice chat application.
+
+* [TeamSpeak](https://teamspeak.com)
+  
+   * A premium voice chat platform with focus on gamers and the possibility to self-host.
 
 * [Gather](https://gather.town)
   

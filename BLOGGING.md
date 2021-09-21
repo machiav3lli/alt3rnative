@@ -67,6 +67,10 @@
   
    * An **open-source** tool to easily create a blog on top of Github issues and actions.
 
+* [Thumbnail.AI](https://thumbnail.ai)
+  
+   * A tool to auto suggest a photo for your blog post. Powered by Pixabay CC0 pictures collection.
+
 ## Communities
 
 - [Weird Wide Webring](https://github.com/jackmcdade/weird-wide-webring)

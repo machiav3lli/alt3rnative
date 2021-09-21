@@ -63,6 +63,10 @@
   
    * A collection of deep links in well-known websites to opt out of sharing your data with third-parties.
 
+* [Ciphey](https://github.com/Ciphey/Ciphey)
+  
+   * An **open-source** intelligent encryption cracking tool.
+
 ## Communities
 
 * [Infosec core competences](https://www.netmeister.org/blog/infosec-competencies.html)
