@@ -85,3 +85,7 @@
    * An **open-source** graphical tool to convert image formats.
 
 ## Communities
+
+- [Glass](https://glass.photo)
+  
+   - A premium photos sharing platform.

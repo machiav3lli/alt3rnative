@@ -66,6 +66,10 @@
   
    * A collection of free illustrations.
 
+* [Libre Logos](https://github.com/enjeck/libre-logos)
+  
+   * A small collection of unique free logos that are meant for open-source projects and NGOs.
+
 ## Tools
 
 * [Pattern Generator](https://doodad.dev/pattern-generator)
@@ -95,5 +99,9 @@
 * [SVG-Gobbler](https://github.com/rossmoody/svg-gobbler)
   
    * An **open-source** browser extension to find/download/export SVG icons and illustrations from webpages.
+
+* [jpg2svg](https://github.com/enjeck/jpg2svg)
+  
+   * An **open-source** tool to make an SVG out of JPG images.
 
 ## Communities

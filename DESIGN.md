@@ -136,6 +136,14 @@
   
    * A new **open-source** app suite to create/edit animated SVGs and canvas.
 
+* [epick](https://github.com/vv9k/epick)
+  
+   * An **open-source** color picker and palette creator.
+
+* [PlantText](https://www.planttext.com)
+  
+   * An online tool to create diagrams based on PlantUML language.
+
 ## Communities
 
 * [Presentator](https://presentator.io)

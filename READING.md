@@ -95,6 +95,10 @@
   
    - An **open-source** desktop RSS reader app.
 
+- [Miniflux 2](https://github.com/miniflux/v2)
+  
+   - An **open-source** minimalist desktop feed reader.
+
 ## Community
 
 * [ResearchGate](https://www.researchgate.net)

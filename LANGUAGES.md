@@ -66,4 +66,8 @@
   
    - A well established translation solution with a deep informations base.
 
+- [Dialect](https://github.com/dialect-app/dialect)
+  
+   - An **open-source** desktop translation app using a combination of Google Translate and LibreTranslate.
+
 ## Communities

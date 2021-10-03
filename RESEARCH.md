@@ -22,6 +22,10 @@
   
    * A huge database of this world's materials.
 
+* [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology)
+  
+   * An community maintained list of open technology projects working on sustainability of climate.
+
 ## Tools
 
 * [Internet Archive Scholar](https://scholar.archive.org)

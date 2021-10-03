@@ -55,4 +55,8 @@
 
 * [Sustaphones](https://www.sustaphones.com)
   
-   * A database holding information on the sustainability of smartphones e.g. iFixit score, having LOS option or if battery is swappable. 
+   * A database holding information on the sustainability of smartphones e.g. iFixit score, having LOS option or if battery is swappable.
+
+* [Tindie](https://www.tindie.com)
+  
+   * An open community selling platform for technological/IT DIY products.

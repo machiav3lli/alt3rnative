@@ -67,6 +67,10 @@
   
    * An **open-source** intelligent encryption cracking tool.
 
+* [Vytal](https://github.com/z0ccc/Vytal)
+  
+   * An **open-source** web application that tries to make people aware of all the data that the browsers give about them automatically.
+
 ## Communities
 
 * [Infosec core competences](https://www.netmeister.org/blog/infosec-competencies.html)

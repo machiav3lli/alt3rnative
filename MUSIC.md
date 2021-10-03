@@ -88,6 +88,10 @@
   
    * A privacy oriented spotify frontend.
 
+* [Mopidy](https://github.com/mopidy/mopidy)
+  
+   * An **open-source** extensible music server that supports not only local music but e.g. Spotify, Soundcloud.
+
 ## Communities
 
 * [Openwhyd](https://openwhyd.org/)

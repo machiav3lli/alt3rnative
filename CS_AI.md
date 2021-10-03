@@ -36,6 +36,10 @@
   
    * An **open-source** runtime for AI training on time series data.
 
+* [Jina](https://github.com/jina-ai/jina)
+  
+   * An **open-source** well-documented neural search framework for any(they claim) kind of data.
+
 ## Communities
 
 * [EleutherAI](https://www.eleuther.ai)

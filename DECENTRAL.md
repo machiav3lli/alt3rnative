@@ -61,3 +61,11 @@
 * [Scuttlebutt](https://scuttlebutt.nz)
   
    - An **open-source** fully decentralized social network based on gossip protocol and principles of the analog social life.
+
+* [Manyverse](https://www.manyver.se)
+  
+   * An **open-source** social network based on Scuttlebutt protocol but extends its functionality.
+
+* [Freenet](https://freenetproject.org)
+  
+   * An **open-source** peer-2-peer comunication platform.
