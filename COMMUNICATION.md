@@ -122,4 +122,8 @@
   
    - An **open-source** email replacement project.
 
+- [Lightmeter · GitLab](https://gitlab.com/lightmeter)
+  
+   - An **open-source** automation and monitoring tool for open-source emails servers.
+
 ## Communities

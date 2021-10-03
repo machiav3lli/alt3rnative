@@ -40,6 +40,10 @@
   
    * An **open-source** front-end for reddit.
 
+* [Yotter](https://github.com/ytorg/Yotter)
+  
+   * An **open-source** privacy respecting frontend for YouTube and Twitter.
+
 ## Communities
 
 * [Sundayy](https://www.sundayy.app)
@@ -100,3 +104,7 @@
 - [Revolt](https://github.com/revoltchat)
   
    - An **open-source** modern chat platform. Focuses to replace Discord.
+
+- [Be My Eyes](https://www.bemyeyes.com)
+  
+   - An open app-based community that aims to provide blind and low-vision people with help.

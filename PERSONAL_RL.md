@@ -30,6 +30,10 @@
   
    * A premium learning videos science platform for kids.
 
+* [OpenLearn - The Open University](https://www.open.edu/openlearn)
+  
+   * A project of the Open University openly providing the material of its courses for everyone.
+
 ## Tools
 
 - [Eat This Much](https://www.eatthismuch.com)
@@ -89,3 +93,7 @@
 - [Buy Nothing](https://buynothingproject.org)
   
    - An open community platform promoting the "gift economy".
+
+- [Leet Resume](https://www.leetresumes.com)
+  
+   - A service platform to streamline and improve the layout of your resume.

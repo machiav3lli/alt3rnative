@@ -30,6 +30,10 @@
 
 * [apkeep](https://github.com/EFForg/apkeep)
   
-   * An **open-source** tool to download secure APKs. A project of EFF. 
+   * An **open-source** tool to download secure APKs. A project of EFF.
+
+* [Android-Tool](https://github.com/fast-geek/Android-Tool)
+  
+   * An **open-source** desktop tool to ease usage of Android's common ADB and Fastboot functions.
 
 ## Communities

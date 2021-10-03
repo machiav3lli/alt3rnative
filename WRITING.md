@@ -48,6 +48,10 @@
   
    * **Open-source** non-linear personal notebooks writer. There's also a great downstream with a punch of plugins integrated into it called [Tiddly Research](https://github.com/kebifurai/TiddlyResearch).
 
+* [Gollum](https://github.com/gollum/gollum)
+  
+   - An **open-source** git-based wiki.
+
 * [Foam](https://foambubble.github.io/foam)
   
    * An **open-source** personal knowledge management and sharing system for VSCode.

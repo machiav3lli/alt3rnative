@@ -46,6 +46,10 @@
   
    * An **open-source** headless commerce engine.
 
+* [Refine](https://github.com/pankod/refine)
+  
+   * An **open-source** React-based framework that should ease the development of data-intensive applications.
+
 ## Tools
 
 * [Weweb](https://www.weweb.io)
@@ -107,5 +111,17 @@
 * [Storybook](https://github.com/storybookjs/storybook)
   
    - An **open-source** UI components explorer.
+
+* [Replay](https://www.replay.io)
+  
+   * An online web debugger with recording and replay functions.
+
+* [Barely](https://github.com/charludo/barely)
+  
+   * An **open-source** lightweight static site generator.
+
+* [Grav](https://getgrav.org)
+  
+   * An **open-source** simple CMS with huge community of users.
 
 ## Communities

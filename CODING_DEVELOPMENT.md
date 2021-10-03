@@ -128,9 +128,9 @@
   
    * An **open-source** source explorer with classes diagram.
 
-* [Active Github Fork](https://techgaun.github.io/active-forks/)
+* [GitPop3](https://github.com/AndreMiras/gitpop3) &  [Active Github Fork](https://techgaun.github.io/active-forks/)
   
-   * An **open-source** project with that shows the active forks of the Github projects.
+   * **Open-source** projects to find shows the active/popular forks of the Github projects.
 
 * [Devbook](https://usedevbook.com)
   
@@ -243,6 +243,10 @@
 * [Changie](https://github.com/miniscruff/changie)
   
    * An **open-source** automated changelog generator with lots of options.
+
+* [Tabnine](https://www.tabnine.com)
+  
+   * A freemium auto completion AI powered coding assistant tool. Previously knwon as Codota.
 
 ## Communities
 

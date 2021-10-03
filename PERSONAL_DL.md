@@ -147,6 +147,18 @@
   
    - A tool to show you the news that typical people with specific political views read.
 
+- [kb](https://github.com/gnebbia/kb)
+  
+   - An **open-source** CLI knowledge base manager.
+
+- [LinkHub](https://github.com/AmrDeveloper/LinkHub)
+  
+   - An **open-source** links management app.
+
+- [Pensela](https://github.com/weiameili/Pensela)
+  
+   - An **open-source** screen annotation tool.
+
 ## Communities
 
 * [CV](https://read.cv)

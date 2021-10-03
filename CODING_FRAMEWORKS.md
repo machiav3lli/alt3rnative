@@ -48,4 +48,12 @@
   
    * An **open-source** fast web search for static sites.
 
+* [HDR+ Pytorch](https://github.com/martin-marek/hdr-plus-pytorch)
+  
+   * An **open-source** HDR+ library for all cameras.
+
+* [GitHub - kirill-grouchnikov/aurora: Building modern, elegant and fast Compose Desktop applications](https://github.com/kirill-grouchnikov/aurora)
+  
+   * An **open-source** collection of libraries to ease developing cross-platform application with Compose.
+
 ## Communities

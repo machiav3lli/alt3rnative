@@ -82,6 +82,14 @@
   
    - A search engine for the "best" developer talks on YT.
 
+* [SciPy lectures notes](http://scipy-lectures.org)
+  
+   * An **open-access** tutorials on the scientific Python ecosystem.
+
+* [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+  
+   * An interactive cheatsheet for git.
+
 ## Tools
 
 - [Slip](https://www.slip.so)
