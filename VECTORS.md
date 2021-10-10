@@ -104,4 +104,12 @@
   
    * An **open-source** tool to make an SVG out of JPG images.
 
+* [Free Favicon Maker](https://formito.com/tools/favicon)
+  
+   * A graphic tool to easily create (fav-)icons.
+
+* [Webchemy](https://github.com/bitbof/webchemy)
+  
+   * An **open-source** online sketching app.
+
 ## Communities

@@ -84,6 +84,10 @@
   
    * An **open-source** graphical tool to convert image formats.
 
+* [Pixlr](https://pixlr.com)
+  
+   * A freemium photo editor providing different versions with different levels of complexity.
+
 ## Communities
 
 - [Glass](https://glass.photo)

@@ -71,6 +71,10 @@
   
    * A tool to auto suggest a photo for your blog post. Powered by Pixabay CC0 pictures collection.
 
+* [idyll](https://github.com/idyll-lang/idyll)
+  
+   * An **open-source** toolkit for data-driven and interactive essays.
+
 ## Communities
 
 - [Weird Wide Webring](https://github.com/jackmcdade/weird-wide-webring)

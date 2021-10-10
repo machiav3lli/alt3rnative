@@ -159,6 +159,26 @@
   
    - An **open-source** screen annotation tool.
 
+- [ShadyURL](http://www.shadyurl.com)
+  
+   - An URl shortner that creates suspicious URLs.
+
+- [Kalker](https://github.com/PaddiM8/kalker)
+  
+   - An **open-source** calculator that supports user-defined functions, complex numbers and derivations/integrals.
+
+- [Wexond](https://github.com/wexond) & [Dot](https://github.com/dothq)
+  
+   - Another **open-source** chromium-based web browsers, that promise a beautiful UI.
+
+- [Bento](https://github.com/migueravila/Bento)
+  
+   - An **open-source** browser's startpage with some personalisation preferences while being easily hackable.
+
+- [Reclaim](https://reclaim.ai/features/habits)
+  
+   - A scheduling and habits creator that integrates - unfortunately - only in Google's calendar.
+
 ## Communities
 
 * [CV](https://read.cv)

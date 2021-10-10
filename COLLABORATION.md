@@ -60,6 +60,14 @@
   
    * Collaborative **open-source** whiteboard.
 
+* [OpenBoard](https://github.com/OpenBoard-org/OpenBoard)
+  
+   * An **open-source** self-hostable interactive whiteboard.
+
+* [OurBoard](https://github.com/raimohanska/ourboard)
+  
+   * An **open-source** online interactive whiteboard. They also provide a free to use instance.
+
 * [Witeboard](https://witeboard.com)
   
    * A free whiteboard collaboration tool.
@@ -119,6 +127,10 @@
 * [Rustdesk](https://github.com/rustdesk/rustdesk)
   
    * An **open-source** crossplatform remote desktop software.
+
+* [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+  
+   * A collaborative **open-source** spreadsheet platform.
 
 ## Communities
 

@@ -88,4 +88,12 @@
   
    * An **open-source** Dropbox client.
 
+* [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi)
+  
+   * An **open-source** self-hosted file sharing server. Some open collectives like [Disroot](https://upload.disroot.org) provide Lufi instances for the public.
+
+* [DeadHash](https://github.com/CodeDead/DeadHash-js/)
+  
+   * An **open-source** web-based tool to calculate files' hash and checksums.
+
 ## Communities

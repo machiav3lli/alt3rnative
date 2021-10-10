@@ -34,6 +34,10 @@
   
    * A project of the Open University openly providing the material of its courses for everyone.
 
+* [Numbeo](https://www.numbeo.com)
+  
+   * A huge database of informations about cost of life in the most parts of the world.
+
 ## Tools
 
 - [Eat This Much](https://www.eatthismuch.com)

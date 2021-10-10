@@ -46,6 +46,30 @@
   
    * An article UX collective (see community) that tries to list in a comrehansive manner all UX-design methods & deliverables.
 
+* [Dibbble](https://dribbble.com)
+  
+   * A freemium community platform for sharing, showcasing and trading all design products e.g. illustrations, full design, branding.
+
+* [UI Design daily](https://www.uidesigndaily.com)
+  
+   * Weekly newsletter and platform for free UI resources.
+
+* [colors.lol](https://colors.lol)
+  
+   * A collection of descriptive color palettes.
+
+* [duo](https://duo.alexpate.uk)
+  
+   * A curated collection of color combinations.
+
+* [Material](https://material.io)
+  
+   * The material design's guidence website.
+
+* [No Design Development](https://nodesign.dev)
+  
+   * A collection of tools for developers to help by product design an further.
+
 ## Tools
 
 * [diagrams.net](https://www.diagrams.net)
@@ -143,6 +167,10 @@
 * [PlantText](https://www.planttext.com)
   
    * An online tool to create diagrams based on PlantUML language.
+
+* [Placeit](https://placeit.net)
+  
+   * A platform for design templates of mockups, logos and more.
 
 ## Communities
 

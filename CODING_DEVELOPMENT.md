@@ -248,6 +248,10 @@
   
    * A freemium auto completion AI powered coding assistant tool. Previously knwon as Codota.
 
+* [Mariana-Trench](https://github.com/facebook/mariana-trench)
+  
+   * An **open-source** static security analysis tool of Android projects.
+
 ## Communities
 
 * [Free Dev Stuff](https://freestuff.dev)

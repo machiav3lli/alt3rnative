@@ -6,6 +6,10 @@
   
    - A curated list of **open-source** games on Github.
 
+- [nCase - Nicky's blog](https://ncase.me)
+  
+   - A blog of a seemingly nice devloper with a lot of **open-source** funny projects that also teaches some interesting facts. She also provides some nice tools like [Loopy](https://ncase.me/loopy).
+
 ## Tools
 
 * [Sokyokuban](https://sokyokuban.com)

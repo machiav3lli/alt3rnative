@@ -114,4 +114,12 @@
   
    * A freemium video editor and live animation app.
 
+* [mermaid](https://github.com/mermaid-js/mermaid)
+  
+   * An **open-source** tool to easily create diagrams and flowcharts based on markdown-similar language.
+
+* [UMLet](https://www.umlet.com)
+  
+   * An **open-source** feature-rich UML editor with simple interface. They provide a in-browser web-app in form of [UMLetino](http://www.umlet.com/umletino/umletino.html).
+
 ## Communities

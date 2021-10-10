@@ -124,4 +124,8 @@
   
    * An **open-source** simple CMS with huge community of users.
 
+* [Chart Studio](https://plotly.com/chart-studio/)
+  
+   * A freemium tool to easily create charts and its code, that can be embeded in form of js.
+
 ## Communities

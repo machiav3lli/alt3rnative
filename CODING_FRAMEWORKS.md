@@ -52,8 +52,12 @@
   
    * An **open-source** HDR+ library for all cameras.
 
-* [GitHub - kirill-grouchnikov/aurora: Building modern, elegant and fast Compose Desktop applications](https://github.com/kirill-grouchnikov/aurora)
+* [Aurora](https://github.com/kirill-grouchnikov/aurora)
   
    * An **open-source** collection of libraries to ease developing cross-platform application with Compose.
+
+* [HexaPDF](https://github.com/gettalong/hexapdf)
+  
+   - An **open-source** PDF creation and manipulation library for Ruby.
 
 ## Communities

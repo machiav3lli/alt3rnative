@@ -36,6 +36,10 @@
   
    * A tool to create APIs out of Google sheets (Note that I don't encourge you to use Google products, but if you already, then this could be a nice tool for you).
 
+* [Toga](https://toga.tech)
+  
+   * A new tool to simply create web apps out of Google sheets (Note that I don't encourge you to use Google products, but if you already, then this could be a nice tool for you).
+
 * [CloudBeaver](https://cloudbeaver.io)
   
    * An in-browser DB management system. Has an **open-source** community version.
@@ -47,6 +51,18 @@
 * [Realm](https://realm.io)
   
    * An **open-source** mobile database with nice APIs for the most used languages.
+
+* [NocoDB](https://github.com/nocodb/nocodb)
+  
+   * An **open-source** platform to present databases in spreadsheet form with no code needed.
+
+* [Rowy](https://github.com/rowyio/rowy)
+  
+   * An **open-source** platform to present firebase data in spreadsheet form.
+
+* [Luckysheet](https://github.com/mengshukeji/Luckysheet)
+  
+   * An **open-source** web-based powerful spreadsheet editor.
 
 ## Communities
 

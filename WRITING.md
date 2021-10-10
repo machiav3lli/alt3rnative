@@ -32,10 +32,6 @@
   
    * An **open-source** markdown-based editor designed for writing novels.
 
-* [lite](https://github.com/rxi/lite)
-  
-   * An **open-source** lightweight text editor written in Lua.
-
 * [Super Productivity](https://super-productivity.com)
   
    * **Open-source** todo list with GitHub, GitLab and Jira integration available for desktop and as web app.
@@ -67,6 +63,10 @@
 * [Notion-Clone](https://github.com/konstantinmuenster/notion-clone)
   
    * An **open-source** Notion.so clone.
+
+* [takenote](https://github.com/taniarascia/takenote)
+  
+   * An **open-source** web-based note taking app.
 
 * [Obsidian](https://obsidian.md)
   
@@ -111,5 +111,21 @@
 * [NoteGarden](https://notegarden.web.app)
   
    * A new project mixing learning aspect of Anki and notetaking features of Notion.
+
+* [Sigil](https://github.com/Sigil-Ebook/Sigil)
+  
+   * An **open-source** ePub e-books editor.
+
+* [WizNote Lite](https://github.com/WizTeam/WizNoteLite)
+  
+   * An **open-source** feature-rich markdown-based editor. Also has a [mobile client](https://github.com/WizTeam/WizNoteLiteMobile).
+
+* [GitJournal](https://github.com/GitJournal/GitJournal)
+  
+   * An **open-source** markdown-based note taking integrated into Git for Android.
+
+* [neuron](https://github.com/srid/neuron)
+  
+   * An **open-source** zettelkasten-oriented notes manager. Has a feature to auto-generate static website out of notes.
 
 ## Communities

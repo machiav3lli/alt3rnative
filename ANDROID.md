@@ -14,7 +14,7 @@
 
 * [RCX](https://github.com/x0b/rcx)
   
-   * Rclone client for Android. An open-source app to manage different cloud sources.
+   * Rclone client for Android. An **open-source** app to manage different cloud sources.
 
 * [Bundel](https://github.com/rock3r/Bundel)
   

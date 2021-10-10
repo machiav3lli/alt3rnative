@@ -4,52 +4,56 @@
 
 * [OpenStreetMap](https://www.openstreetmap.org)
   
-  * The mother of all maps databases.
+   * The mother of all maps databases.
 
 * [HERE WeGo](https://wego.here.com)
   
-  * One of the more established ones. Isn't owned by one of the GAFAM, but has investments by some of them
+   * One of the more established ones. Isn't owned by one of the GAFAM, but has investments by some of them
 
 * [Qwant Maps](https://www.qwant.com)
   
-  * Maps from the privacy-centered search engine
+   * Maps from the privacy-centered search engine
 
 * [MetaGer Maps](https://maps.metager.de)
   
-  * Maps from the german privacy-centered search engine. Only available in german
+   * Maps from the german privacy-centered search engine. Only available in german
 
 * [Arcane Maps](https://arcanemaps.com)
   
-  * Decentralized maps. Part of Arcane suite.
+   * Decentralized maps. Part of Arcane suite.
 
 * [KeplerJs](https://docs.keplerjs.io)
   
-  * Offline map which you can run on localhost.
+   * Offline map which you can run on localhost.
 
 * [OpenHistoricalMaps](https://www.openhistoricalmap.org)
   
-  * An OSM variant with focus on history.
+   * An OSM variant with focus on history.
 
 ## Tools
 
 * [uMap](https://umap.openstreetmap.fr)
   
-  * A tool to create your own maps graphics
+   * A tool to create your own maps graphics
 
 * [HERE Map Creator](https://mapcreator.here.com)
   
-  * Editor for Here Wego
+   * Editor for Here Wego
 
 * [Protomaps](https://protomaps.com)
   
-  * An **open-source** tool and platform to create custom maps from OSM data.
+   * An **open-source** tool and platform to create custom maps from OSM data.
 
 * [MapChart](https://mapchart.net)
   
-  * A tool to create your custom (world) map.
+   * A tool to create your custom (world) map.
 
 * [MapLibre](https://maplibre.org)
   
-  * An **open-source** collection of mapping libraries for web-development. Forked from and aimed to replace Mapbox.
+   * An **open-source** collection of mapping libraries for web-development. Forked from and aimed to replace Mapbox.
+
+* [The True Size Of…](https://thetruesize.com)
+  
+   * A tool to compare the real size of countries (avoiding visual distortions).
 
 ## Communities
