@@ -20,14 +20,6 @@
 
 ## Tools
 
-* [Sandstorm](https://sandstorm.io)
-  
-   * An **open-souce** platform for self-hosting web apps.
-
-* [Cloudron](https://www.cloudron.io)
-  
-   * Self-hosting solution to a list of web apps.
-
 * [Cactus Comments](https://cactus.chat)
   
    * An **open-source** matrix based comment system.
@@ -69,3 +61,7 @@
 * [Freenet](https://freenetproject.org)
   
    * An **open-source** peer-2-peer comunication platform.
+
+* [Cwtch](https://git.openprivacy.ca/cwtch.im)
+  
+   * An **open-source** decentralized privacy-focused messaging network.

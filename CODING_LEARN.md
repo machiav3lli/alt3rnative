@@ -90,6 +90,10 @@
   
    * An interactive cheatsheet for git.
 
+* [bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
+  
+   * An **open-source** text adventure game to teach basics of POSIX terminal.
+
 ## Tools
 
 - [Slip](https://www.slip.so)

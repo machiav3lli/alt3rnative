@@ -128,4 +128,20 @@
   
    * A freemium tool to easily create charts and its code, that can be embeded in form of js.
 
+* [Hugo](https://gohugo.io)
+  
+   * An **open-source** static-site-generator with a huge and generally open community.
+
+* [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
+  
+   * An **open-source** web-based API development ecosystem.
+
+* [Selenium](https://www.selenium.dev)
+  
+   * An **open-source** web test-automation platform with a comprehensive arsenal of tools.
+
 ## Communities
+
+- [Hugo Ranked](https://hugoranked.com)
+  
+   - An auto-curated list of the top themes for HUGO.

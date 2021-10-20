@@ -92,6 +92,10 @@
   
    * **Open-source** traditional annotating and note taking app based on [Xournal](https://sourceforge.net/projects/xournal/).
 
+* [Rnote](https://github.com/flxzt/rnote)
+  
+   - An **open-source** graphical note taking app.
+
 * [Mail Studio](https://mailstudio.app)
   
    * An application to easily design html/js emails.

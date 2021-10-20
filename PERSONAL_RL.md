@@ -38,6 +38,10 @@
   
    * A huge database of informations about cost of life in the most parts of the world.
 
+* [Gwern](https://www.gwern.net/Startup-ideas)
+  
+   * A personal blog with a collection of (crazy) startup ideas.
+
 ## Tools
 
 - [Eat This Much](https://www.eatthismuch.com)

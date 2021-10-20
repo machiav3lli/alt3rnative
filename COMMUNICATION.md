@@ -126,4 +126,8 @@
   
    - An **open-source** automation and monitoring tool for open-source emails servers.
 
+- [Fosscord](https://github.com/fosscord/fosscord)
+  
+   - An **open-source** self-hostable Discord alternative that can communicate with Discord servers.
+
 ## Communities

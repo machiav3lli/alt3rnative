@@ -36,4 +36,8 @@
   
    * An **open-source** desktop tool to ease usage of Android's common ADB and Fastboot functions.
 
+* [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
+  
+   * An **open-source** graphical debloating tool using ADB.
+
 ## Communities

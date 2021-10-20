@@ -30,6 +30,10 @@
   
    * A libre cloud service provider with tools based on **FOSS**.
 
+* [Class Central](https://www.classcentral.com)
+  
+   * A strong and (for the most part) comprehensive search engine for MOOCs.
+
 ## Tools
 
 * [TagSpaces](https://www.tagspaces.org)
@@ -178,6 +182,26 @@
 - [Reclaim](https://reclaim.ai/features/habits)
   
    - A scheduling and habits creator that integrates - unfortunately - only in Google's calendar.
+
+- [Felvin](https://felvin.com)
+  
+   - A new meta search engine try to engage the FOSS community.
+
+- [Sandstorm](https://sandstorm.io)
+  
+   - An **open-souce** platform for self-hosting web apps.
+
+- [Cloudron](https://www.cloudron.io)
+  
+   - An **open-source** self-hosting solution mangement tool for a list of open-source projects.
+
+- [YunoHost](https://yunohost.org)
+  
+   - An **open-source** Linux disro with focus on easing self-hosting open-source services.
+
+- [Dashy](https://github.com/Lissy93/dashy)
+  
+   - An **open-source** web-based dashboard for self-hosted apps.
 
 ## Communities
 

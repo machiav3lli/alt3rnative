@@ -71,6 +71,14 @@
   
    * An **open-source** web application that tries to make people aware of all the data that the browsers give about them automatically.
 
+* [MOAC](https://github.com/Seirdy/moac)
+  
+   * An **open-source** tool to generate and evaluate passwords based on physical limitations of computation.
+
+* [Lynis](https://github.com/CISOfy/lynis)
+  
+   * An **open-source** security auditing tool for UNIX-based systems.
+
 ## Communities
 
 * [Infosec core competences](https://www.netmeister.org/blog/infosec-competencies.html)

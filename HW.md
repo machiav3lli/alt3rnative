@@ -44,6 +44,12 @@
    * An open hardware provider with some nice RaspberryPi based products.
 * [Helm](https://thehelm.com)
    * A server hardware provider with focus on security.
+* [Yubico](https://www.yubico.com)
+   * A hardware retailer with focus on security gadgets, well known for their YubiKey.
+* [Bookeen](https://bookeen.com)
+   * A french hardware retailer for DRM-free ebook readers.
+* [Onyx Boox](https://www.boox.com)
+   * A ebook reader retailer. For european shop providing their gadgets, go to [Ereader Store](https://ereader.store).
 
 ## Tools
 

@@ -3,23 +3,44 @@
 ## Resources
 
 * [Open Collective](https://opencollective.com)
+  
    * Finance managing platform for collectives with some special support for open-source projects.
+
 * [Open Source Design](https://opensourcedesign.net)
+  
    - A platform with focus on design aspects in the open-source community with some nice community.
+
 * [Rysolv](https://rysolv.com)
+  
    - An **open-source** platform for bug bounty hunters for open-source projects.
+
 * [IssueHunt](https://issuehunt.io)
+  
    * A platform for funded issues and bug bounty hunters for open-source projects.
+
 * [Up For Grabs](https://up-for-grabs.net)
+  
    * An **open-source** platform to find issues for first-time contribution to open-source projects.
+
 * [F-Droid Known Repos](https://forum.f-droid.org/t/known-repositories)
+  
    * A list of the well known F-Droid repositories.
+
 * [Product Hunt: Open-source](https://www.producthunt.com/topics/open-source)
+  
    * A list of the featured open-source projects on Product Hunt.
+
 * [Open Source Guide](https://opensource.guide)
+  
    * A guide for managing and growing open-source projects.
+
 * [Only Sponsors](https://onlysponsors.dev)
+  
    * A platform for open-source developers to get sponsers á la Only Fans.
+
+* [FLOSS Best Practices Criteria](https://bestpractices.coreinfrastructure.org/en/criteria)
+  
+   * A list of the best practices for FLOSS projects, this applies as criteria to get the CII badges.
 
 ## Tools
 

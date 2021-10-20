@@ -24,6 +24,10 @@
   
    * An **open-source** web-app to evaluate how good your ad-blocker is.
 
+* [LocateJS](https://github.com/z0ccc/LocateJS)
+  
+   * An **open-source** web-tool to inform you about how you can be located using system's data and internet connection.
+
 * [Zuccnet](https://github.com/tomquirk/zuccnet)
   
    * An **open-source** command line e2e-encrypted Facebook messenger.

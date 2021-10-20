@@ -84,6 +84,10 @@
   
    * An **open-source** tool to help you find the best distributions for your needs.
 
+* [Nix-Gui](https://github.com/nix-gui/nix-gui)
+  
+   * An **open-source** graphical tool to ease the configuration of NixOS.
+
 ## Communities
 
 * [MX Linux](https://mxlinux.org)

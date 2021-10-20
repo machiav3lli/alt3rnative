@@ -40,6 +40,18 @@
   
    * An **open-source** well-documented neural search framework for any(they claim) kind of data.
 
+* [ChessCoach](https://github.com/chrisbutner/ChessCoach)
+  
+   * An **open-source** chess engine with focus on natural language commentary.
+
+* [codex-readme](https://github.com/tom-doerr/codex-readme)
+  
+   * An **open-source** set of programs to auto-generate README.md files out of Project's code using  OpenAI's Codex.
+
+* [YoHa](https://github.com/handtracking-io/yoha)
+  
+   * An **open-source** hand tracking engine.
+
 ## Communities
 
 * [EleutherAI](https://www.eleuther.ai)
