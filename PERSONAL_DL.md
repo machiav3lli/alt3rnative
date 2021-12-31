@@ -203,6 +203,18 @@
   
    - An **open-source** web-based dashboard for self-hosted apps.
 
+- [Read Aloud](https://github.com/ken107/read-aloud)
+  
+   - An **open-source** browser extension that provides text-to-speech functionality.
+
+- [Bonsai](https://bonsaibrowser.com)
+  
+   - A new web-browser that focuses on esatblishing certain workflows with a lot of organisational features.
+
+- [You](https://you.com)
+  
+   - A new private search search engine with focus on centrlizing the web around the user.
+
 ## Communities
 
 * [CV](https://read.cv)
@@ -216,3 +228,7 @@
 * [Sourceful](https://sourceful.us)
   
    * A database of (useful) public documents shared on google's docs.
+
+* [The IndieWeb](https://indieweb.org)
+  
+   * A community of people trying to bring decentralisation and autonomy in the web.

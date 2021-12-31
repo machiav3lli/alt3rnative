@@ -44,6 +44,10 @@
   
    * An **open-source** Youtube/Invidious desktop client with some great features.
 
+* [NewPipe](https://newpipe.net)
+  
+   * An **open-source** Youtube Android client with extra features.
+
 * [Piped](https://github.com/TeamPiped/Piped)
   
    * An **open-source** privacy-friendly frontend for Youtube.
@@ -71,6 +75,14 @@
 * [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui)
   
    * An **open-source** cross-platform GUI for [youtube-dl](https://github.com/ytdl-org/youtube-dl).
+
+* [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink)
+  
+   * An **open-source** tool that streams videos of provided links in a feature rich way.
+
+* [NOVA](https://github.com/nova-video-player/aos-AVP)
+  
+   * An **open-source** video player for Android that supports remote playing.
 
 ## Communities
 

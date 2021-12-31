@@ -79,6 +79,10 @@
   
    * An **open-source** alternative Frontend for Medium.
 
+* [Paper Website](https://paperwebsite.com)
+  
+   * A premium web app to create web pages out of your notebooks.
+
 ## Communities
 
 - [Weird Wide Webring](https://github.com/jackmcdade/weird-wide-webring)

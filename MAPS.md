@@ -20,15 +20,19 @@
 
 * [Arcane Maps](https://arcanemaps.com)
   
-   * Decentralized maps. Part of Arcane suite.
+   * Block-chain based maps app. Part of Arcane suite.
 
 * [KeplerJs](https://docs.keplerjs.io)
   
-   * Offline map which you can run on localhost.
+   * An **open-source** offline map which you can run on localhost.
 
 * [OpenHistoricalMaps](https://www.openhistoricalmap.org)
   
    * An OSM variant with focus on history.
+
+* [Pure-Maps](https://github.com/rinigus/pure-maps)
+  
+   * An **open-source** maps & navigation app for linux and Sailfish OS.
 
 ## Tools
 
@@ -55,5 +59,9 @@
 * [The True Size Of…](https://thetruesize.com)
   
    * A tool to compare the real size of countries (avoiding visual distortions).
+
+* [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator)
+  
+   * An **open-source** fantasy SVG maps generator that could be used for different needs e.g. games.
 
 ## Communities

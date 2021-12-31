@@ -38,7 +38,11 @@
 
 * [PCSX2](https://pcsx2.net)
   
-   * An **open-source** PS2 emulator.
+   * The **open-source** PS2 emulator.
+
+* [RPCS3](https://rpcs3.net)
+  
+   - The **open-source** PS3 emulator.
 
 * [yuzu](https://yuzu-emu.org)
   
@@ -170,6 +174,10 @@
   
    * An **open-source** android ROM project providing an easy move to de-googled android.
 
+* [CalyxOS](https://calyxos.org)
+  
+   * An **open-source** android ROM with pure focus on privacy.
+
 * [Openthos](https://github.com/openthos)
   
    * An **open-source** desktop operating system that combines android & linux runtimes environments.
@@ -181,3 +189,7 @@
 * [Gerda OS](https://gerda.tech)
   
    * An **open-source** privacy friendly alternative for KaiOS devices.
+
+* [UKUI](https://www.ukui.org)
+  
+   * A relativally new DE that's used mainly by KylinOS.

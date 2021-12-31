@@ -132,6 +132,18 @@
   
    * A collaborative **open-source** spreadsheet platform.
 
+* [Twake](https://github.com/linagora/Twake)
+  
+   * An **open-source** collaboration platform. Presents itself as a MS Teams alternative.
+
+* [Nuclino](https://www.nuclino.com)
+  
+   * A european graphic-based database and collaboration tool.
+
+* [MeisterTask](https://www.meistertask.com)
+  
+   * A european Kanban based team collaboration tool.
+
 ## Communities
 
 * [Framasoft](https://framasoft.org/en)

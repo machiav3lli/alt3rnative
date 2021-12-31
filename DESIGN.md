@@ -172,6 +172,14 @@
   
    * A platform for design templates of mockups, logos and more.
 
+* [CadHub](https://github.com/Irev-Dev/cadhub)
+  
+   * An **open-source** platform for CodeCAD projects, which are based on code-generated CAD graphics.
+
+* [GimelStudio](https://github.com/GimelStudio/GimelStudio)
+  
+   * An **open-source** cross-platform node based 2D image graphics editor.
+
 ## Communities
 
 * [Presentator](https://presentator.io)

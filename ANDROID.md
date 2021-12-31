@@ -40,4 +40,16 @@
   
    * An **open-source** graphical debloating tool using ADB.
 
+* [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid)
+  
+   * An **open-source** app that allows the per-app anonymization of collected personal data with fine control over the data.
+
+* [Gnirehtet](https://github.com/Genymobile/gnirehtet)
+  
+   * An **open-source** adb tool that provides reverse tethering for Android devices.
+
+* [Zood](https://www.zood.xyz)
+  
+   * An **open-source** location sharing network application.
+
 ## Communities

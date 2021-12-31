@@ -32,6 +32,10 @@
   
    * An **open-source** command line e2e-encrypted Facebook messenger.
 
+* [Internet Noise](https://makeinternetnoise.com/index.html)
+  
+   * A tool that automatically visits "random" websites to make tracking & identifying you even harder.
+
 ## Communities
 
 * [Data Detox Kit](https://datadetoxkit.org)
