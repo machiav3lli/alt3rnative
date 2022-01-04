@@ -58,6 +58,10 @@
   
    * A comunity-built collection of interactive tutorials about decentralized web concepts and protocols.
 
+* [OpenClassrooms](https://openclassrooms.com)
+  
+   * A mostly free short courses platform for different fields and topics.
+
 ## Tools
 
 * [Cryptii](https://cryptii.com)

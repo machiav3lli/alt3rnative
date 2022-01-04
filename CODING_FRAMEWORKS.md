@@ -60,4 +60,24 @@
   
    - An **open-source** PDF creation and manipulation library for Ruby.
 
+* [Borb](https://github.com/jorisschellekens/borb)
+  
+   * An **open-source** PDF creation and manipulation library for Python.
+
+* [Serde](https://github.com/serde-rs/serde)
+  
+   * An **open-source** Rust framework for (de-)serialization supporting a list of the most used formats.
+
+* [Aurora](https://github.com/kirill-grouchnikov/aurora)
+  
+   * An **open-source** framework to ease writing cross-platform desktop Compose apps.
+
+* [Deep-Translator](https://github.com/nidhaloff/deep-translator)
+  
+   * An **open-source** API-unbound translation framework for Python.
+
+* [ZeroMQ](https://zeromq.org)
+  
+   * An **open-source** universal messaging framework.
+
 ## Communities

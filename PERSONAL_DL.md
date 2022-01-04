@@ -215,6 +215,10 @@
   
    - A new private search search engine with focus on centrlizing the web around the user.
 
+- [Flow Browser](https://www.ekioh.com/flow-browser/)
+  
+   - The parallel, multithreaded HTML browser. A preview is (already/only) available for RPI.
+
 ## Communities
 
 * [CV](https://read.cv)

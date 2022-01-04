@@ -22,6 +22,10 @@
   
    - An **open-source** vector database designed for AI applications.
 
+- [Cedille](https://en.cedille.ai)
+  
+   - A powerful language model for french.
+
 ## Tools
 
 * [Gorse](https://github.com/zhenghaoz/gorse)

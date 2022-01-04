@@ -96,6 +96,10 @@
   
    - A simple **open-source** time tracking mboile app.
 
+- [Mycroft AI](https://mycroft.ai)
+  
+   - A well-known **open-source** digital assistant.
+
 ## Communities
 
 - [Open Source Gardens](https://opensourcegardens.info)

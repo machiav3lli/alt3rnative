@@ -50,6 +50,22 @@
   
    * An **open-source** React-based framework that should ease the development of data-intensive applications.
 
+* [Codepen](https://codepen.io)
+  
+   * One of the best known platforms to share web-development projects and snippets.
+
+* [UI Playbook](https://uiplaybook.dev)
+  
+   * A documented collection of web UI components.
+
+* [CSS-Tricks](https://css-tricks.com)
+  
+   * A collective platform with some nice articles & guides on web-design and a rich [snippets collection](https://css-tricks.com/snippets).
+
+* [Kev Quirk](https://kevq.uk)
+  
+   * An interesting blog of a web-developer with enough sense of privacy advocation. 
+
 ## Tools
 
 * [Weweb](https://www.weweb.io)
@@ -140,8 +156,16 @@
   
    * An **open-source** web test-automation platform with a comprehensive arsenal of tools.
 
+* [Bee](https://beefree.io)
+  
+   * Yet another no-code web products designer, this one is focused on emails and landing pages with a good starting base of templates.
+
 ## Communities
 
 - [Hugo Ranked](https://hugoranked.com)
   
    - An auto-curated list of the top themes for HUGO.
+
+- [Open UI](https://open-ui.org)
+  
+   - An open-community with the mission to standardize UI definitions.

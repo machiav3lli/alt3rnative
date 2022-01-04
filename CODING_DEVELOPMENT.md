@@ -14,9 +14,21 @@
   
    * A collection of useful snippets for Github Actions.
 
+* [Snipplr](https://snipplr.com)
+  
+   * A social platform for sharing code snippts.
+
 * [appwrite](https://appwrite.io)
   
    * An **open-source** firebase(analytics++) alternative.
+
+* [Umami](https://github.com/mikecao/umami)
+  
+   - An **open-source** alternative to Google Analytics.
+
+* [Supabase](https://github.com/supabase/supabase)
+  
+   - An **open-source** alternative to Google Firbase.
 
 * [pakkly](https://pakkly.com)
   
@@ -37,6 +49,10 @@
 * [My Side Project Rocks!](https://mysideproject.rocks)
   
    * A crowd sourced collection of some people's side projects.
+
+* [Git Command Explorer](https://gitexplorer.com)
+  
+   * An open-source tool to find the right git command for the meant scenario.
 
 ## Tools
 
@@ -281,3 +297,7 @@
 * [Blogging for Devs](https://bloggingfordevs.com)
   
    * A platform and newsletter focused on developers' blogs.
+
+* [Handmade](https://handmade.network)
+  
+   * An open community with focus on producing quality software through deeper understanding of problems/questions.

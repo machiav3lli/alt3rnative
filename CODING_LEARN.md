@@ -94,6 +94,26 @@
   
    * An **open-source** text adventure game to teach basics of POSIX terminal.
 
+* [roadmap.sh](https://roadmap.sh)
+  
+   * An **open-source** community-based platform to provide roadmaps to fulfill specific learning aims.
+
+* [INTERNETING IS HARD](https://www.internetingishard.com)
+  
+   * A beginners friendly web-development tutorials.
+
+* [The Odin Project](https://www.theodinproject.com)
+  
+   - An **open-source** web-development platform and curricula.
+
+* [Upskill](https://upskillcourses.com)
+  
+   * A platform for mostly well-conceptualized web-development courses.
+
+* [Interviewing.IO](https://interviewing.io)
+  
+   * A premium platform offering anonymous technical interviews with professional engineers.
+
 ## Tools
 
 - [Slip](https://www.slip.so)

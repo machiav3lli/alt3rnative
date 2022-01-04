@@ -130,4 +130,12 @@
   
    - An **open-source** self-hostable Discord alternative that can communicate with Discord servers.
 
+- [Criptext](https://www.criptext.com)
+  
+   - An **open-source** email client using Signal's encryption to fix the main security issue of email communication.
+
+- [CaliOpen](https://www.caliopen.org)
+  
+   - An **open-source** unified message management tool to manage (all) your communication.
+
 ## Communities
