@@ -42,6 +42,10 @@
   
    * A list of the best practices for FLOSS projects, this applies as criteria to get the CII badges.
 
+* [Servo](https://servo.org)
+  
+   - The earlier **open-source** flagship browser project of Mozilla, now maintained by the community.
+
 ## Tools
 
 * [CodeRelay](https://www.coderelay.io)

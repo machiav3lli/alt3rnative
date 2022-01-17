@@ -108,3 +108,7 @@
 - [Be My Eyes](https://www.bemyeyes.com)
   
    - An open app-based community that aims to provide blind and low-vision people with help.
+
+- [Meetup](https://www.meetup.com)
+  
+   - A small social network with focus on organizing events.

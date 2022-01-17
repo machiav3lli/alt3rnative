@@ -18,6 +18,10 @@
   
    * A collection of networks and projects aimed at re-decentralizing the internet.
 
+* [Keyoxide](https://keyoxide.org)
+  
+   - An **open-source** project to create decentral digital identities.
+
 ## Tools
 
 * [Cactus Comments](https://cactus.chat)

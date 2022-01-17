@@ -114,6 +114,10 @@
   
    * A premium platform offering anonymous technical interviews with professional engineers.
 
+* [Advent of Code](https://adventofcode.com)
+  
+   * A training set of assignments that helps in learning and improving knowledge of programming (languages). Usually available in a huge group of programming languages.
+
 ## Tools
 
 - [Slip](https://www.slip.so)

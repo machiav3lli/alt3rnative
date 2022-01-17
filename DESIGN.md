@@ -74,6 +74,14 @@
   
    * A rich blog on cognitive biases, principles and UX-design.
 
+* [UpLabs](https://www.uplabs.com)
+  
+   * A platform with huge collection of everthing UI-design.
+
+* [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+  
+   * An "awesome" list of different design tools for all different design fields.
+
 ## Tools
 
 * [diagrams.net](https://www.diagrams.net)
@@ -184,6 +192,10 @@
   
    * An **open-source** cross-platform node based 2D image graphics editor.
 
+* [Wick-Editor](https://github.com/Wicklets/wick-editor)
+  
+   * An **open-source** animations, games and "everything between" creator tool.
+
 ## Communities
 
 * [Presentator](https://presentator.io)
@@ -205,3 +217,7 @@
 * [Open Source Design](https://opensourcedesign.net)
   
    * A community platform to encourge the engagement of designers in the open source projects.
+
+* [Usability Body of Knowledge](https://www.usabilitybok.org)
+  
+   * A community that has the aim to make the current collective knowledge in usability research field easily accessible.

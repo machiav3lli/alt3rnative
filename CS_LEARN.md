@@ -62,6 +62,26 @@
   
    * A mostly free short courses platform for different fields and topics.
 
+* [Data-Oriented Design](https://www.dataorienteddesign.com/site.php)
+  
+   * A platform for articles, books and other reosurces surrounding DOD.
+
+* [Scrum Guides](https://scrumguides.org)
+  
+   * The official source for Scrum guides.
+
+* [O'Reilly | Radar](https://www.oreilly.com/radar)
+  
+   * A rich blog on technical trends in wide-reach of fields.
+
+* [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
+  
+   * A list of best paper awards from the main conferences in each CS subfield.
+
+* [Risk-First](https://riskfirst.org)
+  
+   * A set of informative articles with the aim of risk-aware software development.
+
 ## Tools
 
 * [Cryptii](https://cryptii.com)

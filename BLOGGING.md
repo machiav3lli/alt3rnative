@@ -4,7 +4,7 @@
 
 * [Write.as](https://write.as)
   
-   * The freemium blogging platform with some nice co-products like [Snap.as](https://snap.as), [Draft.as](https://draft.as) and [Submit.as](https://submit.as) 
+   * The freemium blogging platform with some nice co-products like [Snap.as](https://snap.as), [Draft.as](https://draft.as), [Submit.as](https://submit.as) and **open-source** client(s).
 
 * [WriteFreely](https://writefreely.org)
   
@@ -48,6 +48,10 @@
 - [Refined Blog](https://refined.blog)
   
    - A hub for personal blogs on different topics considering SW and more…
+
+- [HOTGLUE:ME](https://hotglue.me)
+  
+   - An **open-source** low-fi blogging platform.
 
 ## Tools
 

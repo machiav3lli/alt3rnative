@@ -62,13 +62,17 @@
   
    * A realtive big collection of free emojis.
 
-* [Vektors](https://www.vektors.pro)
-  
-   * A collection of free illustrations.
-
 * [Libre Logos](https://github.com/enjeck/libre-logos)
   
    * A small collection of unique free logos that are meant for open-source projects and NGOs.
+
+* [Iconoir](https://iconoir.com)
+  
+   * An **open-source** library of icons.
+
+* [Phosphor Icons](https://phosphoricons.com)
+  
+   * An **open-source** family of icons.
 
 ## Tools
 

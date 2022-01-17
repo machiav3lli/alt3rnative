@@ -54,6 +54,10 @@
   
    * An open-source tool to find the right git command for the meant scenario.
 
+* [Toolchains](https://www.toolchains.net)
+  
+   * A website listing (all) known toolchains.
+
 ## Tools
 
 * [readme.so](https://readme.so)
@@ -271,6 +275,18 @@
 * [MoonHome](https://moonhome.io)
   
    * A premium european remote development environment.
+
+* [Semgrep](https://semgrep.dev)
+  
+   * An **open-source** static analysis tool for a good set of languages.
+
+* [Spyder](https://www.spyder-ide.org)
+  
+   * An **open-source** IDE with focus on scientific Python.
+
+* [FlutterFlow](https://flutterflow.io)
+  
+   * A freemium cross-platform apps development platform based on Flutter.
 
 ## Communities
 

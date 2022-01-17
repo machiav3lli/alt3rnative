@@ -64,7 +64,11 @@
 
 * [Kev Quirk](https://kevq.uk)
   
-   * An interesting blog of a web-developer with enough sense of privacy advocation. 
+   * An interesting blog of a web-developer with enough sense of privacy advocation.
+
+* [HTMLhouse](https://html.house)
+  
+   * An **open-source** platform for writing and sharing html-based web-pages.
 
 ## Tools
 
@@ -83,6 +87,10 @@
 * [Soupault](https://soupault.app)
   
    * An **open-source** comprehensive static websites generator & editor.
+
+* [Primo](https://primo.af)
+  
+   * An **open-source** tool for building and managing static websites.
 
 * [Percy](https://percy.io)
   
@@ -159,6 +167,22 @@
 * [Bee](https://beefree.io)
   
    * Yet another no-code web products designer, this one is focused on emails and landing pages with a good starting base of templates.
+
+* [SHEETUI](https://sheetui.com)
+  
+   * A tool to create websites out of Google spreadsheets.
+
+* [Netlify](https://www.netlify.com)
+  
+   * A half-**open-source** static websites generator and editor with a rich CMS.
+
+* [Meli](https://github.com/getmeli/meli)
+  
+   * An **open-source** platform for easy deploying of static sites and frontend applications.
+
+* [directus](https://directus.io)
+  
+   * An **open-source** tool for turning SQL databases into APIs.
 
 ## Communities
 

@@ -80,4 +80,24 @@
   
    * An **open-source** universal messaging framework.
 
+* [BeeWare](https://beeware.org)
+  
+   * An **open-source** cross-platform development framework for python.
+
+* [Uno](https://platform.uno)
+  
+   * An **open-source** cross-platform development framework with WinUI and C#(MS's Java :p).
+
+* [Makepad](https://github.com/makepad/makepad)
+  
+   - An **open-source** creative (VR) software development platform for Rust.
+
+* [Gio UI](https://gioui.org)
+  
+   * An **open-source** cross-platform development framework for Go(lang).
+
+* [CodePerfect 95](https://codeperfect95.com)
+  
+   * A Go IDE with focus on speed. Still in early development.
+
 ## Communities

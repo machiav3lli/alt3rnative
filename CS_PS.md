@@ -33,6 +33,10 @@
   
    - A directory of open-source software and tools related to security. Generated using [Freshermeat](https://sr.ht/~cedric/freshermeat).
 
+- [Open Security Training](https://opensecuritytraining.info)
+  
+   - A platform for **open-source/access** courses on cyber security.
+
 ## Tools
 
 * [Cutter](https://cutter.re)

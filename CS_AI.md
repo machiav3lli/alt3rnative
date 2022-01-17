@@ -26,6 +26,10 @@
   
    - A powerful language model for french.
 
+- [NLP-Datasets](https://github.com/niderhoff/nlp-datasets)
+  
+   - Alphabetical list of free/public domain datasets with text data for use in NLP.
+
 ## Tools
 
 * [Gorse](https://github.com/zhenghaoz/gorse)
@@ -56,6 +60,10 @@
   
    * An **open-source** hand tracking engine.
 
+* [Sepia](https://sepia-framework.github.io)
+  
+   - An **open-source** cross-platform AI assistant (framework).
+
 ## Communities
 
 * [EleutherAI](https://www.eleuther.ai)
@@ -73,3 +81,7 @@
 * [Hugging Face](https://huggingface.co)
   
    * A freemium community hub for AI projects.
+
+* [People AI Research(PAIR)](https://pair.withgoogle.com)
+  
+   * The platform of a multidisciplinary research team at Google with focus on "the human side of AI". 

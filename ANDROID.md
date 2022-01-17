@@ -52,4 +52,8 @@
   
    * An **open-source** location sharing network application.
 
+* [Blloc: Ratio](https://www.blloc.com)
+  
+   * An interesting launcher developed with a focus on the digital well-being.
+
 ## Communities
