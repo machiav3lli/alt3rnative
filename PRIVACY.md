@@ -36,6 +36,26 @@
   
    * A tool that automatically visits "random" websites to make tracking & identifying you even harder.
 
+* [Firefox Relay](https://relay.firefox.com)
+  
+   * A freemium email-alias service from Mozilla.
+
+* [Exodus](https://exodus-privacy.eu.org)
+  
+   * A privacy audit platform and database for Android apps.
+
+* [Mobilsicher Appchecker](https://appcheck.mobilsicher.de)
+  
+   * A German platform analyzing the privacy of Android apps on the play store.
+
+* [PrivacySpy](https://privacyspy.org)
+  
+   * An **open-source** project to evaluate and monitor privacy policies of most used websites.
+
+* [Fake Person Generator](https://www.fakepersongenerator.com)
+  
+   * A tool to create a fully fake deep personal data that can be used isntead of your real info.
+
 ## Communities
 
 * [Data Detox Kit](https://datadetoxkit.org)
@@ -49,3 +69,15 @@
 * [European Digital Rights](https://edri.org)
   
    * A platform of experts and activists in the field of digital rights.
+
+* [RestorePrivacy](https://restoreprivacy.com)
+  
+   * A platform for news, tools and other resources concerned with privacy (and security).
+
+* [Kuketz Blog](https://www.kuketz-blog.de)
+  
+   * A German blog about security, privacy and hacking with a pretty wide community.
+
+* [Coalition Against Stalkware](https://stopstalkerware.org)
+  
+   * A community aiming to raise awareness and advise about stalkware and how to matigate its dangers.

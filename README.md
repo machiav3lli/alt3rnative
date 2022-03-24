@@ -16,6 +16,8 @@ Each of the topics covers a realm of resources, tools and communities.
 
 * Coding
   
+   * [Android](CODING_ANDROID.md)
+  
    * [Learn](CODING_LEARN.md)
   
    * [Frameworks](CODING_FRAMEWORKS.md)

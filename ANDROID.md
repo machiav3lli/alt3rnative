@@ -56,4 +56,12 @@
   
    * An interesting launcher developed with a focus on the digital well-being.
 
+* [NanoDroid](https://github.com/Nanolx/NanoDroid)
+  
+   * A packaged collection of **open-source** privacy-respecting applications and supporting tools that create an alternative eco-system to G-Apps centered around [microG](https://microg.org).
+
+* [MinMicroG](https://github.com/friendlyneighborhoodshane/minmicrog)
+  
+   * A scripts collection to collect and create a flashable with mostly **open-source** privacy-respecting applications providing alternative eco-system(s) to G-Apps centered around [microG](https://microg.org).
+
 ## Communities

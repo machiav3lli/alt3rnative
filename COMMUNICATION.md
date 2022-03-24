@@ -15,7 +15,7 @@
    - Your **open-source** personal relation manager.
 - [Trash Email](https://github.com/r0hi7/Trashemail)
   
-   - Is an **open-source** telegram bot, to create disposable email address. Main instances is reachable through [here](https://t.me/trashemail_bot).
+   - Is an **open-source** telegram bot, to create disposable email address. Main instance is reachable through [here](https://t.me/trashemail_bot).
 
 ## Tools
 
@@ -69,7 +69,7 @@
 
 * [Rambox](https://rambox.pro)
   
-   * All your communication services in one app and sandboxed. The app has an **open-source branch** but provides extra features for premium, [Hamsket](https://github.com/TheGoddessInari/hamsket) is fully **open-source** fork with extra features inspired from premium Rambox.
+   * All your communication services in one app and sandboxed. The project has turned in the last two years its back on the **open-source** community branch and lately made a full blown new major release, with no word on bringing the changes to the community version. Thus even [Hamsket](https://github.com/TheGoddessInari/hamsket), the fully **open-source** fork seems to have no bright future any more.
 
 * [Franz](https://meetfranz.com)
   

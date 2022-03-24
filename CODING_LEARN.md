@@ -118,6 +118,10 @@
   
    * A training set of assignments that helps in learning and improving knowledge of programming (languages). Usually available in a huge group of programming languages.
 
+* [Dash - General Assembly](https://dash.generalassemb.ly)
+  
+   * A well respected free course on web development.
+
 ## Tools
 
 - [Slip](https://www.slip.so)

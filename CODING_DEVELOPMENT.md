@@ -58,6 +58,14 @@
   
    * A website listing (all) known toolchains.
 
+* [Libhunt](https://www.libhunt.com)
+  
+   * A huge curated collection of libraries in the different languages and fields.
+
+* [Square](https://square.github.io)
+  
+   - Home for many **open-source** libraries in different languages and fields.
+
 ## Tools
 
 * [readme.so](https://readme.so)
@@ -72,9 +80,9 @@
   
    * A documentation-focused text writing tool with integrated version control.
 
-* [GitAhead](https://gitahead.github.io/gitahead.com)
+* [Gittyup](https://github.com/Murmele/Gittyup)
   
-   * The most versatile **open-source** git gui client for Linux (and the big two closed source OS).
+   * A promosing fork of the now unmaintained [GitAhead](https://gitahead.github.io/gitahead.com), the most versatile **open-source** git gui client.
 
 * [Ungit](https://github.com/FredrikNoren/ungit)
   

@@ -219,6 +219,30 @@
   
    - The parallel, multithreaded HTML browser. A preview is (already/only) available for RPI.
 
+- [Have I Been Pwned](https://haveibeenpwned.com)
+  
+   - A tool to check if your email or phone is in a data breach.
+
+- [Identity Leak Checker](https://sec.hpi.de/ilc/?lang=en)
+  
+   - A project of Hasso-Plattner-Institut to check if your email data is leaked.
+
+- [Human Programming Interface](https://github.com/karlicoss/HPI)
+  
+   - An **open-source** tool to unify the access and interaction of the personal data.
+
+- [Just Get My Data](https://justgetmydata.com)
+  
+   - A database with direkt links to get your data from the most used web services.
+
+- [neocities](https://neocities.org)
+  
+   - Who guessed that it would come back to life… An **open-source** platform for free hosting indie homepages. Was really popular before dying… but it's now back.
+
+- [Carrd](https://carrd.co)
+  
+   - A freemium tool to create a one-page site e.g. can work as a digital personal card. 
+
 ## Communities
 
 * [CV](https://read.cv)

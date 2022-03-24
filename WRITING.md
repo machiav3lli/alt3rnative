@@ -132,4 +132,8 @@
   
    * An **open-source** zettelkasten-oriented notes manager. Has a feature to auto-generate static website out of notes.
 
+* [Quillnote](https://github.com/msoultanidis/quillnote)
+  
+   * An Android **open-source** notes and todo manager.
+
 ## Communities

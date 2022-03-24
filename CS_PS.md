@@ -37,6 +37,10 @@
   
    - A platform for **open-source/access** courses on cyber security.
 
+- [BrowserLeaks](https://browserleaks.com)
+  
+   - A platform to educate about the full spectrum of digital fingerprinting beside cookies and IP addresses.
+
 ## Tools
 
 * [Cutter](https://cutter.re)
@@ -82,6 +86,10 @@
 * [Lynis](https://github.com/CISOfy/lynis)
   
    * An **open-source** security auditing tool for UNIX-based systems.
+
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+  
+   * An **open-source** HTTP proxy for penetration testers and software developers.
 
 ## Communities
 

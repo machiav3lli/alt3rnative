@@ -70,27 +70,46 @@
   
    * An **open-source** platform for writing and sharing html-based web-pages.
 
+* [meilisearch](https://github.com/meilisearch/meilisearch)
+  
+   * An **open-source** text search framework for the web.
+
 ## Tools
 
+- [jekyll](https://jekyllrb.com)
+  
+   - An **open-source** Static-Site-Generator. One of the most beloved ones and is powering Github Pages.
+
+- [Drupal](https://www.drupal.org)
+  
+   - An **open-source** CMS/SSG that is/was presumably second only to Wordpress.
+
+- [Wordpress](https://wordpress.org)
+  
+   - The most well-known **open-source** SSG/CMS.
 * [Weweb](https://www.weweb.io)
   
    * A fresh hybrid website builder.
 
 * [Offbase](https://offbase.org)
   
-   * An **open-source** in-browser static website generator based on git. Has a CMS build upon called [Offpress](https://offpress.app).
+   * An **open-source** in-browser SSG based on git. Has a CMS build upon called [Offpress](https://offpress.app).
 
 * [Zola](https://www.getzola.org)
   
-   * An **open-source** light static website generator.
+   * An **open-source** light SSG.
 
 * [Soupault](https://soupault.app)
   
-   * An **open-source** comprehensive static websites generator & editor.
+   * An **open-source** comprehensive static site generator & editor.
 
 * [Primo](https://primo.af)
   
-   * An **open-source** tool for building and managing static websites.
+   * An **open-source** SSG/CMS tool.
+
+* [Pagekit](https://github.com/pagekit/pagekit)
+  
+   * An **open-source** light weight CMS/SSG.
 
 * [Percy](https://percy.io)
   
@@ -106,7 +125,7 @@
 
 * [typesense](https://typesense.org)
   
-   * An opens-source search engine.
+   * An **open-source** search engine.
 
 * [Lowdefy](https://github.com/lowdefy/lowdefy)
   
@@ -172,6 +191,14 @@
   
    * A tool to create websites out of Google spreadsheets.
 
+* [Stein](https://steinhq.com)
+  
+   * An **open-source** (self-hosted) tool to create websites out of Google spreadsheets.
+
+* [You Don't Need Wordpress](https://www.youdontneedwp.com)
+  
+   * An **open-source** platform to create websites out of Google Docs. The repo wasn't maintained for a while.
+
 * [Netlify](https://www.netlify.com)
   
    * A half-**open-source** static websites generator and editor with a rich CMS.
@@ -183,6 +210,14 @@
 * [directus](https://directus.io)
   
    * An **open-source** tool for turning SQL databases into APIs.
+
+* [tunnelto.dev](https://tunnelto.dev)
+  
+   * An **open-source** (self-hosted) tool to tunnel your local server with a public url easily.
+
+* [Silex](https://www.silex.me)
+  
+   * An **open-source** website builder.
 
 ## Communities
 
