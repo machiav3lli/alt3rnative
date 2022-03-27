@@ -64,4 +64,12 @@
   
    * A scripts collection to collect and create a flashable with mostly **open-source** privacy-respecting applications providing alternative eco-system(s) to G-Apps centered around [microG](https://microg.org).
 
+* [FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager)
+  
+   * An **open-source** Magisk modules' manager as the built-in one was removed.
+
+* [Anemo](https://github.com/2bllw8/anemo)
+  
+   * An **open-source** tool to create a local private storage.
+
 ## Communities

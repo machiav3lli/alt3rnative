@@ -241,7 +241,31 @@
 
 - [Carrd](https://carrd.co)
   
-   - A freemium tool to create a one-page site e.g. can work as a digital personal card. 
+   - A freemium tool to create a one-page site e.g. can work as a digital personal card.
+
+- [tusk - thought you should know](https://tusk.page)
+  
+   - A tool to create a temporary page to get anonymous feedback.
+
+- [SEPIA](https://github.com/SEPIA-Framework)
+  
+   - An **open-source** voice assistant framework.
+
+- [Olivia](https://github.com/olivia-ai)
+  
+   - An **open-source** voice assistant.
+
+- [Kara](https://github.com/emileclarkb/Kara) & [Dragonfire](https://github.com/DragonComputer/Dragonfire)
+  
+   - **Open-source** voice assistant projects that are somehow inactive.
+
+- [Surname Maps](https://www.surnamemap.eu)
+  
+   - A search tool for surnames in couple of european countries.
+
+- [Marginalia](https://search.marginalia.nu)
+  
+   - An indie search engine with focus on not prioritising search results (e.g. SEO).
 
 ## Communities
 

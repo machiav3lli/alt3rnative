@@ -180,6 +180,10 @@
   
    * An **open-source** Berlin-based git repositories platform. Alternative to [Github](https://github.com) and [Gitlab](https://about.gitlab.com).
 
+* [Sourcehut](https://sourcehut.org)
+  
+   * An **open-source** development platform with git hosting in its heart. 
+
 * [Kalithea](https://kallithea-scm.org)
   
    * An **open-source** self-hosted source code management system with Git and Mercurial support.
@@ -296,6 +300,22 @@
   
    * A freemium cross-platform apps development platform based on Flutter.
 
+* [regular expressions 101](https://regex101.com)
+  
+   * A popular regex testing tool.
+
+* [Lapce](https://github.com/lapce/lapce)
+  
+   * An **open-source** code editor focused on speed with built in support for WASI.
+
+* [Vast.ai](https://vast.ai)
+  
+   * Renting platform for GPUs to use in AI.
+
+* [Enarx](https://enarx.dev)
+  
+   * An **open-source** trusted execution enviroment (TEE) framework.
+
 ## Communities
 
 * [Free Dev Stuff](https://freestuff.dev)
@@ -325,3 +345,7 @@
 * [Handmade](https://handmade.network)
   
    * An open community with focus on producing quality software through deeper understanding of problems/questions.
+
+* [DEV Community](https://dev.to)
+  
+   * An **open-source** social platform for developers based on their own [forem](https://github.com/forem/forem).

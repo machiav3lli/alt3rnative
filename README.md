@@ -96,9 +96,9 @@ Each of the topics covers a realm of resources, tools and communities.
 
 #### Notice:
 
-The migration of my local resources into this project is not done yet. That's why I'll be using semantic versioning, stating how much of my resources has been already added here:
+Semantic versioning:
 
-- Major: 1 means I've already migrated all of the local data here.
+- Major: 1 means I've already migrated all of the local data that I had when I started the project. Would change if a full revamp of the structure would take place.
 
 - Minor:
   
@@ -108,4 +108,6 @@ The migration of my local resources into this project is not done yet. That's wh
 
 - Patch: Point fixes or iterations.
 
-The lists are subject to changes, removal or restructuring as the lists get bigger and more complicated. I'll also try to keep dead/killed projects out of the list (if you already checked a project and found out that it was killed, then just inform me in the info section)
+The lists are subject to changes, removal or restructuring as the lists get bigger and more complicated. I'll also try to keep dead/killed projects out of the list. 
+
+#### if you already checked a project and found out that it was killed/(re)moved, then just inform me through an issue or directly through a PR.

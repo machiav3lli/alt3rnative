@@ -56,6 +56,10 @@
   
    * A tool to create a fully fake deep personal data that can be used isntead of your real info.
 
+* [Flutter Random Face Generator](https://github.com/adityar224/Random-Face-Generator)
+  
+   * An **open-source** cross-platform app to generate random faces of people.
+
 ## Communities
 
 * [Data Detox Kit](https://datadetoxkit.org)

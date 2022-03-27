@@ -92,6 +92,10 @@
   
    * An **open-source** graphical tool to ease the configuration of NixOS.
 
+* [Blobbackup](https://github.com/blobbackup/blobbackup)
+  
+   * An **open-source** privacy focused backup solution for the two main proprietary OSes.
+
 ## Communities
 
 * [MX Linux](https://mxlinux.org)
@@ -193,3 +197,7 @@
 * [UKUI](https://www.ukui.org)
   
    * A relativally new DE that's used mainly by KylinOS.
+
+* [PureOS](https://pureos.net)
+  
+   * An **open-source** linux-based mobile OS with a convergent desktop mode.

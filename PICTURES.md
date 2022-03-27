@@ -88,6 +88,10 @@
   
    * A freemium photo editor providing different versions with different levels of complexity.
 
+* [Cascade](https://github.com/ttddee/Cascade)
+  
+   * An **open-source** node-based image editor.
+
 ## Communities
 
 - [Glass](https://glass.photo)

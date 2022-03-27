@@ -74,6 +74,34 @@
   
    * An **open-source** text search framework for the web.
 
+* [tailwindcss](https://tailwindcss.com)
+  
+   * A well known **open-source** lightweight CSS framework. Can be even complemented with [DaisyUI](https://daisyui.com) component library.
+
+* [Bootstrap](https://getbootstrap.com)
+  
+   * An **open-source** web development framework.
+
+* [Semantic UI](https://github.com/Semantic-Org)
+  
+   * An **open-source** web UI component framework.
+
+* [ARWES](https://github.com/arwes/arwes)
+  
+   * An **open-source** futuristic Sci-Fi UI web framework.
+
+* [Milligram](https://github.com/milligram)
+  
+   * An **open-source** minimalist CSS framework.
+
+* [Elix](https://component.kitchen/elix)
+  
+   * An **open-source** collection of web components.
+
+* [MDBootstrap](https://github.com/mdbootstrap)
+  
+   * An **open-source** set of Material Design UI-Kits for web development.
+
 ## Tools
 
 - [jekyll](https://jekyllrb.com)
@@ -217,7 +245,47 @@
 
 * [Silex](https://www.silex.me)
   
-   * An **open-source** website builder.
+   * An **open-source** low-code website builder. A hosted instance can be found [here](https://editor.silex.me).
+
+* [Budibase](https://github.com/Budibase/budibase)
+  
+   * An **open-source** modern low-code website builder.
+
+* [GrapesJS](https://grapesjs.com)
+  
+   * An **open-source** low-code website builder. Based upon there is a hosted service named [Grapedrop](https://grapedrop.com).
+
+* [Mobirise](https://mobirise.com)
+  
+   * A freemium website builder based in the Netherlands.
+
+* [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug)
+  
+   * An **open-source** web-development toolbox for designers.
+
+* [Vercel](https://vercel.com)
+  
+   * A freemium web development platform. The maintainers of [Next.js, Svelte and other well known frameworks](https://vercel.com/oss?utm_source=next-site&utm_medium=footer&utm_campaign=next-website).
+
+* [Remarkbox](https://www.remarkbox.com)
+  
+   * A pay-what-you-can hosted comment system.
+
+* [Placeholdifier](https://github.com/pomber/placeholdifier)
+  
+   * An **open-source** chromium extension to convert any website into a live wireframe.
+
+* [Budibase](https://github.com/Budibase/budibase)
+  
+   - An **open-source** low-code web apps development platform.
+
+* [WAPM](https://wapm.io)
+  
+   * A package manager for WebAssembly.
+
+* [DECK](https://github.com/sfx101/deck)
+  
+   * An **open-source** local web development studio with a comprehensive catagog of development stacks.
 
 ## Communities
 
@@ -228,3 +296,7 @@
 - [Open UI](https://open-ui.org)
   
    - An open-community with the mission to standardize UI definitions.
+
+- [CSS Zen Garden](http://csszengarden.com)
+  
+   - A collective providing templates to show what CSS design is capable of.

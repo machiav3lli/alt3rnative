@@ -50,6 +50,10 @@
   
    * A audio books platform which unique selling point is allowing you to download the books.
 
+* [The Brutalist Report](https://brutalist.report)
+  
+   * A curated list of "bullshit-free" news.
+
 ## Tools
 
 * [Typesense open-library](https://books-search.typesense.org)
@@ -116,3 +120,7 @@
 * [MobileRead](https://www.mobileread.com)
   
    * A platform/community that's focused on e-books and e-readers.
+
+* [booqsi](https://www.booqsi.com)
+  
+   - A social platform for the book community.

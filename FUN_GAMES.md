@@ -60,6 +60,18 @@
   
    * An **open-source** simple 2D-platformer to spend some realxing time.
 
+* [Tradle](https://oec.world/en/tradle)
+  
+   * A game with the same rules of Wordle to test your trade knowledge.
+
+* [Summle](https://summle.net)
+  
+   * A game with the same logic of Wordle to test your calculation competence.
+
+* [Rotator](https://0xf00ff00f.github.io/rotator/)
+  
+   * An **open-source** 3D-matching game. 
+
 ## Communities
 
 * [Roleplayful](https://roleplayful.com)

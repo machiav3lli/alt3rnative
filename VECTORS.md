@@ -74,6 +74,10 @@
   
    * An **open-source** family of icons.
 
+* [Bootstrap Icons](https://icons.getbootstrap.com)
+  
+   * An **open-source** collection of icons.
+
 ## Tools
 
 * [Pattern Generator](https://doodad.dev/pattern-generator)

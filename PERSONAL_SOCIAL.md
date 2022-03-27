@@ -112,3 +112,15 @@
 - [Meetup](https://www.meetup.com)
   
    - A small social network with focus on organizing events.
+
+- [Mozilla Hubs](https://hubs.mozilla.com)
+  
+   - An **open-source** platform for private 3D social spaces.
+
+- [booqsi](https://www.booqsi.com)
+  
+   - A social platform for the book community.
+
+- [Alovoa](https://github.com/Alovoa)
+  
+   - An **open-source** dating platform.

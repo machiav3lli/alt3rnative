@@ -196,6 +196,14 @@
   
    * An **open-source** animations, games and "everything between" creator tool.
 
+* [Sketch2Code](https://sketch2code.azurewebsites.net)
+  
+   * An **open-source** tool to create HTML code from hand-drawn sketches. A project of MS AI Lab.
+
+* [Huemint](https://huemint.com)
+  
+   * A color palette generator using ML.
+
 ## Communities
 
 * [Presentator](https://presentator.io)
