@@ -122,6 +122,14 @@
   
    * A well respected free course on web development.
 
+* [futurecoder](https://github.com/alexmojaki/futurecoder)
+  
+   * An **open-source** interactive Python course for beginners.
+
+* [LeetCode](https://leetcode.com)
+  
+   - A learning platform for programming but also covers the general concepts of CS.
+
 ## Tools
 
 - [Slip](https://www.slip.so)
@@ -131,6 +139,14 @@
 - [UdemyPy](https://github.com/dylannalex/UdemyPy)
   
    - An **open-source** Telegram bot to aggregate free courses on Udemy.
+
+- [code-type](https://github.com/siddheshkothadi/code-type)
+  
+   - An **open-source** web app to learn typing based on the most used words in the most popular programming languages.
+
+- [Leetcode Anki card generator](https://github.com/prius/leetcode-anki)
+  
+   - An **open-source** tool to create Anki cards from LeetCode training problems.
 
 ## Communities
 

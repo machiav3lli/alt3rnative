@@ -267,6 +267,14 @@
   
    - An indie search engine with focus on not prioritising search results (e.g. SEO).
 
+- [Xtreme Download Manager](https://github.com/subhra74/xdm)
+  
+   - An **open-source** download manager with focus on download accleration and web video download.
+
+- [Motrix](https://github.com/agalwood/Motrix)
+  
+   - An **open-source** download manager with extra support for BitTorrent, Magnet etc..
+
 ## Communities
 
 * [CV](https://read.cv)

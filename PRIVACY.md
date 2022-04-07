@@ -60,6 +60,10 @@
   
    * An **open-source** cross-platform app to generate random faces of people.
 
+* [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect)
+  
+   * An **open-source** web extension, that redirects links to Twitter, YouTube, Instagram & Google Maps to privacy respecting alternatives.
+
 ## Communities
 
 * [Data Detox Kit](https://datadetoxkit.org)

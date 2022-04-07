@@ -64,6 +64,10 @@
   
    * An **open-source** python library for efficient data extraction from Wikipedia.
 
+* [Blue Brain BioExplorer (BBBE)](https://github.com/BlueBrain/BioExplorer)
+  
+   * An **open-source** tool for researchers to extract and analyze scientific data from visualizations and interactive explorations.
+
 ## Communities
 
 * [ResearchHub](https://www.researchhub.com)

@@ -64,4 +64,8 @@
   
    * An **open-source** fantasy SVG maps generator that could be used for different needs e.g. games.
 
+* https://groundplatform.org/
+  
+   * An **open-source** map-first tool to collect and analyse data with a web and an Android versions.
+
 ## Communities

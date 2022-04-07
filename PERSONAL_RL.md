@@ -56,6 +56,10 @@
   
    - The **open-source** planner to manage all forms of TODOs with integration for Todoist.
 
+- [Idaesbasic](https://github.com/BenHerbst/idaesbasic/)
+  
+   - An **open-source** multi-tools text-files-based project manager.
+
 - [Fokus](https://fokus-website.netlify.app)
   
    - An **open-source** todo-list app with ton of in-depth features.
@@ -99,6 +103,10 @@
 - [Mycroft AI](https://mycroft.ai)
   
    - A well-known **open-source** digital assistant.
+
+- [Cooklang](https://github.com/cooklang)
+  
+   - An **open-source** markup language for recipes with pair of accompanying apps.
 
 ## Communities
 

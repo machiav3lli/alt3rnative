@@ -97,3 +97,5 @@
    * A list of the (technical) information's security competences that a searcher should have.
 * [SSH tricks & tips](https://smallstep.com/blog/ssh-tricks-and-tips)
    * A small list of tips & tricks to improve the security and your work flow with SSH.
+* [emergenCITY](https://www.emergencity.de)
+   * A interdisciplinary research cooperation on resilient infrastructures of smart cities.

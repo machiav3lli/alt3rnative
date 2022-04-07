@@ -69,3 +69,7 @@
 * [Cwtch](https://git.openprivacy.ca/cwtch.im)
   
    * An **open-source** decentralized privacy-focused messaging network.
+
+* [Peepeth](https://peepeth.com)
+  
+   * A blockchain-based social network with emphasis on mindfulness, respect and charity.

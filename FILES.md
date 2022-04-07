@@ -96,4 +96,8 @@
   
    * An **open-source** web-based tool to calculate files' hash and checksums.
 
+* [croc](https://github.com/schollz/croc)
+  
+   * An **open-source** cross-platform CLI tool to easily send files between devices.
+
 ## Communities

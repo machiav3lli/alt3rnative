@@ -72,4 +72,8 @@
   
    * An **open-source** tool to create a local private storage.
 
+* [Fossapps creator](https://un.pixel-fy.com)
+  
+   * An **open-source** tool to create magisk flashable package with selected FOSS-apps.
+
 ## Communities

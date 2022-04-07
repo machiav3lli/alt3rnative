@@ -30,6 +30,10 @@
   
    - A collection of notes on Android security aspects.
 
+- [CATAPPULT](https://catappult.io)
+  
+   - An android app distribution platform with a huge number of cooperation partners.
+
 - Apps as best practices samples:
   
    - [Web Developer Tools Android](https://github.com/ibrahimsn98/web-dev-tools-android), [McCompose](https://github.com/hitanshu-dhawan/McCompose), [Alkaa](https://github.com/igorescodro/alkaa), 

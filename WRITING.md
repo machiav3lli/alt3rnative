@@ -136,4 +136,8 @@
   
    * An Android **open-source** notes and todo manager.
 
+* [Super Productivity](https://github.com/johannesjo/super-productivity)
+  
+   * An **open-source** fancy todo list app that comes with extra integration of some futher project management platforms e.g. Gitlab, GH etc..
+
 ## Communities

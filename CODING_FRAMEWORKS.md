@@ -100,4 +100,8 @@
   
    * A Go IDE with focus on speed. Still in early development.
 
+* [Sanic](https://github.com/sanic-org/sanic)
+  
+   * An **open-source** Python web framework & server with focus on running async code.
+
 ## Communities

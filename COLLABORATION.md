@@ -138,11 +138,19 @@
 
 * [Nuclino](https://www.nuclino.com)
   
-   * A european graphic-based database and collaboration tool.
+   * A european freemium graphic-based database and collaboration tool.
 
 * [MeisterTask](https://www.meistertask.com)
   
-   * A european Kanban based team collaboration tool.
+   * A european freemium Kanban based team collaboration tool.
+
+* [Tinysheet](https://tinysheet.com) & [Tinymonth](https://tinymonth.com)
+  
+   * Simple shareable 2x10-sheet and zoomed-out calendar with bare minimum functions. Both are part of [Postlight Labs](https://postlight.com/labs).
+
+* [widget-board](https://widget-board.com)
+  
+   * An interesting tool to create shareable boards with different widgets.
 
 ## Communities
 
