@@ -208,6 +208,10 @@
   
    * An **open-source** mind-mapping application. Part of the nice set of apps from [phase1geo (Trevor Williams)](https://github.com/phase1geo?tab=repositories).
 
+* [Edotor](https://github.com/nikeee/edotor.net)
+  
+   * An **open-source** online Graphviz editor.
+
 ## Communities
 
 * [Presentator](https://presentator.io)

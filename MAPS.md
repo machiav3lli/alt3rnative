@@ -34,6 +34,10 @@
   
    * An **open-source** maps & navigation app for linux and Sailfish OS.
 
+* [TransforMap](http://transformap.co)
+  
+   * An open collection of maps with focus on green & social initiatives.
+
 ## Tools
 
 * [uMap](https://umap.openstreetmap.fr)

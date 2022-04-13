@@ -316,6 +316,10 @@
   
    * An **open-source** trusted execution enviroment (TEE) framework.
 
+* [JSON Schema Store](https://www.schemastore.org/json/)
+  
+   * A huge collection of JSON schemas.
+
 ## Communities
 
 * [Free Dev Stuff](https://freestuff.dev)

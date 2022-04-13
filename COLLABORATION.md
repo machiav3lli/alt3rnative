@@ -152,6 +152,10 @@
   
    * An interesting tool to create shareable boards with different widgets.
 
+* [Manuscripts](https://www.manuscripts.io)
+  
+   * A collaborative tool to create complex documents with focus on research.
+
 ## Communities
 
 * [Framasoft](https://framasoft.org/en)

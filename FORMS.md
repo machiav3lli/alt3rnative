@@ -36,4 +36,8 @@
   
    - A decentralised Blockstack-based forms creator.
 
+- [formsflow.ai](https://github.com/AOT-Technologies/forms-flow-ai)
+  
+   - An **open-source** self-hostable low-code forms creator and manager tool.
+
 ## Communities

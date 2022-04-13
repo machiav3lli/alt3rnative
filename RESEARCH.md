@@ -8,7 +8,7 @@
 
 * [OSF](https://osf.io)
   
-   * A free and open platform for researches.
+   * A free and **open-data** platform for researches.
 
 * [The World Bank - Data Bank](https://databank.worldbank.org)
   
@@ -25,6 +25,10 @@
 * [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology)
   
    * An community maintained list of open technology projects working on sustainability of climate.
+
+* [Authorea](https://www.authorea.com)
+  
+   * A new **open-data** platform with a realtively small number of researches.
 
 ## Tools
 

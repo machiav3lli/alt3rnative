@@ -36,7 +36,7 @@
 
 - Apps as best practices samples:
   
-   - [Web Developer Tools Android](https://github.com/ibrahimsn98/web-dev-tools-android), [McCompose](https://github.com/hitanshu-dhawan/McCompose), [Alkaa](https://github.com/igorescodro/alkaa), 
+   - [Web Developer Tools Android](https://github.com/ibrahimsn98/web-dev-tools-android), [McCompose](https://github.com/hitanshu-dhawan/McCompose), [Alkaa](https://github.com/igorescodro/alkaa), [Groceries Store](https://github.com/hieuwu/android-groceries-store), [Mojito](https://github.com/hvsimon/Mojito) …
 
 ## Tools
 
@@ -55,5 +55,17 @@
 - [PGPainless](https://github.com/pgpainless/pgpainless)
   
    - An **open-source** Java library to ease the use of OpenPGP.
+
+- [Pluto](https://github.com/plutolib/pluto)
+  
+   - An **open-source** on-device debugging framework for Android applications.
+
+- [Warden](https://github.com/alexstyl/warden)
+  
+   - An **open-source** library to help managing permissions in coroutines.
+
+- [FOSSLight](https://github.com/fosslight)
+  
+   - An **open-source** suite of project analysis tools with focus on OSS information.
 
 ## Communities

@@ -140,4 +140,24 @@
   
    * An **open-source** fancy todo list app that comes with extra integration of some futher project management platforms e.g. Gitlab, GH etc..
 
+* [Story Architecture](https://github.com/story-apps/starc)
+  
+   * An **open-source** text editor with focus on story & script writing.
+
+* [KIT Scenarist](https://github.com/dimkanovikov/KITScenarist)
+  
+   * An **open-source** text editor focused on screenwriting.
+
+* [Manuskript](https://github.com/olivierkes/manuskript)
+  
+   * An **open-source** text editor with focus on manuscripting.
+
+* [BCS Author](https://github.com/Borg-Creative-Studios/bcs-author-web)
+  
+   * An **open-source** in-browser writing app.
+
+* [OmniaWrite](https://github.com/TorstenDittmann/OmniaWrite)
+  
+   * An **open-source** text editor with focus on manuscripting.
+
 ## Communities

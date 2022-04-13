@@ -124,3 +124,7 @@
 - [Alovoa](https://github.com/Alovoa)
   
    - An **open-source** dating platform.
+
+- [Flote](https://flote.biz)
+  
+   - An crypto-based social network with focus on content creation.

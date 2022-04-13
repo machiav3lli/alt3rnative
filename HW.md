@@ -125,3 +125,7 @@
 * [Tindie](https://www.tindie.com)
   
    * An open community selling platform for technological/IT DIY products.
+
+* [Indice de Réparabilité](https://www.indicereparabilite.fr/appareils/multimedia/)
+  
+   * The french indicator of reparability website with notes for smartphones, laptops and televisions.
