@@ -16,7 +16,7 @@
 
 ## Tools
 
-* [Calendso](https://calendso.com)
+* [Cal.com](https://github.com/calcom/cal.com)
   
    * An **open-source** (self-hosted) scheduling platform.
 

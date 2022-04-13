@@ -104,7 +104,7 @@
   
    * The established **open-source** designing tool. Since 2019 not active anymore.
 
-* [mydraft.cc](https://mydraft.cc)
+* [mydraft.cc](https://github.com/mydraft-cc)
   
    * A nice **open-source** wireframing/UX tool.
 
