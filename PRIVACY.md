@@ -64,6 +64,10 @@
   
    * An **open-source** web extension, that redirects links to Twitter, YouTube, Instagram & Google Maps to privacy respecting alternatives.
 
+* [Terms of Service; Didn’t Read](https://github.com/tosdr)
+  
+   * An **open-source** browser extension to get the rating of the ToS of the sites you visit. The rating is crowd-sourced.
+
 ## Communities
 
 * [Data Detox Kit](https://datadetoxkit.org)

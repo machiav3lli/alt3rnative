@@ -138,4 +138,8 @@
   
    - An **open-source** unified message management tool to manage (all) your communication.
 
+- [Kube](https://kube-project.com)
+  
+   - An **open-source** email client with a touch of the modern communication.
+
 ## Communities

@@ -72,4 +72,8 @@
   
    * An **open-source** map-first tool to collect and analyse data with a web and an Android versions.
 
+* [Offroad](https://sourceforge.net/p/offroadosm/code/ci/master/tree)
+  
+   * An **open-source** offline OSM maps navigator.
+
 ## Communities

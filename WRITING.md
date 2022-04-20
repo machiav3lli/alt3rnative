@@ -160,4 +160,8 @@
   
    * An **open-source** text editor with focus on manuscripting.
 
+* [Setzer](https://github.com/cvfosammmm/Setzer)
+  
+   * An **open-source** GTK-based desktop latex editor.
+
 ## Communities

@@ -22,6 +22,10 @@
   
    - An **open-source** project to create decentral digital identities.
 
+* [Ledger - NGI](https://ledgerproject.eu)
+  
+   * A EU funded venture builder for decentrilized human centric solutions.
+
 ## Tools
 
 * [Cactus Comments](https://cactus.chat)

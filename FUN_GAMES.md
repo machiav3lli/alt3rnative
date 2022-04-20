@@ -70,7 +70,11 @@
 
 * [Rotator](https://0xf00ff00f.github.io/rotator/)
   
-   * An **open-source** 3D-matching game. 
+   * An **open-source** 3D-matching game.
+
+* [Vocaluxe](https://www.vocaluxe.org), [Ultra Star Deluxe](https://usdx.eu) & [Perfomous](https://performous.org)
+  
+   * **Open-source** Karaoke games.
 
 ## Communities
 

@@ -92,6 +92,10 @@
   
    * An **open-source** extensible music server that supports not only local music but e.g. Spotify, Soundcloud.
 
+* [YTMDesktop](https://github.com/ytmdesktop/ytmdesktop)
+  
+   * An **open-source** alternative Youtube Music frontend. 
+
 ## Communities
 
 * [Openwhyd](https://openwhyd.org/)

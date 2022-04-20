@@ -320,6 +320,18 @@
   
    * A huge collection of JSON schemas.
 
+* [Podman](https://github.com/containers/podman)
+  
+   * An **open-source** OCI containers and pods manager. There's also a [GUI desktop client](https://github.com/iongion/podman-desktop-companion).
+
+* [Porto](https://github.com/cvfosammmm/Porto)
+  
+   * An **open-source** GTK-based jupyter-notebooks editor.
+
+* [typesense](https://github.com/typesense/typesense)
+  
+   * An **open-source** search engine that focuses on being an alternative to Algolia & ElasticSearch.
+
 ## Communities
 
 * [Free Dev Stuff](https://freestuff.dev)
@@ -353,3 +365,7 @@
 * [DEV Community](https://dev.to)
   
    * An **open-source** social platform for developers based on their own [forem](https://github.com/forem/forem).
+
+* [Open Gamedev School by Spicy Lobster](https://spicylobster.itch.io/fishfight/devlog/345530/open-gamedev-school)
+  
+   * An interesting community call to learn game development and collaborate on **open-source** games.

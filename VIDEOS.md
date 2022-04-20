@@ -22,6 +22,10 @@
   
    * A list of the public Invidious instances. [Invidious](https://github.com/iv-org/invidious) is an **open-source** Youtube front-end with privacy focused features.
 
+* [Channels Stack](https://channelsstack.webflow.io)
+  
+   * A curate collection of educational YT channels categorized based on topic/field.
+
 ## Tools
 
 * [Owncast](https://owncast.online)

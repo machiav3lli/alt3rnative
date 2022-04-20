@@ -103,6 +103,10 @@
   
    - An **open-source** minimalist desktop feed reader.
 
+- [Wikifox](https://github.com/Wikifox/wikifox)
+  
+   - An **open-source** wikipedia frontend with focus on simplicity and modern design.
+
 ## Community
 
 * [ResearchGate](https://www.researchgate.net)

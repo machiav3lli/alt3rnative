@@ -291,6 +291,10 @@
   
    * An **open-source** local web development studio with a comprehensive catagog of development stacks.
 
+* [GTmetrix](https://gtmetrix.com)
+  
+   * A tool to test website-load times with pretty informative feedback. be aware that it seems that the tool is ads-backed and you'll see a lot of product-suggestions on each corner.
+
 ## Communities
 
 - [Hugo Ranked](https://hugoranked.com)

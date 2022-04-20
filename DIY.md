@@ -67,4 +67,8 @@
 
 * [WikiHow](https://www.wikihow.com)
   
-   * The wikipedia on how to do stuff. 
+   * The wikipedia on how to do stuff.
+
+* [Thingiverse](https://www.thingiverse.com)
+  
+   - A social platform for 3D-print DIY projects.

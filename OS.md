@@ -146,6 +146,10 @@
   
    * An **open-source** distribution focused on using KDE's MAUI framework's apps. Having apps that are usable with different display factors.
 
+* [Maui Shell](https://github.com/Nitrux/maui-shell)
+  
+   - An **open-source** desktop/mobile/tablet environment for linux built by Nitrux team.
+
 * [Asahi Linux](https://asahilinux.org)
   
    * An **open-source** project trying to bring apple-silicon support to Linux. 

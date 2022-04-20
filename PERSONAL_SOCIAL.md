@@ -128,3 +128,7 @@
 - [Flote](https://flote.biz)
   
    - An crypto-based social network with focus on content creation.
+
+- [slow social](https://slowsocial.us)
+  
+   - A social platform with focus on simple comunication between friends without giving a platform for influencers.

@@ -68,4 +68,12 @@
   
    - An **open-source** suite of project analysis tools with focus on OSS information.
 
+- [JADX](https://github.com/skylot/jadx)
+  
+   - An **open-source** dex & apk to Java decompiler.
+
+- [Ruler](https://github.com/spotify/ruler)
+  
+   - An **open-source** Gradle plugin to analyse size of Android apps. 
+
 ## Communities

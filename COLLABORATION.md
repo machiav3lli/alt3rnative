@@ -156,6 +156,10 @@
   
    * A collaborative tool to create complex documents with focus on research.
 
+* [Planka](https://github.com/plankanban/planka)
+  
+   * An **open-source** kanban-based self-hostable collaboration platform with a good concepation.
+
 ## Communities
 
 * [Framasoft](https://framasoft.org/en)

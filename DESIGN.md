@@ -212,6 +212,10 @@
   
    * An **open-source** online Graphviz editor.
 
+* [Wikifactory](https://wikifactory.com)
+  
+   * A freemium collaboration platform for design/CAD/3D projects.
+
 ## Communities
 
 * [Presentator](https://presentator.io)
@@ -237,3 +241,7 @@
 * [Usability Body of Knowledge](https://www.usabilitybok.org)
   
    * A community that has the aim to make the current collective knowledge in usability research field easily accessible.
+
+* [Prototypr](https://prototypr.io)
+  
+   * A community blog on designing and UX.

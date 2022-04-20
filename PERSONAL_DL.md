@@ -34,6 +34,10 @@
   
    * A strong and (for the most part) comprehensive search engine for MOOCs.
 
+* [ecobytes](https://ecobytes.net)
+  
+   * A germany-based non-profit IT collective with hosting services (WP, Drupal & Webmail) for activists, researchers and other individuals based on solidarity economy.
+
 ## Tools
 
 * [TagSpaces](https://www.tagspaces.org)
@@ -274,6 +278,18 @@
 - [Motrix](https://github.com/agalwood/Motrix)
   
    - An **open-source** download manager with extra support for BitTorrent, Magnet etc..
+
+- [Raindrop.io](https://github.com/raindropio)
+  
+   - An **open-source** self-hostable feature-rich bookmarks manager.
+
+- [Memex](https://github.com/WorldBrain/Memex)
+  
+   - An **open-source** browser extension to full-text search your bookmarks & browsing history.
+
+- [WebCrate](https://github.com/WebCrateApp)
+  
+   - An **open-source** bookmarks manager with accompaning browser extension.
 
 ## Communities
 
