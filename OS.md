@@ -108,7 +108,7 @@
 
 * [Neverware](https://www.neverware.com)
   
-   * An **open-source** fork of Chromium OS improved and for (all) devices. Recently bought by Google.
+   * A <u>mostly</u> **open-source** fork of Chromium OS improved and for (all) devices. Recently bought by Google and their product was renamed to "Chrome OS Flex".
 
 * [FydeOS](https://fydeos.io)
   
