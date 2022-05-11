@@ -332,6 +332,18 @@
   
    * An **open-source** search engine that focuses on being an alternative to Algolia & ElasticSearch.
 
+* [abcdesktop](https://www.abcdesktop.io)
+  
+   * An **open-source** tool to setup desktopless services based on VNC & Kubernetes.
+
+* [Fig](https://github.com/withfig/autocomplete)
+  
+   * An **open-source** cross-platform terminal auto-completion module.
+
+* [DronaHQ](https://github.com/dronahq/self-hosted)
+  
+   * An **open-source** low-code platform for building internal tools.
+
 ## Communities
 
 * [Free Dev Stuff](https://freestuff.dev)

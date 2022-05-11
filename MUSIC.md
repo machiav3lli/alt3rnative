@@ -30,6 +30,10 @@
   
    * A curated collection of CC licensed music.
 
+* [Audius](https://audius.co)
+  
+   * An **open-source** blockchain-based platform for low-profile music. 
+
 ## Tools
 
 * [AudioMass](https://audiomass.co)
@@ -94,7 +98,19 @@
 
 * [YTMDesktop](https://github.com/ytmdesktop/ytmdesktop)
   
-   * An **open-source** alternative Youtube Music frontend. 
+   * An **open-source** alternative Youtube Music frontend.
+
+* [AUX](https://aux.app)
+  
+   * A freemium collaboration platform on music projects. Still in early development.
+
+* [Spotube](https://github.com/KRTirtho/spotube)
+  
+   * An **open-source** cross-platform Sptify client that uses YT & Spotify APIs.
+
+* [NoiseCraft](https://github.com/maximecb/noisecraft)
+  
+   * An **open-source** visual progrmming language for sound synthesis.
 
 ## Communities
 

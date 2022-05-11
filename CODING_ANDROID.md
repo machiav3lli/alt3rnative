@@ -36,7 +36,7 @@
 
 - Apps as best practices samples:
   
-   - [Web Developer Tools Android](https://github.com/ibrahimsn98/web-dev-tools-android), [McCompose](https://github.com/hitanshu-dhawan/McCompose), [Alkaa](https://github.com/igorescodro/alkaa), [Groceries Store](https://github.com/hieuwu/android-groceries-store), [Mojito](https://github.com/hvsimon/Mojito) …
+   - [Web Developer Tools Android](https://github.com/ibrahimsn98/web-dev-tools-android), [McCompose](https://github.com/hitanshu-dhawan/McCompose), [Alkaa](https://github.com/igorescodro/alkaa), [Groceries Store](https://github.com/hieuwu/android-groceries-store), [Mojito](https://github.com/hvsimon/Mojito), [Slime](https://github.com/kasem-sm/SlimeKT), [MyNotes](https://github.com/avidraghav/MyNotes) …
 
 ## Tools
 
@@ -74,6 +74,10 @@
 
 - [Ruler](https://github.com/spotify/ruler)
   
-   - An **open-source** Gradle plugin to analyse size of Android apps. 
+   - An **open-source** Gradle plugin to analyse size of Android apps.
+
+- [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio)
+  
+   - An **open-source** cross platform IDE for reverse-engineering Android application packages (not updated since a while).
 
 ## Communities

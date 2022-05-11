@@ -78,6 +78,14 @@
   
    * An **open-source** collection of icons.
 
+* [heroicons](https://github.com/tailwindlabs/heroicons)
+  
+   * An **open-source** icons library.
+
+* [Tabler Icons](https://tabler-icons.io)
+  
+   * An **open-source** icons library.
+
 ## Tools
 
 * [Pattern Generator](https://doodad.dev/pattern-generator)

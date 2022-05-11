@@ -73,3 +73,7 @@
 * [Cross License Collaboratives](https://xlcollaborative.com)
   
    * An open collective for democratically licensed projects.
+
+* [Kaleidos (Startups)](https://kaleidos.net/products)
+  
+   - A company with focus on incubating open-source projects/startups. Incubator of [Taiga.io](https://www.taiga.io) & [Penpot](https://penpot.app).

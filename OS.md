@@ -96,6 +96,18 @@
   
    * An **open-source** privacy focused backup solution for the two main proprietary OSes.
 
+* [Spacedrive](https://github.com/spacedriveapp/spacedrive)
+  
+   * An **open-source** cross-platform file explorer.
+
+* [PowerToys](https://github.com/microsoft/PowerToys)
+  
+   * An **open-source** set of utilities to optimize MS Windows. I don't encourage using MS Windows, but if you had to, those tools should be able to give control over some aspects of the system.
+
+* [Howdy](https://github.com/boltgolt/howdy)
+  
+   * An **open-source** app to improve face recognition on Loinux. 
+
 ## Communities
 
 * [MX Linux](https://mxlinux.org)

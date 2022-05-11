@@ -164,4 +164,12 @@
   
    * An **open-source** GTK-based desktop latex editor.
 
+* [Keenwrite](https://github.com/DaveJarvis/keenwrite)
+  
+   * An **open-source** text editor with support of string interpolation.
+
+* [CoverView](https://github.com/rutikwankhade/CoverView)
+  
+   * An **open-source** cover images generator. 
+
 ## Communities

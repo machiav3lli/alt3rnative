@@ -42,6 +42,14 @@
   
    * A personal blog with a collection of (crazy) startup ideas.
 
+* [Signapse](https://github.com/albanjoseph/Signapse)
+  
+   * An **open-source** app to help learning sign language.
+
+* [Workmode](https://workmode.co)
+  
+   * A platform to help find work places in the respective local/city.
+
 ## Tools
 
 - [Eat This Much](https://www.eatthismuch.com)
@@ -107,6 +115,18 @@
 - [Cooklang](https://github.com/cooklang)
   
    - An **open-source** markup language for recipes with pair of accompanying apps.
+
+- [Free Online Dice](https://freeonlinedice.com)
+  
+   - A tool to roll a dice or flip a coin (with different variants).
+
+- [Actual](https://github.com/actualbudget)
+  
+   - A newly **open-sourced** (self-hostable) finance manager.
+
+- [How to professionally say](https://github.com/AkashRajpurohit/howtoprofessionallysay)
+  
+   - An **open-source** database on formal alternatives for some sentences in context of work.
 
 ## Communities
 

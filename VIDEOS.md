@@ -88,6 +88,10 @@
   
    * An **open-source** video player for Android that supports remote playing.
 
+* [Pitvi](https://gitlab.gnome.org/GNOME/pitivi)
+  
+   * An **open-source** video editing app.
+
 ## Communities
 
 * [DRM-Free Guide](https://www.defectivebydesign.org/guide)

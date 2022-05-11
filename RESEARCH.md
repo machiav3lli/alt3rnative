@@ -30,6 +30,10 @@
   
    * A new **open-data** platform with a realtively small number of researches.
 
+* [ProofWiki](https://proofwiki.org/wiki/Main_Page)
+  
+   * A platform that aims to be encycopedia of mathematical proofs.
+
 ## Tools
 
 * [Internet Archive Scholar](https://scholar.archive.org)

@@ -215,6 +215,14 @@
   
    - A new web-browser that focuses on esatblishing certain workflows with a lot of organisational features.
 
+- [Beacon Web Browser](https://impervious.com/beacon)
+  
+   - An **open-source** web browser with main focus on decentralisation.
+
+- [Beaker](https://github.com/beakerbrowser/beaker)
+  
+   - An **open-source** experimental bowser with focus on p2p.
+
 - [You](https://you.com)
   
    - A new private search search engine with focus on centrlizing the web around the user.
@@ -259,6 +267,10 @@
   
    - An **open-source** voice assistant.
 
+- [ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice)
+  
+   - An **open-source** voice home assistant.
+
 - [Kara](https://github.com/emileclarkb/Kara) & [Dragonfire](https://github.com/DragonComputer/Dragonfire)
   
    - **Open-source** voice assistant projects that are somehow inactive.
@@ -291,6 +303,10 @@
   
    - An **open-source** bookmarks manager with accompaning browser extension.
 
+- [Sqwok](https://sqwok.im)
+  
+   - A questions-based social platform. 
+
 ## Communities
 
 * [CV](https://read.cv)
@@ -308,3 +324,7 @@
 * [The IndieWeb](https://indieweb.org)
   
    * A community of people trying to bring decentralisation and autonomy in the web.
+
+* [Lists.sh](https://lists.sh)
+  
+   * A micro-blogging platform for "lists".

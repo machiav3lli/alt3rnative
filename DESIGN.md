@@ -82,6 +82,10 @@
   
    * An "awesome" list of different design tools for all different design fields.
 
+* [HUDS & GUIS](https://www.hudsandguis.com)
+  
+   * A collection of used UIs in science-fiction films. 
+
 ## Tools
 
 * [diagrams.net](https://www.diagrams.net)
@@ -210,7 +214,7 @@
 
 * [Edotor](https://github.com/nikeee/edotor.net)
   
-   * An **open-source** online Graphviz editor.
+   * An **open-source** online [Graphviz](https://graphviz.org) editor.
 
 * [Wikifactory](https://wikifactory.com)
   

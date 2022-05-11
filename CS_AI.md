@@ -64,6 +64,18 @@
   
    - An **open-source** cross-platform AI assistant (framework).
 
+* [PostgresML](https://github.com/postgresml/postgresml)
+  
+   * An **open-source** database(PostgreSQL)-based machine learning system.
+
+* [Vosk](https://github.com/alphacep/vosk-api)
+  
+   * An **open-source** offline multi-platform speech recognition API.
+
+* [WeNet](https://github.com/wenet-e2e/wenet)
+  
+   * An **open-source** E2E speech recognition toolkit.
+
 ## Communities
 
 * [EleutherAI](https://www.eleuther.ai)

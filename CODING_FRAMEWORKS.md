@@ -104,4 +104,20 @@
   
    * An **open-source** Python web framework & server with focus on running async code.
 
+* [Textualize](https://www.textualize.io)
+  
+   * An **open-source** TUI-apps development framework.
+
+* [Fonoster](https://github.com/fonoster/fonoster)
+  
+   * An **open-source** telecommunication stack, allowing connecting telephony services with the internet.
+
+* [Keycloak](https://www.keycloak.org)
+  
+   - An **open-source** identy and access management framework that supports decentralization.
+
+* [MapLibre](https://github.com/maplibre/maplibre-rs)
+  
+   * An **open-source** maps renderer.
+
 ## Communities

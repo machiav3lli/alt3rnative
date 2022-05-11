@@ -132,3 +132,7 @@
 - [slow social](https://slowsocial.us)
   
    - A social platform with focus on simple comunication between friends without giving a platform for influencers.
+
+- [Radiopaper](https://radiopaper.com/home)
+  
+   - A social platform based around public conversations.

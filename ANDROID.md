@@ -76,4 +76,8 @@
   
    * An **open-source** tool to create magisk flashable package with selected FOSS-apps.
 
+* [Fokus](https://github.com/icabetong/fokus-android)
+  
+   * An **open-source** todo-app for Android with focus on students specifically.
+
 ## Communities

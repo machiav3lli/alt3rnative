@@ -102,6 +102,10 @@
   
    * An **open-source** set of Material Design UI-Kits for web development.
 
+* [HyperUI](https://www.hyperui.dev)
+  
+   * An **open-source** collection of Tailwind CSS components.
+
 ## Tools
 
 - [jekyll](https://jekyllrb.com)
@@ -294,6 +298,14 @@
 * [GTmetrix](https://gtmetrix.com)
   
    * A tool to test website-load times with pretty informative feedback. be aware that it seems that the tool is ads-backed and you'll see a lot of product-suggestions on each corner.
+
+* [Astro](https://github.com/withastro/astro)
+  
+   * An **open-source** lightweight website build tool.
+
+* [Percival:](https://github.com/ekzhang/percival)
+  
+   * An **open-source**, custom tool Datalog compiler (and language) for A12.
 
 ## Communities
 

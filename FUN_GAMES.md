@@ -76,6 +76,14 @@
   
    * **Open-source** Karaoke games.
 
+* [Overgrowth](https://github.com/WolfireGames/overgrowth)
+  
+   * A **<u>partly</u>-open-source** adventure game.
+
+* [Battle of Flags](https://www.battle-of-flags.com)
+  
+   * A web-browser-based real time strategy.
+
 ## Communities
 
 * [Roleplayful](https://roleplayful.com)
