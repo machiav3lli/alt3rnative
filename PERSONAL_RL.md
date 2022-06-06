@@ -50,6 +50,18 @@
   
    * A platform to help find work places in the respective local/city.
 
+* [untools](https://untools.co)
+  
+   * A collection of thinking frameworks and models well described and curated.
+
+* [Dinosaur Pictures](https://dinosaurpictures.org)
+  
+   * A huge database of dinosaurs.
+
+* [Knots 3D](https://knots3d.com)
+  
+   * A rich database of different knots with 3D illustrations.
+
 ## Tools
 
 - [Eat This Much](https://www.eatthismuch.com)
@@ -127,6 +139,14 @@
 - [How to professionally say](https://github.com/AkashRajpurohit/howtoprofessionallysay)
   
    - An **open-source** database on formal alternatives for some sentences in context of work.
+
+- [Firefly III](https://www.firefly-iii.org)
+  
+   - An **open-source** personal finance management.
+
+- [Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)
+  
+   - An **open-source** personal finance management.
 
 ## Communities
 

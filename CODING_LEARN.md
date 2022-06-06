@@ -148,6 +148,10 @@
   
    - An **open-source** tool to create Anki cards from LeetCode training problems.
 
+- [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui)
+  
+   - An **open-source** desktop tool for downloading Udemy courses.
+
 ## Communities
 
 * [Engineer Man Knowledge](https://emkc.org)

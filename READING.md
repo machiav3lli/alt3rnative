@@ -54,6 +54,14 @@
   
    * A curated list of "bullshit-free" news.
 
+* [Good Books](https://www.goodbooks.io)
+  
+   * A platform with a huge collection of book recommendations.
+
+* [Rastero](https://rastero.io)
+  
+   * An AI-based search bot for books' contents.
+
 ## Tools
 
 * [Typesense open-library](https://books-search.typesense.org)

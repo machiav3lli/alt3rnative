@@ -64,6 +64,10 @@
   
    * An **open-source** web-based powerful spreadsheet editor.
 
+* [Dragonfly](https://github.com/dragonflydb/dragonfly)
+  
+   * An **open-source** in-memory database.
+
 ## Communities
 
 - [Database of Databases](https://dbdb.io)

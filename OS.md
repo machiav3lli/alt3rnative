@@ -30,6 +30,14 @@
   
    * An AUR alike but for Debian-based distros.
 
+* [deb-get](https://github.com/wimpysworld/deb-get)
+  
+   * An **open-source** tool to ease installing apps on debian-based distros.
+
+* [Chaotic-AUR](https://aur.chaotic.cx)
+  
+   * An arch repo with prebuilt packages from AUR.
+
 ## Tools
 
 * [Ventoy](https://www.ventoy.net/en/index.html)

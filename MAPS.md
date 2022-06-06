@@ -38,6 +38,10 @@
   
    * An open collection of maps with focus on green & social initiatives.
 
+* [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#240)
+  
+   * A pre-historical globe map of earth.
+
 ## Tools
 
 * [uMap](https://umap.openstreetmap.fr)
@@ -75,5 +79,9 @@
 * [Offroad](https://sourceforge.net/p/offroadosm/code/ci/master/tree)
   
    * An **open-source** offline OSM maps navigator.
+
+* [Headway](https://github.com/headwaymaps/headway)
+  
+   * An **open-source** to ease self-hosting OSM-maps.
 
 ## Communities

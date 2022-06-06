@@ -76,6 +76,10 @@
   
    * An **open-source** tool for researchers to extract and analyze scientific data from visualizations and interactive explorations.
 
+* [Flourish](https://flourish.studio)
+  
+   * A freemium tool for easy data visualization.
+
 ## Communities
 
 * [ResearchHub](https://www.researchhub.com)

@@ -34,6 +34,14 @@
   
    - A huge collection of public domain classic artworks.
 
+* [Openverse](https://wordpress.org/openverse/)
+  
+   * A search engine for free content. Is a project of Wordpress.org and supports audio too.
+
+* [mixkit](https://mixkit.co)
+  
+   - A platform with a collection of free stock videos, music and pictures, that are mostly free.
+
 ## Tools
 
 * [Stingle Photos](https://stingle.org)
@@ -91,6 +99,10 @@
 * [Cascade](https://github.com/ttddee/Cascade)
   
    * An **open-source** node-based image editor.
+
+* [Profile Pic Maker](https://pfpmaker.com)
+  
+   * A web app to create/edit profile pictures.
 
 ## Communities
 

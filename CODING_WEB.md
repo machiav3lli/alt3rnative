@@ -305,7 +305,11 @@
 
 * [Percival:](https://github.com/ekzhang/percival)
   
-   * An **open-source**, custom tool Datalog compiler (and language) for A12.
+   * An **open-source** declarative data query & visualization compiler(language) usable in a notebook format.
+
+* [whatruns](https://www.whatruns.com)
+  
+   * A browser extension to identify the technologies, fonts etc… used to run the visited websites.
 
 ## Communities
 

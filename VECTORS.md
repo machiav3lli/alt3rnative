@@ -128,4 +128,12 @@
   
    * An **open-source** online sketching app.
 
+* [blush](https://blush.design)
+  
+   * A platform with huge collection of customizable (partly free-to-use) illustrations.
+
+* [CSprite](https://github.com/pegvin/CSprite)
+  
+   * An **open-source** lightweight pixel art tool.
+
 ## Communities

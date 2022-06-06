@@ -40,4 +40,8 @@
   
    * An **open-source** peer2peer cross-platform automateable web browser/scraper/proxy.
 
+* [Boavizta](https://boavizta.org)
+  
+   * A platform with a set of **open-source** tools to evaluate the environmental impact of technologies in organizations.
+
 ## Communities

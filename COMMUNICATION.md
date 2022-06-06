@@ -142,4 +142,12 @@
   
    - An **open-source** email client with a touch of the modern communication.
 
+- [Nertivia](https://github.com/Nertivia)
+  
+   - An **open-source** chat app with server and client.
+
+- [LogChimp](https://github.com/logchimp/logchimp)
+  
+   - An **open-source** self-hostable platform to manage cosutmers feedback.
+
 ## Communities

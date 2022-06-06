@@ -41,6 +41,10 @@
   
    - A platform to educate about the full spectrum of digital fingerprinting beside cookies and IP addresses.
 
+- [Verica Open Incedent Database (VOID)](https://www.thevoid.community)
+  
+   - A huge database of community-sourced software-related incidents.
+
 ## Tools
 
 * [Cutter](https://cutter.re)
@@ -94,6 +98,10 @@
 * [OpenVAS - Greenbone](https://github.com/greenbone/)
   
    * A company-backed **open-source** vulnerability assessment scanner.
+
+* [Privacy Label](https://www.privacylabel.org)
+  
+   * A scientifically developed privacy visualisation that's allows for more transparent and wiht not effort on the developers' side.
 
 ## Communities
 

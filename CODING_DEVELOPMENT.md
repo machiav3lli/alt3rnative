@@ -381,3 +381,7 @@
 * [Open Gamedev School by Spicy Lobster](https://spicylobster.itch.io/fishfight/devlog/345530/open-gamedev-school)
   
    * An interesting community call to learn game development and collaborate on **open-source** games.
+
+* [Earthly](https://earthly.dev)
+  
+   * An **open-source** CI/CD toolset.

@@ -281,7 +281,7 @@
 
 - [Marginalia](https://search.marginalia.nu)
   
-   - An indie search engine with focus on not prioritising search results (e.g. SEO).
+   - An **open-source** indie search engine with focus on not prioritising search results (e.g. SEO).
 
 - [Xtreme Download Manager](https://github.com/subhra74/xdm)
   
@@ -305,7 +305,27 @@
 
 - [Sqwok](https://sqwok.im)
   
-   - A questions-based social platform. 
+   - A questions-based social platform.
+
+- [elestio](https://elest.io)
+  
+   - An **open-source** tool to manage the server deployment of open-source apps.
+
+- [DiffChecker](https://www.diffchecker.com)
+  
+   - A tool to check differences between different types of media files (texts, pdf, excel & pictures).
+
+- [Firezone](https://github.com/firezone/firezone)
+  
+   - An **open-source** VPN & Firewall easy-to-deploy server.
+
+- [Kagi](https://kagi.com)
+  
+   - A privacy-focused freemium feature-rich search engine.
+
+- [Programmer-Browser](https://github.com/yessGlory17/programmer-browser)
+  
+   - An **open-source** web browser focused on being non-disturbing and multi-tasking friendly.
 
 ## Communities
 

@@ -32,7 +32,23 @@
 
 * [Audius](https://audius.co)
   
-   * An **open-source** blockchain-based platform for low-profile music. 
+   * An **open-source** blockchain-based platform for low-profile music.
+
+* [CC Mixter](http://beta.ccmixter.org)
+  
+   * A collection of free music or music samples for you to hear or to sample.
+
+* [The Radio CC](https://theradio.cc)
+  
+   * A radio channel (in German mainly) for free music and crowd-sourced programs on a big set of topics (there's enough amount of geekness).
+
+* [soma fm](https://somafm.com)
+  
+   * A collection of categorised channels to listen to commercial-free music (mostly alternative).
+
+* [mixkit](https://mixkit.co)
+  
+   - A platform with a collection of free stock videos, music and pictures, that are mostly free.
 
 ## Tools
 

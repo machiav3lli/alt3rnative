@@ -68,6 +68,14 @@
   
    * An **open-source** browser extension to get the rating of the ToS of the sites you visit. The rating is crowd-sourced.
 
+* [Portmaster](https://github.com/safing/portmaster/)
+  
+   * An **open-source** device connection controller.
+
+* [Obfuscate](https://gitlab.com/vincenttunru/obfuscate)
+  
+   * An **open-source** browser extension to make text in screenshots unreadable.
+
 ## Communities
 
 * [Data Detox Kit](https://datadetoxkit.org)

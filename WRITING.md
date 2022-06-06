@@ -124,6 +124,10 @@
   
    * An **open-source** feature-rich markdown-based editor. Also has a [mobile client](https://github.com/WizTeam/WizNoteLiteMobile).
 
+* [GitNoter](https://github.com/git-noter/gitnoter)
+  
+   * An **open-source** git-based note taking web app.
+
 * [GitJournal](https://github.com/GitJournal/GitJournal)
   
    * An **open-source** markdown-based note taking integrated into Git for Android.
@@ -170,6 +174,22 @@
 
 * [CoverView](https://github.com/rutikwankhade/CoverView)
   
-   * An **open-source** cover images generator. 
+   * An **open-source** cover images generator.
+
+* [Good Write](https://goodwrite.app)
+  
+   * A tool using AI to help you improve your writing.
+
+* [MemLink](https://meml.ink)
+  
+   * A tool to create block-based pages embeded in a web link to easily share.
+
+* [Feather Wiki](https://feather.wiki)
+  
+   - An **open-source** tool to easily create web wikis or notebooks.
+
+* [PDFrankenstein](https://github.com/oxplot/pdfrankenstein)
+  
+   * An **open-source** PDF annotator.
 
 ## Communities

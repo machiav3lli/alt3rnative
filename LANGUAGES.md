@@ -70,4 +70,8 @@
   
    - An **open-source** desktop translation app using a combination of Google Translate and LibreTranslate.
 
+- [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations)
+  
+   - An offline-translation Firefox extension.
+
 ## Communities

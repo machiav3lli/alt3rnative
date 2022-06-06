@@ -26,6 +26,14 @@
   
    * A curate collection of educational YT channels categorized based on topic/field.
 
+* [coverr](https://coverr.co)
+  
+   * A platform with a good amount of free stock video footages.
+
+* [mixkit](https://mixkit.co)
+  
+   * A platform with a collection of free stock videos, music and pictures, that are mostly free.
+
 ## Tools
 
 * [Owncast](https://owncast.online)
@@ -91,6 +99,10 @@
 * [Pitvi](https://gitlab.gnome.org/GNOME/pitivi)
   
    * An **open-source** video editing app.
+
+* [lumen5](https://lumen5.com)
+  
+   * A freemium web app to easily create videos.
 
 ## Communities
 
