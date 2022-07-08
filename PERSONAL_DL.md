@@ -10,7 +10,7 @@
   
    * A cloud service provider that focuses on letting you run your choice of OS remotely.
 
-* [Progressive App Store](https://progressiveapp.store/home)
+* [Progressive Web App Store](https://progressivewebapp.store)
   
    - A platform for progressive web apps, where you may find your next alternative social tool.
 

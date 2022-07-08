@@ -73,7 +73,7 @@
 
 * [Franz](https://meetfranz.com)
   
-   * Your premium messaging browser with an **open-source branch**. There is also a fully **open-source** hard fork under the name, [Fredi](https://getferdi.com).
+   * Your premium messaging browser with an **open-source branch**. There is also a fully **open-source** hard fork under the name, [Ferdi](https://getferdi.com).
 
 * [Pidgin](https://www.pidgin.im)
   
