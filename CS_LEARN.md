@@ -82,6 +82,10 @@
   
    * A set of informative articles with the aim of risk-aware software development.
 
+* [ACM Digitaal Library](https://dl.acm.org)
+  
+   * A huge and free library concerned with computing sciences.
+
 ## Tools
 
 * [Cryptii](https://cryptii.com)

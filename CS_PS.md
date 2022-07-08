@@ -45,6 +45,10 @@
   
    - A huge database of community-sourced software-related incidents.
 
+- [Concise Encoding](https://concise-encoding.org)
+  
+   - An initiative for standrdized advanced and secure communication.
+
 ## Tools
 
 * [Cutter](https://cutter.re)
@@ -102,6 +106,14 @@
 * [Privacy Label](https://www.privacylabel.org)
   
    * A scientifically developed privacy visualisation that's allows for more transparent and wiht not effort on the developers' side.
+
+* [Proxyman](https://github.com/ProxymanApp/Proxyman)
+  
+   * An **open-source** multi-platfrom web debugging proxy.
+
+* [Privaxy](https://github.com/Barre/privaxy)
+  
+   - An **open-source** tracker and ads blocker using MITM.
 
 ## Communities
 

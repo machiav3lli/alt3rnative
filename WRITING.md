@@ -192,4 +192,8 @@
   
    * An **open-source** PDF annotator.
 
+* [Rytr](https://rytr.me)
+  
+   * An AI-based writing assistant.
+
 ## Communities

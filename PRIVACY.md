@@ -76,6 +76,10 @@
   
    * An **open-source** browser extension to make text in screenshots unreadable.
 
+* [Privaxy](https://github.com/Barre/privaxy)
+  
+   * An **open-source** tracker and ads blocker using MITM.
+
 ## Communities
 
 * [Data Detox Kit](https://datadetoxkit.org)

@@ -84,7 +84,15 @@
 
 * [HUDS & GUIS](https://www.hudsandguis.com)
   
-   * A collection of used UIs in science-fiction films. 
+   * A collection of used UIs in science-fiction films.
+
+* [designer.tips](https://www.designer.tips)
+  
+   * A premium platform providing tips on design.
+
+* [DESIGN KIT](https://www.designkit.org)
+  
+   - A test & research group with focus on Human-Centered Design.
 
 ## Tools
 

@@ -104,6 +104,18 @@
   
    * A web app to create/edit profile pictures.
 
+* [screenshot.rocks](https://github.com/daveearley/screenshot.rocks)
+  
+   * An **open-source** web-app to easily create screenshots mockups.
+
+* [AI. IMAGE ENLARGER](https://imglarger.com)
+  
+   * A web-app to enhance pictures' quality.
+
+* [Magic Eraser](https://www.magiceraser.io)
+  
+   * A web-app to remove things from images.
+
 ## Communities
 
 - [Glass](https://glass.photo)

@@ -327,6 +327,22 @@
   
    - An **open-source** web browser focused on being non-disturbing and multi-tasking friendly.
 
+- [Replika](https://replika.ai)
+  
+   - An AI-based tamagochi-like companion.
+
+- [Reader View](https://github.com/rNeomy/reader-view)
+  
+   - An **open-source** browser extension that provides a feature-rich reader view based on Mozilla's implementation.
+
+- [Umbrel](https://github.com/getumbrel/umbrel)
+  
+   - An **open-source** personal server OS for easy self-hosting.
+
+- [Weylus](https://github.com/H-M-H/Weylus)
+  
+   - An **open-source** app to use a tablet as graphic tablet/touch screen on your computer.
+
 ## Communities
 
 * [CV](https://read.cv)

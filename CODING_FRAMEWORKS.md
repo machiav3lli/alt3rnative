@@ -120,4 +120,8 @@
   
    * An **open-source** maps renderer.
 
+* [CodeMirror](https://github.com/codemirror)
+  
+   * An **open-source** text-editor framework for the web.
+
 ## Communities

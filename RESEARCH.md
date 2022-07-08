@@ -34,6 +34,10 @@
   
    * A platform that aims to be encycopedia of mathematical proofs.
 
+* [fasteR](https://github.com/matloff/fasteR)
+  
+   * An **open-source** course to learn R.
+
 ## Tools
 
 * [Internet Archive Scholar](https://scholar.archive.org)

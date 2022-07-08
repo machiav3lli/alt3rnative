@@ -57,7 +57,7 @@
 
 * [BookStack](https://www.bookstackapp.com)
   
-   * Free **open-source** self-hosted writing platform
+   * Free **open-source** self-hosted writing & wiki platform
 
 * [WriteNext](https://www.writenext.io)
   

@@ -115,6 +115,10 @@
   
    - An **open-source** wikipedia frontend with focus on simplicity and modern design.
 
+- [ZotFile](https://github.com/jlegewie/zotfile)
+  
+   - An **open-source** plugin for Zotero to allow advanced management of PDFs/attachments.
+
 ## Community
 
 * [ResearchGate](https://www.researchgate.net)

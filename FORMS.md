@@ -6,7 +6,7 @@
   
    - An only by donation financed free spreadsheet platform. It's only available in German.
 
-- [Dudle]()https://dudle.inf.tu-dresden.de)
+- [Dudle](https://dud-poll.inf.tu-dresden.de)
   
    - An **open-source** and free scheduling platform only meant for research reasons.
 
@@ -39,5 +39,9 @@
 - [formsflow.ai](https://github.com/AOT-Technologies/forms-flow-ai)
   
    - An **open-source** self-hostable low-code forms creator and manager tool.
+
+- [Jotform](https://www.jotform.com)
+  
+   - A freemium platform to create formulars.
 
 ## Communities
