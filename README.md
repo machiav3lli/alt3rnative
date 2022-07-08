@@ -24,6 +24,8 @@ Each of the topics covers a realm of resources, tools and communities.
   
    * [Development](CODING_DEVELOPMENT.md)
   
+   * [Kotlin](CODING_KOTLIN.md)
+  
    * [Web-Development](CODING_WEB.md)
 
 * [Collaboration](COLLABORATION.md)
