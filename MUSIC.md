@@ -60,10 +60,6 @@
   
    * Web-based **open-source** audio editor.
 
-* [Echoes Player](https://echoesplayer.com)
-  
-   * **Open-source** media player for youtube.
-
 * [Tunefind](https://www.tunefind.com)
   
    * Find the music you heard in a movie or a series.
