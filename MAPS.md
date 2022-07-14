@@ -84,4 +84,8 @@
   
    * An **open-source** to ease self-hosting OSM-maps.
 
+* [Felt](https://felt.com)
+  
+   * A platform to create custom maps.
+
 ## Communities

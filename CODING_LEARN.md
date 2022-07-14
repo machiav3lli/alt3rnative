@@ -130,6 +130,10 @@
   
    - A learning platform for programming but also covers the general concepts of CS.
 
+* [Vimified](https://www.vimified.com)
+  
+   * An interactive lesson to learn Vim.
+
 ## Tools
 
 - [Slip](https://www.slip.so)
@@ -151,6 +155,10 @@
 - [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui)
   
    - An **open-source** desktop tool for downloading Udemy courses.
+
+- [Turtle Graphics](https://github.com/AmrDeveloper/Turtle)
+  
+   - An **open-source** Android app to learn programming for kids, based on Turtle Graphics/Logo.
 
 ## Communities
 

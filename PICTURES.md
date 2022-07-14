@@ -116,6 +116,10 @@
   
    * A web-app to remove things from images.
 
+* [Clean up photos](https://cleanupphotos.com)
+  
+   * A free tool to remove objects from images.
+
 ## Communities
 
 - [Glass](https://glass.photo)

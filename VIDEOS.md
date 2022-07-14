@@ -104,6 +104,10 @@
   
    * A freemium web app to easily create videos.
 
+* [Astrofox](https://github.com/astrofox-io/astrofox)
+  
+   * An **open-source** motion graphics tool to build videos based on music.
+
 ## Communities
 
 * [DRM-Free Guide](https://www.defectivebydesign.org/guide)

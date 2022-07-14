@@ -344,6 +344,10 @@
   
    * An **open-source** low-code platform for building internal tools.
 
+* [Kandi](https://kandi.openweaver.com)
+  
+   * A huge database for code snippets, libraries and frameworks.
+
 ## Communities
 
 * [Free Dev Stuff](https://freestuff.dev)
@@ -385,3 +389,7 @@
 * [Earthly](https://earthly.dev)
   
    * An **open-source** CI/CD toolset.
+
+* [RemoteFriendly](https://remotefriendly.com)
+  
+   * A community platform for remote-friendly jobs around the globe.

@@ -160,6 +160,10 @@
   
    * An **open-source** kanban-based self-hostable collaboration platform with a good concepation.
 
+* [Yboard](https://github.com/felipeleivav/yboard)
+  
+   * An **open-source** colaboration workspace including whiteboard, todos, notes, chat etc…
+
 ## Communities
 
 * [Framasoft](https://framasoft.org/en)

@@ -84,6 +84,10 @@
   
    * A freemium tool for easy data visualization.
 
+* [Tropy](https://github.com/tropy/tropy)
+  
+   * An **open-source** photo organizer focused on research photos.
+
 ## Communities
 
 * [ResearchHub](https://www.researchhub.com)

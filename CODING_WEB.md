@@ -110,6 +110,10 @@
   
    * A blog with design tips concerning CSS.
 
+* [Vite](https://main.vitejs.dev)
+  
+   * An **open-source** js-framework with focus on speed.
+
 ## Tools
 
 - [jekyll](https://jekyllrb.com)
@@ -314,6 +318,18 @@
 * [whatruns](https://www.whatruns.com)
   
    * A browser extension to identify the technologies, fonts etc… used to run the visited websites.
+
+* [Coolify](https://coolify.io)
+  
+   * An **open-source** graphical docker-apps-manager.
+
+* [Publi](https://getpublii.com)
+  
+   * An **open-source** graphical static-site-generator.
+
+* [Aspect](https://sample-code.aspect.app)
+  
+   * A browser extension that allows to easily copy react code from websites.
 
 ## Communities
 

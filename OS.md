@@ -114,7 +114,11 @@
 
 * [Howdy](https://github.com/boltgolt/howdy)
   
-   * An **open-source** app to improve face recognition on Loinux. 
+   * An **open-source** app to improve face recognition on Loinux.
+
+* [Barrier](https://github.com/debauchee/barrier)
+  
+   * An **open-source** KVM manager.
 
 ## Communities
 

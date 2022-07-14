@@ -86,6 +86,10 @@
   
    * A huge and free library concerned with computing sciences.
 
+* [Open Logic Project](https://openlogicproject.org)
+  
+   * An **open-source** project providing learn materials on mathematical aimed at non-mathmatical audience.
+
 ## Tools
 
 * [Cryptii](https://cryptii.com)

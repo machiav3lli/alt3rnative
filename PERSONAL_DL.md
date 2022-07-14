@@ -343,6 +343,34 @@
   
    - An **open-source** app to use a tablet as graphic tablet/touch screen on your computer.
 
+- [Frog](https://github.com/TenderOwl/Frog)
+  
+   - An **open-source** text extraction (OCR) tool.
+
+- [Hello](https://beta.sayhello.so)
+  
+   - A search engine conceptualized for devemopers.
+
+- [Life Stats](https://neal.fun/life-stats/)
+  
+   - A graphical visualization of stats related to your birthday.
+
+- [Feed Visualizer](https://github.com/code2k13/feed-visualizer)
+  
+   - An **open-source** app to create visualizations based on semantic of RSS/Atom feed items.
+
+- [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+  
+   - An **open-source** app that adds OCR text layer to PDFs.
+
+- [RSS Please](https://github.com/wezm/rsspls)
+  
+   - An **open-source** tool to create RSS-Feeds from websites that don't provide them.
+
+- [Wiby](https://github.com/wibyweb/wiby)
+  
+   - An **open-source** simple search engine with focus on being private one.
+
 ## Communities
 
 * [CV](https://read.cv)

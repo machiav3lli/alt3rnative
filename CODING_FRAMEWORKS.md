@@ -124,4 +124,8 @@
   
    * An **open-source** text-editor framework for the web.
 
+* [Pocketbase](https://github.com/pocketbase/pocketbase)
+  
+   * An **open-source** 1-file realtime backend.
+
 ## Communities

@@ -50,6 +50,10 @@
   
    - A platform with a collection of free stock videos, music and pictures, that are mostly free.
 
+* [Piano Trainer](https://github.com/ZaneH/piano-trainer)
+  
+   * An **open-source** app to learn & practice piano.
+
 ## Tools
 
 * [AudioMass](https://audiomass.co)
@@ -116,6 +120,10 @@
   
    * An **open-source** alternative Youtube Music frontend.
 
+* [ytmdesktop2](https://github.com/Venipa/ytmdesktop2)
+  
+   - An **open-source** alternative Youtube Music frontend. Doesn't relate to the above one.
+
 * [AUX](https://aux.app)
   
    * A freemium collaboration platform on music projects. Still in early development.
@@ -127,6 +135,22 @@
 * [NoiseCraft](https://github.com/maximecb/noisecraft)
   
    * An **open-source** visual progrmming language for sound synthesis.
+
+* [Harmonoid](https://github.com/harmonoid/harmonoid)
+  
+   * An **open-source** feature-rich music player with support for Youtube music.
+
+* [Blanket](https://github.com/rafaelmardojai/blanket)
+  
+   * An **open-source** desktop app to generate natural, relaxing noises.
+
+* [LMMS](https://lmms.io)
+  
+   * An **open-source** music editor and platform.
+
+* [Ardour](https://ardour.org)
+  
+   - An **open-source** advanced music editor.
 
 ## Communities
 

@@ -80,4 +80,8 @@
   
    * An **open-source** todo-app for Android with focus on students specifically.
 
+* [Serenity](https://github.com/YajanaRao/Serenity)
+  
+   * An **open-source** app combining music, meditation and podcasts.
+
 ## Communities

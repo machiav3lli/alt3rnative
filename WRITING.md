@@ -196,4 +196,8 @@
   
    * An AI-based writing assistant.
 
+* [Brevity](https://brevity500.com)
+  
+   * A set of mini-games to help you improve your writing.
+
 ## Communities
